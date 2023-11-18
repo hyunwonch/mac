@@ -1,0 +1,200 @@
+2023/5/1
+[[Future directions in psychiatric neurosurgery: Proceedings of the 2022 American Society for Stereotactic and Functional Neurosurgery meeting on surgical neuromodulation for …]]
+[[Frederick L Hitti]], [[Alik S Widge]], [[Patricio Riva-Posse]], [[Donald A Malone Jr]], [[Michael S Okun]], [[Maryam M Shanechi]], [[Kelly D Foote]], [[Sarah H Lisanby]], [[Elizabeth Ankudowich]], [[Srinivas Chivukula]], [[Edward F Chang]], [[Aysegul Gunduz]], [[Clement Hamani]], [[Ashley Feinsinger]], [[Cynthia S Kubu]], [[Winston Chiong]], [[Jennifer A Chandler]], [[Rafael Carbunaru]], [[Binith Cheeran]], [[Robert S Raike]], [[Rachel A Davis]], [[Casey H Halpern]], [[Nora Vanegas-Arroyave]], [[Dejan Markovic]], [[Sarah K Bick]], [[Cameron C McIntyre]], [[R Mark Richardson]], [[Darin D Dougherty]], [[Brian H Kopell]], [[Jennifer A Sweet]], [[Wayne K Goodman]], [[Sameer A Sheth]], [[Nader Pouratian]]
+Brain Stimulation
+-------------------------------------------------------------------------------------------------------------------------
+2023/4/11
+[[Multilevel Calibration procedure for the oral health national multicentre survey in primary teeth.]]
+[[Dejan Markovic]], [[Ana Vukovic]], [[Ivan Soldatovic]], [[Tamara Peric]], [[Biljana Kilibarda]], [[Ruxandra Sava Rosianu]], [[Guglielmo Campus]]
+International journal of paediatric dentistry
+-------------------------------------------------------------------------------------------------------------------------
+2023/3
+[[A wearable platform for closed-loop stimulation and recording of single-neuron and local field potential activity in freely moving humans]]
+[[Uros Topalovic]], [[Sam Barclay]], [[Chenkai Ling]], [[Ahmed Alzuhair]], [[Wenhao Yu]], [[Vahagn Hokhikyan]], [[Hariprasad Chandrakumar]], [[Dejan Rozgic]], [[Wenlong Jiang]], [[Sina Basir-Kazeruni]], [[Sabrina L Maoz]], [[Cory S Inman]], [[Matthias Stangl]], [[Jay Gill]], [[Ausaf Bari]], [[Aria Fallah]], [[Dawn Eliashiv]], [[Nader Pouratian]], [[Itzhak Fried]], [[Nanthia Suthana]], [[Dejan Markovic]]
+Nature neuroscience
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/27
+[[A 16-nm 784-Core Digital Signal Processor Array, Assembled as a 2× 2 Dielet With 10-μm Pitch Interdielet I/O for Runtime Multiprogram Reconfiguration]]
+[[Sumeet Singh Nagi]], [[Uneeb Rathore]], [[Krutikesh Sahoo]], [[Tim Ling]], [[Subramanian S Iyer]], [[Dejan Marković]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2022/9/27
+[[Oral health in 12-and 15-year-old children in Serbia: A national pathfinder study]]
+[[Tamara Peric]], [[Guglielmo Campus]], [[Evgenija Markovic]], [[Bojan Petrovic]], [[Ivan Soldatovic]], [[Ana Vukovic]], [[Biljana Kilibarda]], [[Jelena Vulovic]], [[Jovan Markovic]], [[Dejan Markovic]]
+International journal of environmental research and public health
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/5
+[[A 6.78-MHz Burst-Mode Controlled Inductive Wireless Power Transfer System for Biomedical Implants With Back-Channel Communication Eliminated Using Transmitter Q-Factor Detection]]
+[[Usama Anwar]], [[Zhaoyi Liu]], [[Dejan Markovic]]
+IEEE Journal of Emerging and Selected Topics in Power Electronics
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/31
+[[Functional demonstration of< 0.4-pJ/bit, 9.8 μm fine-pitch dielet-to-dielet links for advanced packaging using silicon interconnect fabric]]
+[[Krutikesh Sahoo]], [[Uneeb Rathore]], [[Siva Chandra Jangam]], [[Tri Nguyen]], [[Dejan Markovic]], [[Subramanian S Iyer]]
+2022 IEEE 72nd Electronic Components and Technology Conference (ECTC)
+-------------------------------------------------------------------------------------------------------------------------
+2022/3/23
+[[Towards a leadless wirelessly controlled intravenous cardiac pacemaker]]
+[[Usama Anwar]], [[Olujimi A Ajijola]], [[Kalyanam Shivkumar]], [[Dejan Marković]]
+IEEE Transactions on Biomedical Engineering
+-------------------------------------------------------------------------------------------------------------------------
+2022/3/16
+[[Biocompatibility and Antibacterial Potential of the Cinnamomum camphora cineoliferum (L.) J. Presl. and Melaleuca ericifolia Sm.]]
+[[Jelena Marinkovic]], [[Tatjana Markovic]], [[Biljana Nikolić]], [[Ana Ciric]], [[Dragana Mitić-Ćulafić]], [[Aleksandar Krstic]], [[Dusan Pavlica]], [[Tamara Vlajic]], [[Dejan Markovic]]
+Taylor & Francis Online
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/20
+[[A 16nm 785GMACs/J 784-Core Digital Signal Processor Array With a Multilayer Switch Box Interconnect, Assembled as a 2× 2 Dielet with 10μm-Pitch Inter-Dielet I/O for Runtime …]]
+[[Uneeb Rathore]], [[Sumeet Singh Nagi]], [[Subramanian Iyer]], [[Dejan Marković]]
+2022 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2022/1/2
+[[Biocompatibility and Antibacterial Potential of the Cinnamomum camphora cineoliferum (L.) J. Presl. and Melaleuca ericifolia Sm. Essential Oils Against Facultative …]]
+[[Jelena Marinkovic]], [[Tatjana Markovic]], [[Biljana Nikolic]], [[Ana Ciric]], [[Dragana Mitic-Culafic]], [[Stefana Dukanovic]], [[Aleksandar Krstic]], [[Dusan Pavlica]], [[Tamara Vlajic]], [[Dejan Markovic]]
+Journal of Essential Oil Bearing Plants
+-------------------------------------------------------------------------------------------------------------------------
+2022
+[[Methodology and Multilevel Calibration procedure for the oral health national multicenter survey in primary teeth]]
+[[Dejan Markovic]], [[Ana Vukovic]], [[Ivan Soldatovic]], [[Tamara Peric]], [[Biljana Kilibarda]], [[Ruxandra Sava Rosianu]], [[Guglielmo Campus]]
+Methodology and Multilevel Calibration procedure for the oral health national multicenter survey in primary teeth Укључи/искључи навигацију SMILE - Репозиторијум Стоматолошког факултета Универзитет у Београду - Стоматолошки факултет English Српски Српски (Serbia) Српски (ћирилица) Енглески Српски (ћирилица) Српски (латиница) Пријава Укључи/искључи навигацију Преглед записа SMILE Stomatološki fakultet Primarni podaci Преглед записа SMILE Stomatološki fakultet Primarni podaci Преглед записа Methodology and Multilevel Calibration procedure for the oral health national multicenter survey in primary teeth Нема приказа 2022 !Finaldatabaseraw_primary.xlsx (59.05Kb) Аутори Markovic, Dejan Vukovic, Ana Soldatovic, Ivan Peric, Tamara Kilibarda, Biljana Sava Rosianu, Ruxandra Campus, Guglielmo Скуп података (Радна верзија) Метаподаци Приказ свих података о …
+-------------------------------------------------------------------------------------------------------------------------
+2021/12
+[[Dental Treatment and Oral Rehabilitation for Adults With Intellectual Disability Under General Anesthesia]]
+[[Gorana Mastilovic]], [[Bojan Petrovic]], [[Tamara Peric]], [[Jelena Pantelinac]], [[Evgenija Markovic]], [[Dejan Markovic]]
+Journal of Policy and Practice in Intellectual Disabilities
+-------------------------------------------------------------------------------------------------------------------------
+2021/11/10
+[[Pediatric Dentists’ Service Provisions in South-East Europe during the first wave of COVID-19 epidemic: Lessons learned about preventive measures and personal protective …]]
+[[Ana Vuković]], [[Stefan Mandić-Rajčević]], [[Ruxandra Sava-Rosianu]], [[Marcela D Betancourt]], [[Edit Xhajanka]], [[Neada Hysenaj]], [[Elmedin Bajric]], [[Amila Zukanović]], [[Vrassidas Philippides]], [[Marios Zosimas]], [[Maroufidis Nikolaos]], [[Zoran Vlahović]], [[Marijan Denkovski]], [[Tamara Peric]], [[Dejan Markovic]], [[Guglielmo Campus]]
+International journal of environmental research and public health
+-------------------------------------------------------------------------------------------------------------------------
+2021/11/1
+[[The COVID-19 pandemic and its global effects on dental practice. An international survey]]
+[[Guglielmo Campus]], [[M Diaz Betancourt]], [[Maria Grazia Cagetti]], [[Rodrigo A Giacaman]], [[David J Manton]], [[Gail VA Douglas]], [[Thiago Saads Carvalho]], [[Joana Christina Carvalho]], [[A Vukovic]], [[Francisco Javier Cortés-Martinicorena]], [[D Bourgeois]], [[Vita MacHiulskiene]], [[Ruxandra Sava-Rosianu]], [[Jogikalmat Krithikadatta]], [[N Sergeevna Morozova]], [[Ana María Acevedo]], [[AA Agudelo-Suarez]], [[G Aguirre]], [[K Aguirre]], [[I Alfonso]], [[HA Ghaffar]], [[RA El Fadl]], [[SA Al Maghlouth]], [[Teresa Almerich-Torres]], [[Francesca Amadori]], [[K Antia]], [[Elmedin Bajric]], [[Diana-María Barbosa-Liz]], [[S Ben-Tanfous]], [[H Bieber]], [[Sneha Bhusari]], [[S Birch]], [[Giuliana Bontà]], [[Peter Bottenberg]], [[JJ Bruers]], [[L Bustillos]], [[P Bührens]], [[J Cai]], [[JL Cairoli]], [[FCA Carrer]], [[MB Correa]], [[B Cortés-Acha]], [[F Carrouel]], [[R de Carvalho Oliveira]], [[F Cocco]], [[F Crombie]], [[JI Csikar]], [[D Declerck]], [[M Denkovski]], [[J Deschner]], [[J Dopico-San Martin]], [[O Viktorovna Dudnik]], [[WY Escobar]], [[A Elwishahy]], [[CE Fernandez]], [[M Fontana]], [[A Frattaroli Pericchi]], [[M Ghorbe]], [[E Gigineishvili]], [[A Garcia Quintana]], [[J Gray]], [[N Gugnani]], [[K Gambetta-Tessini]], [[A Haider]], [[M Hopcraft]], [[J Hüttmann]], [[N Hysenaj]], [[A Jalal]], [[M Jikia]], [[J John]], [[G Kaps-Richter]], [[T Kerber Tedesco]], [[S Leon]], [[KA Levin]], [[H Pau Lew]], [[M Aperecida Moreira Machado]], [[A Beneictovna MacLennan]], [[J Onome Mafeni]], [[M Minatel Braga]], [[JM Montiel-Company]], [[A Malerba]], [[S Mandić-Rajčević]], [[A Askerovich Mamedo]], [[SA Mani]], [[O Marouane]], [[D Markovic]], [[E Paredes Martinez]], [[N Maroufidis]], [[F Medeiros Mendes]], [[CF Mendez]], [[S Musa]], [[A Necibi]], [[N Azlida Mohd Nor]], [[B Tochukwu Ojukwu]], [[N Opdam]], [[L Ottolenghi]], [[J Owen]], [[A Passaro]], [[IF Persoon]], [[T Peric]], [[E Pesaressi-Torres]], [[V Philippides]], [[SP Plaza-Ruiz]], [[D Procida Raggio]], [[FJ Rivas Cartagena]], [[F Ramos-Gomez]], [[M Sabashvili]], [[G Solis Sanchez]], [[R Villena Sarmiento]], [[H Schrader]], [[S Serban]], [[R Bairstow]], [[A Senna]], [[B Shi]], [[CPC Sim]], [[E Slabsinskiene]], [[G Spagnuolo]], [[AF Squassi]], [[O Olufemi Taiwo]], [[A Thodhorjani]], [[P Tietler]], [[CMC Volgenant]], [[MH van der Veen]], [[Z Vlahovic]], [[A Visaria]], [[Y Romero Uzcategui]], [[E Xhajanka]], [[Q Yan]], [[O Zeng]], [[O Zeyer]], [[A Zukanovic]], [[TG Wolf]]
+Journal of dentistry
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/19
+[[A Multi-Domain Architectural Efficiency Metric]]
+[[Sumeet Singh Nagi]], [[Dejan Markovic]]
+2021 IEEE Workshop on Signal Processing Systems (SiPS)
+-------------------------------------------------------------------------------------------------------------------------
+2021/9/15
+[[Estimating the effects of dental caries and its restorative treatment on periodontal inflammatory and oxidative status: A short controlled longitudinal study]]
+[[Tatjana Kanjevac]], [[Ervin Taso]], [[Vladimir Stefanovic]], [[Aleksandra Petkovic-Curcin]], [[Gordana Supic]], [[Dejan Markovic]], [[Mirjana Djukic]], [[Boris Djuran]], [[Danilo Vojvodic]], [[Anton Sculean]], [[Mia Rakic]]
+Frontiers in immunology
+-------------------------------------------------------------------------------------------------------------------------
+2021/9/1
+[[Long-term cost-effectiveness of glass hybrid versus composite in permanent molars]]
+[[Falk Schwendicke]], [[Matteo Basso]], [[Dejan Markovic]], [[Lezize Sebnem Turkun]], [[Ivana Miletić]]
+Journal of Dentistry
+-------------------------------------------------------------------------------------------------------------------------
+2021/9/1
+[[In Vivo Intravascular Pacing Using a Wireless Microscale Stimulator]]
+[[Parinaz Abiri]], [[Sandra Duarte-Vogel]], [[Tzu-Chieh Chou]], [[Arash Abiri]], [[Varun Gudapati]], [[Alireza Yousefi]], [[Mehrdad Roustaei]], [[Chih-Chiang Chang]], [[Qingyu Cui]], [[Jeffrey J Hsu]], [[Malcolm Bersohn]], [[Dejan Markovic]], [[Jun Chen]], [[Yu-Chong Tai]], [[Tzung K Hsiai]]
+Annals of Biomedical Engineering
+-------------------------------------------------------------------------------------------------------------------------
+2021/7/14
+[[Meta-analysis of in-vitro bonding of glass-ionomer restorative materials to primary teeth]]
+[[Tamara Peric]], [[Evgenija Markovic]], [[Dejan Markovic]], [[Bojan Petrovic]]
+Materials
+-------------------------------------------------------------------------------------------------------------------------
+2021/3/4
+[[Antibacterial and Antibiofilm Potential of Leptospermum petersonii FM Bailey, Eucalyptus citriodora Hook., Pelargonium graveolens L’Hér. and Pelargonium roseum (Andrews) DC …]]
+[[Jelena Marinkovic]], [[Tatjana Markovic]], [[Biljana Nikolic]], [[Ivan Soldatovic]], [[Marija Ivanov]], [[Ana Ciric]], [[Marina Sokovic]], [[Dejan Markovic]]
+Journal of Essential Oil Bearing Plants
+-------------------------------------------------------------------------------------------------------------------------
+2021
+[[Meta-Analysis of In-Vitro Bonding of Glass-Ionomer Restorative Materials to Primary Teeth. Materials 2021, 14, 3915]]
+[[T Peric]], [[E Markovic]], [[D Markovic]], [[B Petrovic]]
+s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affil-iations.
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/9
+[[A burst-mode controlled inductive wireless power transfer system]]
+[[Usama Anwar]], [[Zhaoyi Liu]], [[Dejan Markovic]]
+2020 IEEE 21st Workshop on Control and Modeling for Power Electronics (COMPEL)
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/9
+[[Dynamic Modeling of Hybrid Feedforward Controlled Pulse Width Modulated Switching Converters]]
+[[Usama Anwar]], [[Dejan Markovic]]
+2020 IEEE 21st Workshop on Control and Modeling for Power Electronics (COMPEL)
+-------------------------------------------------------------------------------------------------------------------------
+2020/10/28
+[[A model for public postal network reorganization based on DEA and fuzzy approach]]
+[[Jelena Milutinović]], [[Dejan Marković]], [[Bojan Stanivuković]], [[Libor Švadlenka]], [[Momčilo Dobrodolac]]
+Transport
+-------------------------------------------------------------------------------------------------------------------------
+2020/7/13
+[[Analysis and design of a robust, low-power, inductively coupled LSK data link]]
+[[Alireza Yousefi]], [[Asad A Abidi]], [[Dejan Marković]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/3
+[[Demonstration of a Low Latency (< 20 ps) Fine-pitch (≤ 10 μm) Assembly on the Silicon Interconnect Fabric]]
+[[SivaChandra Jangam]], [[Uneeb Rathore]], [[Sumeet Nagi]], [[Dejan Markovic]], [[Subramanian S Iyer]]
+2020 IEEE 70th Electronic Components and Technology Conference (ECTC)
+-------------------------------------------------------------------------------------------------------------------------
+2020/4/1
+[[A multi-dimensional analysis of a novel approach for wireless stimulation]]
+[[Parinaz Abiri]], [[Alireza Yousefi]], [[Arash Abiri]], [[Varun Gudapati]], [[Yichen Ding]], [[Kim-Lien Nguyen]], [[Ahmad Abiri]], [[Dejan Markovic]], [[Yu-Chong Tai]], [[Tzung K Hsiai]]
+IEEE Transactions on Biomedical Engineering
+-------------------------------------------------------------------------------------------------------------------------
+2020/4
+[[Wireless pacing using an asynchronous three-tiered inductive power transfer system]]
+[[Parinaz Abiri]], [[Arash Abiri]], [[Varun Gudapati]], [[Chih-Chiang Chang]], [[Mehrdad Roustaei]], [[Hamed Bourenane]], [[Usama Anwar]], [[Dejan Markovic]], [[Tzung K Hsiai]]
+Annals of biomedical engineering
+-------------------------------------------------------------------------------------------------------------------------
+2020
+[[Children with special needs in the dental office]]
+[[Marko Jeremić]], [[Predrag Ćirić]], [[Dejan Marković]], [[Ana Vuković]]
+Zdravstvena zaštita
+-------------------------------------------------------------------------------------------------------------------------
+2020
+[[Mineral trioxide aggregate for the treatment of external root resorption in an avulsed immature tooth: Ten years of follow-up]]
+[[Tamara Perić]], [[Dejan Marković]], [[Bojan Petrović]]
+Srpski arhiv za celokupno lekarstvo
+-------------------------------------------------------------------------------------------------------------------------
+2019/12/18
+[[Low district economic performance presents strong oral health determinant in preschool children: country level analysis]]
+[[Ana Vukovic]], [[Ivan Soldatovic]], [[Rade Vukovic]], [[Tamara Peric]], [[Guglielmo Campus]], [[Dejan Markovic]]
+Background:
+Having in mind that macro level factors such as social, political and economic determinants strongly impact occurrence of chronic NCDs, it might be beneficial to enlarge scarce level of data on the influence of these factors on children’s oral health. The aim of the present study was to test association between macro level factors and oral health in a nationally representative sample of preschoolers involving all preschooler’s age groups from the beginning to compulsory Preschool Preparatory Program.
+Method:
+Oral health data derived from cross sectional study involving nationally representative sample of preschool children. Dependent, oral health variables included prevalence of primary teeth caries, untreated caries, and caries on permanent first molars. Data on macro level factors included regional information on economic, population, and healthcare factors: population density, density of physicians and dentists, district share in national gross domestic product (GDP), social and health care expenditures, local self-government budget, employment rate in public, private and agricultural sector. In order to have nationally representative sample we used stratified cluster sampling method proposed by World Health Organization.
+Results:
+Final sample included 1665 preschoolers aged 36 to 91 months. Observed prevalence of ECC was 57.8%. Of these, 90.4% had untreated caries. Furthermore, 11.1% of examined preschoolers already had lesions on permanent first molar. All ECC related oral health outcomes were statistically significantly associated with regional social economic indicators–poor oral health was more frequently observed …
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/11
+[[How much country economy influences ECC Profile in Serbian children—a macro-level factor analysis]]
+[[Dejan Markovic]], [[Ivan Soldatovic]], [[Rade Vukovic]], [[Tamara Peric]], [[Guglielmo Giuseppe Campus]], [[Ana Vukovic]]
+Frontiers in public health
+-------------------------------------------------------------------------------------------------------------------------
+2019/9/29
+[[High-Frequency Resonant Inverter for Power Transfer Between Distributed Modules of a Biomedical Implant]]
+[[Usama Anwar]], [[Khurram K Afridi]], [[Dejan Markovic]]
+2019 IEEE Energy Conversion Congress and Exposition (ECCE)
+-------------------------------------------------------------------------------------------------------------------------
+2019/7
+[[Primary teeth bite marks analysis on various materials: A possible tool in children health risk analysis and safety assessment]]
+[[Nikola Jovanovic]], [[Bojan Petrovic]], [[Sanja Kojic]], [[Milica Sipovac]], [[Dejan Markovic]], [[Sofija Stefanovic]], [[Goran Stojanovic]]
+International journal of environmental research and public health
+-------------------------------------------------------------------------------------------------------------------------
+2019/7/1
+[[Evaluation of Sealant Penetration in Relation to Fissure Morphology, Enamel Surface Preparation Protocol and Sealing Material.]]
+[[Dejan L Markovic]], [[Bojan B Petrovic]], [[Tamara O Peric]], [[Dijana Trisic]], [[Sanja Kojic]], [[Bozidar L Kuljic]], [[Goran Stojanovic]]
+Oral Health & Preventive Dentistry
+-------------------------------------------------------------------------------------------------------------------------
+2019/2/20
+[[Simultaneous transmission of up to 94-mW self-regulated wireless power and up to 5-Mb/s reverse data over a single pair of coils]]
+[[Jiacheng Pan]], [[Asad A Abidi]], [[Wenlong Jiang]], [[Dejan Marković]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019
+[[Characterization of glass ionomer cements stored in various solutions]]
+[[KARAKTERIZACIJA STEKLO-IONOMERSKIH CEMENTOV]], [[SHRANJENIH V RAZLI]], [[NIH RAZTOPINAH]]
+Materiali in tehnologije
+-------------------------------------------------------------------------------------------------------------------------
+2019
+[[How to maintain oral health in children with respiratory diseases: Literature review]]
+[[Aleksandar Sovtic]], [[Tamara Peric]], [[Predrag Minic]], [[Dejan Marković]]
+Balkan Journal of Dental Medicine
+-------------------------------------------------------------------------------------------------------------------------
