@@ -1,0 +1,565 @@
+2023/12
+[[nPoRe: n-polymer realigner for improved pileup-based variant calling]]
+[[Tim Dunn]], [[David Blaauw]], [[Reetuparna Das]], [[Satish Narayanasamy]]
+BMC bioinformatics
+-------------------------------------------------------------------------------------------------------------------------
+2023/10/5
+[[Energy Efficient Logic and Memory Design with Beyond-CMOS Magneto-Electric Spin-Orbit (MESO) Technology toward Ultra Low Supply Voltage]]
+[[Rohit Rothe]], [[Hai Li]], [[Dmitri E Nikonov]], [[Ian A Young]], [[Kyojin Choo]], [[David Blaauw]]
+IEEE Journal on Exploratory Solid-State Computational Devices and Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2023/10/3
+[[A 1.5-W Fully-Integrated Keyword Spotting SoC in 28-nm CMOS With Skip-RNN and Fast-Settling Analog Frontend for Adaptive Frame Skipping]]
+[[Heejin Yang]], [[Ji-Hwan Seol]], [[Rohit Rothe]], [[Zichen Fan]], [[Qirui Zhang]], [[Hun-Seok Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2023/9/11
+[[A 4.6 nW Subthreshold Voltage Reference with 400× Current Variation Reduction and 64-Step 0.11% Output Voltage Programmability]]
+[[Yimai Peng]], [[Ashwin Bhat]], [[Sanjay Wadhwa]], [[David Blaauw]], [[Dennis Sylvester]]
+ESSCIRC 2023-IEEE 49th European Solid State Circuits Conference (ESSCIRC)
+-------------------------------------------------------------------------------------------------------------------------
+2023/7/19
+[[SONA: An Accelerator for Transform-Domain Neural Networks with Sparse-Orthogonal Weights]]
+[[Pierre Abillama]], [[Zichen Fan]], [[Yu Chen]], [[Hyochan An]], [[Qirui Zhang]], [[Seungkyu Choi]], [[David Blaauw]], [[Dennis Sylvester]], [[Hun-Seok Kim]]
+2023 IEEE 34th International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/30
+[[FALCON: An FPGA Emulation Platform for Domain-Specific Systems-on-Chip (DSSoCs)]]
+[[Anish Krishnakumar]], [[Hanguang Yu]], [[Tutu Ajayi]], [[A Alper Goksoy]], [[Vishrut Pandey]], [[Joshua Mack]], [[Sahil Hassan]], [[Kuan-Yu Chen]], [[Chaitali Chakrabarti]], [[Daniel W Bliss]], [[Ali Akoglu]], [[Hun-Seok Kim]], [[Ronald G Dreslinski]], [[David Blaauw]], [[Umit Y Ogras]]
+IEEE Design & Test
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/28
+[[An RC Delay-Based Pressure-Sensing System With Energy-Efficient Bit-Level Oversampling Techniques for Implantable IOP Monitoring Systems]]
+[[Donguk Seo]], [[Minsik Cho]], [[Minhyeok Jeong]], [[Gicheol Shin]], [[Inhee Lee]], [[David Blaauw]], [[Yoonmyung Lee]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/17
+[[TaskFusion: An Efficient Transfer Learning Architecture with Dual Delta Sparsity for Multi-Task Natural Language Processing]]
+[[Zichen Fan]], [[Qirui Zhang]], [[Pierre Abillama]], [[Sara Shoouri]], [[Changwoo Lee]], [[David Blaauw]], [[Hun-Seok Kim]], [[Dennis Sylvester]]
+Proceedings of the 50th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/17
+[[GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis]]
+[[Yufeng Gu]], [[Arun Subramaniyan]], [[Tim Dunn]], [[Alireza Khadem]], [[Kuan-Yu Chen]], [[Somnath Paul]], [[Md Vasimuddin]], [[Sanchit Misra]], [[David Blaauw]], [[Satish Narayanasamy]], [[Reetuparna Das]]
+Proceedings of the 50th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/11
+[[A Wireless Neural Stimulator IC for Cortical Visual Prosthesis]]
+[[Jungho Lee]], [[Joseph Letner]], [[Jongyup Lim]], [[Yi Sun]], [[Seokhyeon Jeong]], [[Yejoong Kim]], [[Beomseo Koo]], [[Gabriele Atzeni]], [[Jiawei Liao]], [[Julianna Richie]], [[Elena Della Valle]], [[Paras Patel]], [[Taekwang Jang]], [[Cynthia Chestek]], [[Jamie Phillips]], [[James Weiland]], [[Dennis Sylvester]], [[Hun-Seok Kim]], [[David Blaauw]]
+2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/11
+[[A Reconfigurable Analog FIR Filter Achieving− 70dB Rejection with Sharp Transition for Narrowband Receivers]]
+[[Chien-Wei Tseng]], [[Zhen Feng]], [[Zichen Fan]], [[Hyochan An]], [[Yunfan Wang]], [[Hun-Seok Kim]], [[David Blaauw]]
+2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2023/2/19
+[[A End-to-End Keyword Spotting SoC with Content-Adaptive Frame Sub-Sampling and Fast-Settling Analog Frontend]]
+[[Ji-Hwan SeoI]], [[Heejin Yang]], [[Rohit Rothe]], [[Zichen Fan]], [[Qirui Zhang]], [[Hun-Seok Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+2023 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2023/2/19
+[[29.3 An 8.09 TOPS/W Neural Engine Leveraging Bit-Sparsified Sign-Magnitude Multiplications and Dual Adder Trees]]
+[[Hyochan An]], [[Yu Chen]], [[Zichen Fan]], [[Qirui Zhang]], [[Pierre Abillama]], [[Hun-Seok Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+2023 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2023
+[[Rapid real-time squiggle classification for read until using rawmap]]
+[[Harisankar Sadasivan]], [[Jack Wadden]], [[Kush Goliya]], [[Piyush Ranjan]], [[Robert P Dickson]], [[David Blaauw]], [[Reetuparna Das]], [[Satish Narayanasamy]]
+Archives of clinical and biomedical research
+-------------------------------------------------------------------------------------------------------------------------
+2022/12/30
+[[A High-Voltage Generator and Multiplexer for Electrostatic Actuation in Programmable Matter]]
+[[Yimai Peng]], [[Gordy Carichner]], [[Yejoong Kim]], [[Li-Yu Chen]], [[Rémy Tribhout]], [[Benoît Piranda]], [[Julien Bourgeois]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2022/12
+[[2022 Index IEEE Transactions on Biomedical Circuits and Systems Vol. 16]]
+[[AM Abbosh]], [[D Abbott]], [[K Abdelhalim]], [[SM Abubakar]], [[A Abuduaini]], [[T Adiono]], [[Y Aditya]], [[N Ahmadi]], [[J Ahn]], [[S Ahn]], [[SF Alamouti]], [[P Alano]], [[P Aliparast]], [[N Almarri]], [[N Alsaab]], [[A Amirsoleimani]], [[H An]], [[N Ananthapadmanabhan]], [[M Annayev]], [[M Anwar]], [[AC Arias]], [[M Aristio]], [[EF Arkan]], [[H Assaf]], [[M Atef]], [[AB Aujih]], [[G Avitabile]], [[HVH Ayala]], [[MR Azghadi]], [[A Aziz]], [[NS Baban]], [[K Bailey]], [[D Barrettino]], [[J Barsotti]], [[A Basir]], [[G Battisti]], [[H Bauer]], [[M Beghetti]], [[G Benevento]], [[L Bereuter]], [[R Bertacco]], [[M Besirli]], [[S Bhadra]], [[S Bhattacharjee]], [[S Bi]], [[F Bien]], [[E Biggs]], [[D Blaauw]], [[M Bockeler]], [[T Bohnert]], [[D Bol]], [[M Boutelle]], [[B Bryson]], [[A Burdett]], [[J Burger]], [[G Buzsaki]], [[Q Cai]], [[BH Calhoun]], [[W Cao]], [[B Cardiff]], [[P Carlen]], [[TM Carpenter]], [[J Cha]], [[K Chakrabarty]], [[S Chan]], [[L Chang]]
+IEEE Transactions on Biomedical Circuits and Systems
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/8
+[[Locality-Aware Optimizations for Improving Remote Memory Latency in Multi-GPU Systems]]
+[[Leul Belayneh]], [[Haojie Ye]], [[Kuan-Yu Chen]], [[David Blaauw]], [[Trevor Mudge]], [[Ronald Dreslinski]], [[Nishil Talati]]
+Proceedings of the International Conference on Parallel Architectures and Compilation Techniques
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/8
+[[Squaring the circle: Executing Sparse Matrix Computations on FlexTPU---A TPU-Like Processor]]
+[[Xin He]], [[Kuan-Yu Chen]], [[Siying Feng]], [[Hun-Seok Kim]], [[David Blaauw]], [[Ronald Dreslinski]], [[Trevor Mudge]]
+Proceedings of the International Conference on Parallel Architectures and Compilation Techniques
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/1
+[[Mint: An Accelerator For Mining Temporal Motifs]]
+[[Nishil Talati]], [[Haojie Ye]], [[Sanketh Vedula]], [[Kuan-Yu Chen]], [[Yuhan Chen]], [[Daniel Liu]], [[Yichao Yuan]], [[David Blaauw]], [[Alex Bronstein]], [[Trevor Mudge]], [[Ronald Dreslinski]]
+2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2022/8/1
+[[A unified forward error correction accelerator for multi-mode Turbo, LDPC, and polar decoding]]
+[[Yufan Yue]], [[Tutu Ajayi]], [[Xueyang Liu]], [[Peiwen Xing]], [[Zihan Wang]], [[David Blaauw]], [[Ronald Dreslinski]], [[Hun Seok Kim]]
+Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/15
+[[Ultra-rapid somatic variant detection via real-time targeted amplicon sequencing]]
+[[Jack Wadden]], [[Brandon S Newell]], [[Joshua Bugbee]], [[Vishal John]], [[Amy K Bruzek]], [[Robert P Dickson]], [[Carl Koschmann]], [[David Blaauw]], [[Satish Narayanasamy]], [[Reetuparna Das]]
+Communications Biology
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/10
+[[Bayesian inference of RNA velocity from multi-lineage single-cell data]]
+[[Yichen Gu]], [[David Blaauw]], [[Joshua D Welch]]
+bioRxiv
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/6
+[[An Open-Source and Autonomous Temperature Sensor Generator Verified With 64 Instances in SkyWater 130 nm for Comprehensive Design Space Exploration]]
+[[Qirui Zhang]], [[Wenbo Duan]], [[Tim Edwards]], [[Tim Ansell]], [[David Blaauw]], [[Dennis Sylvester]], [[Mehdi Saligane]]
+IEEE Solid-State Circuits Letters
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/28
+[[Variational mixtures of ODEs for inferring cellular gene expression dynamics]]
+[[Yichen Gu]], [[David T Blaauw]], [[Joshua Welch]]
+International Conference on Machine Learning
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/18
+[[MeNDA: a near-memory multi-way merge solution for sparse transposition and dataflows]]
+[[Siying Feng]], [[Xin He]], [[Kuan-Yu Chen]], [[Liu Ke]], [[Xuan Zhang]], [[David Blaauw]], [[Trevor Mudge]], [[Ronald Dreslinski]]
+Proceedings of the 49th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/18
+[[Ndminer: accelerating graph pattern mining using near data processing]]
+[[Nishil Talati]], [[Haojie Ye]], [[Yichen Yang]], [[Leul Belayneh]], [[Kuan-Yu Chen]], [[David Blaauw]], [[Trevor Mudge]], [[Ronald Dreslinski]]
+Proceedings of the 49th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/14
+[[A low-power communication scheme for wireless, 1000 channel brain–machine interfaces]]
+[[Joseph T Costello]], [[Samuel R Nason-Tomaszewski]], [[Hyochan An]], [[Jungho Lee]], [[Matthew J Mender]], [[Hisham Temmar]], [[Dylan M Wallace]], [[Jongyup Lim]], [[Matthew S Willsey]], [[Parag G Patil]], [[Taekwang Jang]], [[Jamie D Phillips]], [[Hun-Seok Kim]], [[David Blaauw]], [[Cynthia A Chestek]]
+Journal of Neural Engineering
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[Audio and Image Cross-Modal Intelligence via a 10TOPS/W 22nm SoC with Back-Propagation and Dynamic Power Gating]]
+[[Zichen Fan]], [[Hyochan An]], [[Qirui Zhang]], [[Boxun Xu]], [[Li Xu]], [[Chien-Wei Tseng]], [[Yimai Peng]], [[Ang Cao]], [[Bowen Liu]], [[Changwoo Lee]], [[Zhehong Wang]], [[Fanghao Liu]], [[Guanru Wang]], [[Shenghao Jiang]], [[Hun-Seok Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[A 286nW, 103V High Voltage Generator and Multiplexer for Electrostatic Actuation in Programmable Matter]]
+[[Yimai Peng]], [[Gordy Carichner]], [[Yejoong Kim]], [[Li-Yu Chen]], [[Rémy Tribhout]], [[Benoît Piranda]], [[Julien Bourgeois]], [[David Blaauw]], [[Dennis Sylvester]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[A 22nm 3.5 TOPS/W Flexible Micro-Robotic Vision SoC with 2MB eMRAM for Fully-on-Chip Intelligence]]
+[[Qirui Zhang]], [[Hyochan An]], [[Zichen Fan]], [[Zhehong Wang]], [[Ziyun Li]], [[Guanru Wang]], [[Hun-Seok Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[A 184nW, 121µg/√ Hz Noise Floor Triaxial MEMS Accelerometer with Integrated CMOS Readout Circuit and Variation-Compensated High Voltage MEMS Biasing]]
+[[Yimai Peng]], [[Seokhyeon Jeong]], [[Kyojin Choo]], [[Yejoong Kim]], [[Li-Yu Chen]], [[Rohit Rothe]], [[Li Xu]], [[Ilya Gurin]], [[Omid Oliaei]], [[Vadim Tsinker]], [[Stephen Bart]], [[Peter Hartwell]], [[David Blaauw]], [[Dennis Sylvester]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[A 507 GMACs/J 256-core domain adaptive systolic-array-processor for wireless communication and linear-algebra kernels in 12nm FINFET]]
+[[Kuan-Yu Chen]], [[Chi-Sheng Yang]], [[Yu-Hsiu Sun]], [[Chien-Wei Tseng]], [[Morteza Fayazi]], [[Xin He]], [[Siying Feng]], [[Yufan Yue]], [[Trevor Mudge]], [[Ronald Dreslinski]], [[Hun-Seok Kim]], [[David Blaauw]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[A 260×274 μm2 572 nW Neural Recording Micromote Using Near-Infrared Power Transfer and an RF Data Uplink]]
+[[Gabriele Atzeni]], [[Jongyup Lim]], [[Jiawei Liao]], [[Alessandro Novello]], [[Jungho Lee]], [[Eunseong Moon]], [[Michael Barrow]], [[Joseph Letner]], [[Joseph Costello]], [[Samuel R Nason]], [[Paras R Patel]], [[Parag G Patil]], [[Hun-Seok Kim]], [[Cynthia A Chestek]], [[Jamie Phillips]], [[David Blaauw]], [[Taekwang Jang]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/5
+[[GaAs-Based Photovoltaic Infrared Energy Harvesting for Microscale Biomedical Implants]]
+[[Y Sun]], [[J Letner]], [[J Lee]], [[N Ahmed]], [[C Chestek]], [[D Blaauw]], [[J Phillips]]
+2022 IEEE 49th Photovoltaics Specialists Conference (PVSC)
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/27
+[[Improving Energy Efficiency of Convolutional Neural Networks on Multi-core Architectures through Run-time Reconfiguration]]
+[[Y Xiong]], [[J Li]], [[D Blaauw]], [[H-S Kim]], [[T Mudge]], [[R Dreslinski]], [[C Chakrabarti]]
+2022 IEEE International Symposium on Circuits and Systems (ISCAS)
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/27
+[[Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor]]
+[[DW Bliss]], [[T Ajayi]], [[A Akoglu]], [[I Aliyev]], [[T Basaklar]], [[L Belayneh]], [[D Blaauw]], [[J Brunhaver]], [[C Chakrabarti]], [[L Chang]], [[K-Y Chen]], [[M-H Chen]], [[X Chen]], [[AR Chiriyath]], [[A Daftardar]], [[R Dreslinski]], [[A Dutta]], [[AJ Farcas]], [[Y Fu]], [[A Goksoy]], [[X He]], [[Md S Hassan]], [[A Herschfelt]], [[J Holtom]], [[H-S Kim]], [[AN Krishnakumar]], [[Y Li]], [[O Ma]], [[J Mack]], [[S Mallik]], [[SK Mandal]], [[R Marculescu]], [[B McCall]], [[T Mudge]], [[UY Ogras]], [[V Pandey]], [[S Siddiqui]], [[Y-H Sun]], [[A Venkataramani]], [[X Wei]], [[BR Willis]], [[H Yu]], [[Y Yue]]
+2022 IEEE International Symposium on Circuits and Systems (ISCAS)
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/27
+[[Tracking the Migration of the Monarch Butterflies with the World's Smallest Computer]]
+[[Inhee Lee]], [[Roger Hsiao]], [[Gordy Carichner]], [[Chin-Wie Hsu]], [[Mingyu Yang]], [[Sara Shoouri]], [[Katherine Ernst]], [[Tess Carichner]], [[Yuyang Li]], [[Jaechan Lim]], [[Cole R Julick]], [[Eunseong Moon]], [[Yi Sun]], [[Jamie Phillips]], [[Kristi L Montooth]], [[Delbert A Green II]], [[Hun-Seok Kim]], [[David Blaauw]]
+GetMobile: Mobile Computing and Communications
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/20
+[[A power-efficient brain-machine interface system with a sub-mW feature extraction and decoding ASIC demonstrated in nonhuman primates]]
+[[Hyochan An]], [[Samuel R Nason-Tomaszewski]], [[Jongyup Lim]], [[Kyumin Kwon]], [[Matthew S Willsey]], [[Parag G Patil]], [[Hun-Seok Kim]], [[Dennis Sylvester]], [[Cynthia A Chestek]], [[David Blaauw]]
+IEEE Transactions on Biomedical Circuits and Systems
+-------------------------------------------------------------------------------------------------------------------------
+2022/4/24
+[[Hardware Acceleration for Third-Generation FHE and PSI Based on It]]
+[[Zhehong Wang]], [[Dennis Sylvester]], [[Hun-Seok Kim]], [[David Blaauw]]
+arXiv preprint arXiv:2204.11334
+-------------------------------------------------------------------------------------------------------------------------
+2022/3/9
+[[Millimeter-Scale Ultra-Low-Power Imaging System for Intelligent Edge Monitoring]]
+[[Andrea Bejarano-Carbo]], [[Hyochan An]], [[Kyojin Choo]], [[Shiyu Liu]], [[Qirui Zhang]], [[Dennis Sylvester]], [[David Blaauw]], [[Hun-Seok Kim]]
+arXiv preprint arXiv:2203.04496
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/20
+[[A Long-Range Narrowband RF Localization System with a Crystal-Less Frequency-Hopping Receiver]]
+[[Chien-Wei Tseng]], [[Demba Komma]], [[Kuan-Yu Chen]], [[Rohit Rothe]], [[Zhen Feng]], [[Makoto Yasuda]], [[Masaru Kawaminami]], [[Hun-Seok Kim]], [[David Blaauw]]
+2022 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/20
+[[A Integrated CMOS System f0 Micro-Robots with Energy Harvesting, Sensing, Processing, Communication and Actuation]]
+[[Li Xu]], [[Maya Lassiter]], [[Xiao Wu]], [[Yejoong Kim]], [[Jungho Lee]], [[Makoto Yasuda]], [[Masaru Kawaminami]], [[Marc Miskin]], [[David Blaauw]], [[Dennis Sylvester]]
+2022 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/18
+[[nPoRe: n-Polymer Realigner for improved pileup variant calling]]
+[[Tim Dunn]], [[David Blaauw]], [[Reetuparna Das]], [[Satish Narayanasamy]]
+bioRxiv
+-------------------------------------------------------------------------------------------------------------------------
+2022/1/31
+[[Versa: A 36-core systolic multiprocessor with dynamically reconfigurable interconnect and memory]]
+[[Sung Kim]], [[Morteza Fayazi]], [[Alhad Daftardar]], [[Kuan-Yu Chen]], [[Jielun Tan]], [[Subhankar Pal]], [[Tutu Ajayi]], [[Yan Xiong]], [[Trevor Mudge]], [[Chaitali Chakrabarti]], [[David Blaauw]], [[Ronald Dreslinski]], [[Hun-Seok Kim]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2022/1/25
+[[A light-tolerant wireless neural recording IC for motor prediction with near-infrared-based power and data telemetry]]
+[[Jongyup Lim]], [[Jungho Lee]], [[Eunseong Moon]], [[Michael Barrow]], [[Gabriele Atzeni]], [[Joseph G Letner]], [[Joseph T Costello]], [[Samuel R Nason]], [[Paras R Patel]], [[Yi Sun]], [[Parag G Patil]], [[Hun-Seok Kim]], [[Cynthia A Chestek]], [[Jamie Phillips]], [[David Blaauw]], [[Dennis Sylvester]], [[Taekwang Jang]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2022/1/19
+[[A 43 nW, 32 kHz,±4.2 ppm Piecewise Linear Temperature-Compensated Crystal Oscillator With ΔΣ-Modulated Load Capacitance]]
+[[Sujin Park]], [[Ji-Hwan Seol]], [[Li Xu]], [[Seonghwan Cho]], [[Dennis Sylvester]], [[David Blaauw]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2022/1/10
+[[A Delta Sigma-Modulated Sample and Average Common-Mode Feedback Technique for Capacitively Coupled Amplifiers in a 192-nW Acoustic Analog Front-End]]
+[[Rohit Rothe]], [[Minchang Cho]], [[Kyojin Choo]], [[Seokhyeon Jeong]], [[Sechang Oh]], [[Jungho Lee]], [[Dennis Sylvester]], [[David Blaauw]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2022
+[[Millimeter-Scale Ultra-Low-Power Imaging System for Intelligent Edge Monitoring]]
+[[Hyochan An]], [[Kyojin Choo]], [[Shiyu Liu]], [[Dennis Sylvester]], [[David Blaauw]], [[Hun-Seok Kim]]
+Millimeter-scale embedded sensing systems have unique advantages over larger devices as they are able to capture, analyze, store, and transmit data at the source while being unobtrusive and covert. However, area-constrained systems pose several challenges, including a tight energy budget and peak power, limited data storage, costly wireless communication, and physical integration at a miniature scale. This paper proposes a novel 6.7× 7× 5mm imaging system with deep-learning and image processing capabilities for intelligent edge applications, and is demonstrated in a home-surveillance scenario. The system is implemented by vertically stacking custom ultra-low-power (ULP) ICs and uses techniques such as dynamic behavior-specific power management, hierarchical event detection, and a combination of data compression methods. It demonstrates a new image-correcting neural network that compensates for nonidealities caused by a mm-scale lens and ULP front-end. The system can store 74 frames or offload data wirelessly, consuming 49.6 μW on average for an expected battery lifetime of 7 days.
+-------------------------------------------------------------------------------------------------------------------------
+2021/12
+[[SquiggleNet: real-time, direct classification of nanopore signals]]
+[[Yuwei Bao]], [[Jack Wadden]], [[John R Erb-Downward]], [[Piyush Ranjan]], [[Weichen Zhou]], [[Torrin L McDonald]], [[Ryan E Mills]], [[Alan P Boyle]], [[Robert P Dickson]], [[David Blaauw]], [[Joshua D Welch]]
+Genome biology
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/25
+[[mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking]]
+[[Inhee Lee]], [[Roger Hsiao]], [[Gordy Carichner]], [[Chin-Wei Hsu]], [[Mingyu Yang]], [[Sara Shoouri]], [[Katherine Ernst]], [[Tess Carichner]], [[Yuyang Li]], [[Jaechan Lim]], [[Cole R Julick]], [[Eunseong Moon]], [[Yi Sun]], [[Jamie Phillips]], [[Kristi L Montooth]], [[Delbert A Green]], [[Hun-Seok Kim]], [[David Blaauw]]
+Proceedings of the 27th Annual International Conference on Mobile Computing and Networking
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/18
+[[Squigglefilter: An accelerator for portable virus detection]]
+[[Tim Dunn]], [[Harisankar Sadasivan]], [[Jack Wadden]], [[Kush Goliya]], [[Kuan-Yu Chen]], [[David Blaauw]], [[Reetuparna Das]], [[Satish Narayanasamy]]
+MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2021/9/21
+[[Ultra-Low Power 32kHz Crystal Oscillators: Fundamentals and Design Techniques]]
+[[Li Xu]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Open Journal of the Solid-State Circuits Society
+-------------------------------------------------------------------------------------------------------------------------
+2021/8/26
+[[An analog-assisted digital LDO with single subthreshold output pMOS achieving 1.44-fs FOM]]
+[[Li Xu]], [[Kyojin Choo]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Solid-State Circuits Letters
+-------------------------------------------------------------------------------------------------------------------------
+2021/8
+[[SquiggleFilter: An Accelerator for Portable Virus Detection]]
+[[Harisankar Sadasivan]], [[Tim Dunn]], [[Jack Wadden]], [[Kush Goliya]], [[Kuan-Yu Chen]], [[Reetuparna Das]], [[David Blaauw]], [[Satish Narayanasamy]]
+arXiv e-prints
+-------------------------------------------------------------------------------------------------------------------------
+2021/7/8
+[[A 510-pW 32-kHz crystal oscillator with high energy-to-noise-ratio pulse injection]]
+[[Li Xu]], [[Taekwang Jang]], [[Jongyup Lim]], [[Kyojin David Choo]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/25
+[[Reference oversampling PLL achieving− 256-dB FoM and− 78-dBc reference spur]]
+[[Ji-Hwan Seol]], [[Kyojin Choo]], [[David Blaauw]], [[Dennis Sylvester]], [[Taekwang Jang]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/15
+[[Millimeter-sized smart sensors reveal that a solar refuge protects tree snail Partula hyalina from extirpation]]
+[[Cindy S Bick]], [[Inhee Lee]], [[Trevor Coote]], [[Amanda E Haponski]], [[David Blaauw]], [[Diarmaid Ó Foighil]]
+Communications Biology
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/14
+[[Accelerated seeding for genome sequence alignment with enumerated radix trees]]
+[[Arun Subramaniyan]], [[Jack Wadden]], [[Kush Goliya]], [[Nathan Ozog]], [[Xiao Wu]], [[Satish Narayanasamy]], [[David Blaauw]], [[Reetuparna Das]]
+2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/13
+[[A light tolerant neural recording IC for near-infrared-powered free floating motes]]
+[[Jongyup Lim]], [[Jungho Lee]], [[Eunseong Moon]], [[Michael Barrow]], [[Gabriele Atzeni]], [[Joseph Letner]], [[Joseph Costello]], [[Samuel R Nason]], [[Paras R Patel]], [[Parag G Patil]], [[Hun-Seok Kim]], [[Cynthia A Chestek]], [[Jamie Phillips]], [[David Blaauw]], [[Dennis Sylvester]], [[Taekwang Jang]]
+2021 Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/13
+[[A 43nW 32kHz Pulsed Injection TCXO with 4.2 ppm Accuracy Using∆ Σ Modulated Load Capacitance]]
+[[Sujin Park]], [[Ji-Hwan Seol]], [[Li Xu]], [[Dennis Sylvester]], [[David Blaauw]]
+2021 Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/13
+[[Versa: A dataflow-centric multiprocessor with 36 systolic arm cortex-m4f cores and a reconfigurable crossbar-memory hierarchy in 28nm]]
+[[Sung Kim]], [[Morteza Fayazi]], [[Alhad Daftardar]], [[Kuan-Yu Chen]], [[Jielun Tan]], [[Subhankar Pal]], [[Tutu Ajayi]], [[Yan Xiong]], [[Trevor Mudge]], [[Chaitali Chakrabarti]], [[David Blaauw]], [[Ronald Dreslinski]], [[Hun-Seok Kim]]
+2021 Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/13
+[[A 192 nW 0.02 Hz high pass corner acoustic analog front-end with automatic saturation detection and recovery]]
+[[Rohit Rothe]], [[Minchang Cho]], [[Kyojin Choo]], [[Seokhyeon Jeong]], [[Dennis Sylvester]], [[David Blaauw]]
+2021 Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/17
+[[Ultra-Rapid Somatic Variant Detection via Real-Time Threshold Sequencing]]
+[[Jack Wadden]], [[Brandon Newell]], [[Joshua Bugbee]], [[Robert P Dickson]], [[Carl Koschmann]], [[David Blaauw]], [[Satish Narayanasamy]], [[Reetuparna Das]]
+bioRxiv
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/1
+[[Inaudible Attack on Smart Speakers With Intentional Electromagnetic Interference]]
+[[Najme Ebrahimi]], [[Hun-Seok Kim]], [[David Blaauw]]
+IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES
+-------------------------------------------------------------------------------------------------------------------------
+2021/4/25
+[[Design techniques of integrated power management circuits for low power edge devices]]
+[[Li Xu]], [[Jeongsup Lee]], [[Mehdi Saligane]], [[David Blaauw]], [[Dennis Sylvester]]
+2021 IEEE Custom Integrated Circuits Conference (CICC)
+-------------------------------------------------------------------------------------------------------------------------
+2021/4/20
+[[Bridging the “last millimeter” gap of brain-machine interfaces via near-infrared wireless power transfer and data communications]]
+[[Eunseong Moon]], [[Michael Barrow]], [[Jongyup Lim]], [[Jungho Lee]], [[Samuel R Nason]], [[Joseph Costello]], [[Hun Seok Kim]], [[Cynthia Chestek]], [[Taekwang Jang]], [[David Blaauw]], [[Jamie D Phillips]]
+ACS photonics
+-------------------------------------------------------------------------------------------------------------------------
+2021/3/28
+[[Genomicsbench: A benchmark suite for genomics]]
+[[Arun Subramaniyan]], [[Yufeng Gu]], [[Timothy Dunn]], [[Somnath Paul]], [[Md Vasimuddin]], [[Sanchit Misra]], [[David Blaauw]], [[Satish Narayanasamy]], [[Reetuparna Das]]
+2021 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/24
+[[Physical layer secret key generation using joint interference and phase shift keying modulation]]
+[[Najme Ebrahimi]], [[Hun-Seok Kim]], [[David Blaauw]]
+IEEE Transactions on Microwave Theory and Techniques
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/13
+[[Session 5 Overview: Analog Interfaces]]
+[[Jens Anders]], [[Taeik Kim]], [[David Blaauw]]
+2021 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/13
+[[27.2 14.1-ENOB 184.9 dB-FoM Capacitor-Array-Assisted Cascaded Charge-Injection SAR ADC]]
+[[Kyojin Choo]], [[Hyochan An]], [[Dennis Sylvester]], [[David Blaauw]]
+2021 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2021/1/18
+[[Migrating monarch butterfly localization using multi-modal sensor fusion neural networks]]
+[[Mingyu Yang]], [[Roger Hsiao]], [[Gordy Carichner]], [[Katherine Ernst]], [[Jaechan Lim]], [[Delbert A Green]], [[Inhee Lee]], [[David Blaauw]], [[Hun-Seok Kim]]
+2020 28th European Signal Processing Conference (EUSIPCO)
+-------------------------------------------------------------------------------------------------------------------------
+2021/1/17
+[[Real-time, direct classification of nanopore signals with squigglenet]]
+[[Yuwei Bao]], [[Jack Wadden]], [[John R Erb-Downward]], [[Piyush Ranjan]], [[Weichen Zhou]], [[Torrin L McDonald]], [[Ryan E Mills]], [[Alan P Boyle]], [[Robert P Dickson]], [[David Blaauw]], [[Joshua D Welch]]
+BioRxiv
+-------------------------------------------------------------------------------------------------------------------------
+2021
+[[Fully-Autonomous SoC Synthesis Using Customizable Cell-Based Analog and Mixed-Signal Circuits Generation]]
+[[Tutu Ajayi]], [[Sumanth Kamineni]], [[Morteza Fayazi]], [[Yaswanth K Cherivirala]], [[Kyumin Kwon]], [[Shourya Gupta]], [[Wenbo Duan]], [[Jeongsup Lee]], [[Chien-Hen Chen]], [[Mehdi Saligane]], [[Dennis Sylvester]], [[David Blaauw]], [[Ronald Dreslinski Jr]], [[Benton Calhoun]], [[David D Wentzloff]]
+VLSI-SoC: Design Trends: 28th IFIP WG 10.5/IEEE International Conference on Very Large Scale Integration, VLSI-SoC 2020, Salt Lake City, UT, USA, October 6–9, 2020, Revised and Extended Selected Papers 28
+-------------------------------------------------------------------------------------------------------------------------
+2020/12/31
+[[RRAM-DNN: An RRAM and model-compression empowered all-weights-on-chip DNN accelerator]]
+[[Ziyun Li]], [[Zhehong Wang]], [[Li Xu]], [[Qing Dong]], [[Bowen Liu]], [[Chin-I Su]], [[Wen-Ting Chu]], [[George Tsou]], [[Yu-Der Chih]], [[Tsung-Yung Jonathan Chang]], [[Dennis Sylvester]], [[Hun-Seok Kim]], [[David Blaauw]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/12/16
+[[A High-Throughput Pruning-Based Pair-Hidden-Markov-Model Hardware Accelerator for Next-Generation DNA Sequencing]]
+[[Xiao Wu]], [[Arun Subramaniyan]], [[Zhehong Wang]], [[Satish Narayanasamy]], [[Reetuparna Das]], [[David Blaauw]]
+IEEE Solid-State Circuits Letters
+-------------------------------------------------------------------------------------------------------------------------
+2020/12/14
+[[An ultra-low-power image signal processor for hierarchical image recognition with deep neural networks]]
+[[Hyochan An]], [[Sam Schiferl]], [[Siddharth Venkatesan]], [[Tim Wesley]], [[Qirui Zhang]], [[Jingcheng Wang]], [[Kyojin D Choo]], [[Shiyu Liu]], [[Bowen Liu]], [[Ziyun Li]], [[Luyao Gong]], [[Hengfei Zhong]], [[David Blaauw]], [[Ronald Dreslinski]], [[Hun Seok Kim]], [[Dennis Sylvester]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/12/9
+[[A 40-nm ultra-low leakage voltage-stacked SRAM for intelligent IoT sensors]]
+[[Jingcheng Wang]], [[Hyochan An]], [[Qirui Zhang]], [[Hun Seok Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Solid-State Circuits Letters
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/24
+[[Introduction to the Special Issue on the 2020 IEEE International Solid-State Circuits Conference (ISSCC)]]
+[[David Blaauw]], [[Hoi Lee]], [[John P Keane]], [[Jaehyouk Choi]], [[Sudhakar Pamarti]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/9
+[[AProcessor Layer for mm-Scale Die-Stacked Sensing Platforms Featuring Ultra-Low Power Sleep Mode at 125°C]]
+[[Jeongsup Lee]], [[Yejoong Kim]], [[Minchang Cho]], [[Makoto Yasuda]], [[Satoru Miyoshi]], [[Masaru Kawaminami]], [[David Blaauw]], [[Dennis Sylvester]]
+2020 IEEE Asian Solid-State Circuits Conference (A-SSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2020/10/17
+[[SeedEx: A genome sequencing accelerator for optimal alignments in subminimal space]]
+[[Daichi Fujiki]], [[Shunhao Wu]], [[Nathan Ozog]], [[Kush Goliya]], [[David Blaauw]], [[Satish Narayanasamy]], [[Reetuparna Das]]
+2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2020/10/12
+[[Accelerating deep neural network computation on a low power reconfigurable architecture]]
+[[Yan Xiong]], [[Jian Zhou]], [[Subhankar Pal]], [[David Blaauw]], [[Hun-Seok Kim]], [[Trevor Mudge]], [[Ronald Dreslinski]], [[Chaitali Chakrabarti]]
+2020 IEEE International Symposium on Circuits and Systems (ISCAS)
+-------------------------------------------------------------------------------------------------------------------------
+2020/10/5
+[[An open-source framework for autonomous SoC design with analog block generation]]
+[[Tutu Ajayi]], [[Sumanth Kamineni]], [[Yaswanth K Cherivirala]], [[Morteza Fayazi]], [[Kyumin Kwon]], [[Mehdi Saligane]], [[Shourya Gupta]], [[Chien-Hen Chen]], [[Dennis Sylvester]], [[David Blaauw]], [[Ronald Dreslinski]], [[Benton Calhoun]], [[David D Wentzloff]]
+2020 IFIP/IEEE 28th International Conference on Very Large Scale Integration (VLSI-SOC)
+-------------------------------------------------------------------------------------------------------------------------
+2020/10/5
+[[Dual-junction GaAs photovoltaics for low irradiance wireless power transfer in submillimeter-scale sensor nodes]]
+[[Eunseong Moon]], [[Michael Barrow]], [[Jongyup Lim]], [[David Blaauw]], [[Jamie D Phillips]]
+IEEE journal of photovoltaics
+-------------------------------------------------------------------------------------------------------------------------
+2020/10
+[[A low-power band of neuronal spiking activity dominated by local single units improves the performance of brain–machine interfaces]]
+[[Samuel R Nason]], [[Alex K Vaskov]], [[Matthew S Willsey]], [[Elissa J Welle]], [[Hyochan An]], [[Philip P Vu]], [[Autumn J Bullard]], [[Chrono S Nu]], [[Jonathan C Kao]], [[Krishna V Shenoy]], [[Taekwang Jang]], [[Hun-Seok Kim]], [[David Blaauw]], [[Parag G Patil]], [[Cynthia A Chestek]]
+Nature biomedical engineering
+-------------------------------------------------------------------------------------------------------------------------
+2020/9/30
+[[Transmuter: Bridging the efficiency gap using memory and dataflow reconfiguration]]
+[[Subhankar Pal]], [[Siying Feng]], [[Dong-hyeon Park]], [[Sung Kim]], [[Aporva Amarnath]], [[Chi-Sheng Yang]], [[Xin He]], [[Jonathan Beaumont]], [[Kyle May]], [[Yan Xiong]], [[Kuba Kaszyk]], [[John Magnus Morton]], [[Jiawen Sun]], [[Michael O'Boyle]], [[Murray Cole]], [[Chaitali Chakrabarti]], [[David Blaauw]], [[Hun-Seok Kim]], [[Trevor Mudge]], [[Ronald Dreslinski]]
+Proceedings of the ACM International Conference on Parallel Architectures and Compilation Techniques
+-------------------------------------------------------------------------------------------------------------------------
+2020/9/22
+[[A 2.46 M Reads/s seed-extension accelerator for next-generation sequencing using a string-independent PE array]]
+[[Zhehong Wang]], [[Tianjun Zhang]], [[Daichi Fujiki]], [[Arun Subramaniyan]], [[Xiao Wu]], [[Makoto Yasuda]], [[Satoru Miyoshi]], [[Masaru Kawaminami]], [[Reetuparna Das]], [[Satish Narayanasamy]], [[David Blaauw]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/9/18
+[[A 67-fsrms Jitter, −130 dBc/Hz In-Band Phase Noise, −256-dB FoM Reference Oversampling Digital PLL With Proportional Path Timing Control]]
+[[Ji-Hwan Seol]], [[Kyojin Choo]], [[David Blaauw]], [[Dennis Sylvester]], [[Taekwang Jang]]
+IEEE Solid-State Circuits Letters
+-------------------------------------------------------------------------------------------------------------------------
+2020/8/16
+[[Fully autonomous mixed signal soc design & layout generation platform]]
+[[Tutu Ajayi]], [[Yaswanth Cherivirala]], [[Kyumin Kwon]], [[Sumanth Kamineni]], [[Mehdi Saligane]], [[Morteza Fayazi]], [[Shourya Gupta]], [[Chien-Hen Chen]], [[Dennis Sylvester]], [[David Blaauw]], [[Ronald Dreslinski]], [[Benton Calhoun]], [[David Wentzloff]]
+IEEE
+-------------------------------------------------------------------------------------------------------------------------
+2020/8/9
+[[AA-ResNet: Energy efficient all-analog resnet accelerator]]
+[[Jongyup Lim]], [[Myungjoon Choi]], [[Bowen Liu]], [[Taewook Kang]], [[Ziyun Li]], [[Zhehong Wang]], [[Yiqun Zhang]], [[Kaiyuan Yang]], [[David Blaauw]], [[Hun-Seok Kim]], [[Dennis Sylvester]]
+2020 IEEE 63rd International Midwest Symposium on Circuits and Systems (MWSCAS)
+-------------------------------------------------------------------------------------------------------------------------
+2020/8/4
+[[A mm-scale sensor node with a 2.7 GHz 1.3 μW transceiver using full-duplex self-coherent backscattering achieving 3.5 m range]]
+[[Zhen Feng]], [[Li-Xuan Chuo]], [[Yao Shi]], [[Yejoong Kim]], [[HunSeok Kim]], [[David Blaauw]]
+2020 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)
+-------------------------------------------------------------------------------------------------------------------------
+2020/7/8
+[[A 0.3-V to 1.8–3.3-V leakage-biased synchronous level converter for ULP SoCs]]
+[[Jeongsup Lee]], [[Mehdi Saligane]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Solid-State Circuits Letters
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/16
+[[17.3 GCUPS pruning-based pair-hidden-Markov-model accelerator for next-generation DNA sequencing]]
+[[Xiao Wu]], [[Arun Subramaniyan]], [[Zhehong Wang]], [[Satish Narayanasamy]], [[Reetu Das]], [[David Blaauw]]
+2020 IEEE Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/16
+[[A 170μW Image Signal Processor Enabling Hierarchical Image Recognition for Intelligence at the Edge]]
+[[Hyochan An]], [[Siddharth Venkatesan]], [[Sam Schiferl]], [[Tim Wesley]], [[Qirui Zhang]], [[Jingcheng Wang]], [[Kyojin Choo]], [[Shiyu Liu]], [[Bowen Liu]], [[Ziyun Li]], [[Hengfei Zhong]], [[Luyao Gong]], [[David Blaauw]], [[Ronald Dreslinski]], [[Dennis Sylvester]], [[Hun Seok Kim]]
+2020 IEEE Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/16
+[[An all-weights-on-chip dnn accelerator in 22nm ull featuring 24× 1 mb erram]]
+[[Zhehong Wang]], [[Ziyun Li]], [[Li Xu]], [[Qing Dong]], [[Chin-I Su]], [[Wen-Ting Chu]], [[George Tsou]], [[Yu-Der Chih]], [[Tsung-Yung Jonathan Chang]], [[Dennis Sylvester]], [[Hun Seok Kim]], [[David Blaauw]]
+2020 IEEE Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/16
+[[A pressure sensing system with±0.75 mmHg (3Σ) inaccuracy for battery-powered low power IoT applications]]
+[[Seokhyeon Jeong]], [[Yejoong Kim]], [[Gyouho Kim]], [[David Blaauw]]
+2020 IEEE Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/16
+[[Sample and average common-mode feedback in a 101 nW acoustic amplifier]]
+[[Rohit Rothe]], [[Sechang Oh]], [[Kyojin Choo]], [[Seokhyeon Jeong]], [[Minchang Cho]], [[Dennis Sylvester]], [[David Blaauw]]
+2020 IEEE Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/16
+[[1.03 pW/b ultra-low leakage voltage-stacked SRAM for intelligent edge processors]]
+[[Jingcheng Wang]], [[Hyochan An]], [[Qirui Zhang]], [[Hun Seok Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+2020 IEEE Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/5/4
+[[Accelerating linear algebra kernels on a massively parallel reconfigurable architecture]]
+[[Anuraag Soorishetty]], [[Jian Zhou]], [[Subhankar Pal]], [[David Blaauw]], [[H Kim]], [[Trevor Mudge]], [[Ronald Dreslinski]], [[Chaitali Chakrabarti]]
+ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+-------------------------------------------------------------------------------------------------------------------------
+2020/5/1
+[[Extracting Power from Biological Sources for Activating Sensors/Biosensors]]
+[[Evgeny Katz]], [[Paolo Bollella]], [[Inhee Lee]], [[David Blaauw]]
+Electrochemical Society Meeting Abstracts 237
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/25
+[[Accelerating maximal-exact-match seeding with enumerated radix trees]]
+[[Arun Subramaniyan]], [[Jack Wadden]], [[Kush Goliya]], [[Nathan Ozog]], [[Xiao Wu]], [[Satish Narayanasamy]], [[David Blaauw]], [[Reetuparna Das]]
+BioRxiv
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/22
+[[A 2.46 m reads/s genome sequencing accelerator using a 625 processing-element array]]
+[[Zhehong Wang]], [[Tianjun Zhang]], [[Daichi Fujiki]], [[Arun Subramaniyan]], [[Xiao Wu]], [[Makoto Yasuda]], [[Satoru Miyoshi]], [[Masaru Kawaminami]], [[Reetuparna Das]], [[Satish Narayanasamy]], [[David Blaauw]]
+2020 IEEE Custom Integrated Circuits Conference (CICC)
+-------------------------------------------------------------------------------------------------------------------------
+2020/2/16
+[[26.9 A 0.19×0.17mm2 Wireless Neural Recording IC for Motor Prediction with Near-Infrared-Based Power and Data Telemetry]]
+[[Jongyup Lim]], [[Eunseong Moon]], [[Michael Barrow]], [[Samuel R Nason]], [[Paras R Patel]], [[Parag G Patil]], [[Sechang Oh]], [[Inhee Lee]], [[Hun-Seok Kim]], [[Dennis Sylvester]], [[David Blaauw]], [[Cynthia A Chestek]], [[Jamie Phillips]], [[Taekwang Jang]]
+2020 IEEE International Solid-State Circuits Conference-(ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2020/2/16
+[[3.3 A 0.51 nW 32kHz crystal oscillator achieving 2ppb allan deviation floor using high-energy-to-noise-ratio pulse injection]]
+[[Li Xu]], [[Taekwang Jang]], [[Jongyup Lim]], [[Kyojin Choo]], [[David Blaauw]], [[Dennis Sylvester]]
+2020 IEEE International Solid-State Circuits Conference-(ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2020/1/3
+[[A microelectronic sensor device powered by a small implantable biofuel cell]]
+[[Paolo Bollella]], [[Inhee Lee]], [[David Blaauw]], [[Evgeny Katz]]
+ChemPhysChem
+-------------------------------------------------------------------------------------------------------------------------
+2020/1/1
+[[A 7.3 m output non-zeros/j, 11.7 m output non-zeros/gb reconfigurable sparse matrix–matrix multiplication accelerator]]
+[[Dong-Hyeon Park]], [[Subhankar Pal]], [[Siying Feng]], [[Paul Gao]], [[Jielun Tan]], [[Austin Rovinski]], [[Shaolin Xie]], [[Chun Zhao]], [[Aporva Amarnath]], [[Timothy Wesley]], [[Jonathan Beaumont]], [[Kuan-Yu Chen]], [[Chaitali Chakrabarti]], [[Michael Bedford Taylor]], [[Trevor Mudge]], [[David Blaauw]], [[Hun-Seok Kim]], [[Ronald G Dreslinski]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019/12/27
+[[Millimeter-Scale Node-to-Node Radio Using a Carrier Frequency-Interlocking IF Receiver for a Fully Integrated 4 4 4 mm3 Wireless Sensor Node]]
+[[Li-Xuan Chuo]], [[Zhen Feng]], [[Yejoong Kim]], [[Nikolaos Chiotellis]], [[Makoto Yasuda]], [[Satoru Miyoshi]], [[Masaru Kawaminami]], [[Anthony Grbic]], [[David Wentzloff]], [[David Blaauw]], [[Hun-Seok Kim]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019/12/14
+[[Migrating monarch butterfly localization using multi-sensor fusion neural networks]]
+[[Mingyu Yang]], [[Roger Hsiao]], [[Gordy Carichner]], [[Katherine Ernst]], [[Jaechan Lim]], [[Delbert A Green II]], [[Inhee Lee]], [[David Blaauw]], [[Hun-Seok Kim]]
+arXiv preprint arXiv:1912.06907
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/29
+[[Simultaneous Interference-Data Transmission for Secret Key Generation in Distributed IoT Sensor Networks]]
+[[Najme Ebrahimi]], [[Hun-seok Kim]], [[David Blaauw]]
+arXiv preprint arXiv:1910.13355
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/16
+[[An efficient piezoelectric energy harvesting interface circuit using a sense-and-set rectifier]]
+[[Yimai Peng]], [[Kyojin D Choo]], [[Sechang Oh]], [[Inhee Lee]], [[Taekwang Jang]], [[Yejoong Kim]], [[Jongyup Lim]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/2
+[[A self-tuning IoT processor using leakage-ratio measurement for energy-optimal operation]]
+[[Jeongsup Lee]], [[Yiqun Zhang]], [[Qing Dong]], [[Wootaek Lim]], [[Mehdi Saligane]], [[Yejoong Kim]], [[Seokhyeon Jeong]], [[Jongyup Lim]], [[Makoto Yasuda]], [[Satoru Miyoshi]], [[Masaru Kawaminami]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019/9/25
+[[Energy-efficient motion-triggered IoT CMOS image sensor with capacitor array-assisted charge-injection SAR ADC]]
+[[Kyojin David Choo]], [[Li Xu]], [[Yejoong Kim]], [[Ji-Hwan Seol]], [[Xiao Wu]], [[Dennis Sylvester]], [[David Blaauw]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019/9/23
+[[A 28-nm compute SRAM with bit-serial logic/arithmetic operations for programmable in-memory vector computing]]
+[[Jingcheng Wang]], [[Xiaowei Wang]], [[Charles Eckert]], [[Arun Subramaniyan]], [[Reetuparna Das]], [[David Blaauw]], [[Dennis Sylvester]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019/9/12
+[[An acoustic signal processing chip with 142-nW voice activity detection using mixer-based sequential frequency scanning and neural network classification]]
+[[Sechang Oh]], [[Minchang Cho]], [[Zhan Shi]], [[Jongyup Lim]], [[Yejoong Kim]], [[Seokhyeon Jeong]], [[Yu Chen]], [[Rohit Rothe]], [[David Blaauw]], [[Hun-Seok Kim]], [[Dennis Sylvester]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
