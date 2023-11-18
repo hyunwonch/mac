@@ -1,0 +1,360 @@
+2023/3/25
+[[Infinity stream: Portable and programmer-friendly in-/near-memory fusion]]
+[[Zhengrong Wang]], [[Christopher Liu]], [[Aman Arora]], [[Lizy John]], [[Tony Nowatzki]]
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3
+-------------------------------------------------------------------------------------------------------------------------
+2023
+[[Affinity Alloc: Taming Not-So Near-Data Computing]]
+[[Zhengrong Wang]], [[Christopher Liu]], [[Nathan Beckmann]], [[Tony Nowatzki]]
+To mitigate the data movement bottleneck on large multicore systems, the near-data computing paradigm (NDC) offloads computation to where the data resides on-chip. The benefit of NDC heavily depends on spatial affinity, where all relevant data are in the same location, eg same cache bank. However, existing NDC works lack a general and systematic solution: they either ignore the problem and abort NDC when there is no spatial affinity, or rely on error-prone manual data placement.
+Our insight is that the essential affinity relationship, ie data A should be close to data B, is orthogonal to microarchitecture details and input sizes. By co-optimizing the data structure and capturing this general affinity information in the data allocation interface, the allocator can automatically optimize for data affinity and load balance to make NDC computations truly near data. With this insight, we propose affinity alloc, a general framework to optimize data layout for near-data computing. It comprises an extended allocator runtime, co-optimized data structures, and lightweight extensions to the OS and microarchitecture. Evaluated on parallel workloads across broad domains, affinity alloc achieves 2.26× speedup and 1.76× energy efficiency over a state-of-the-art near-data computing technique with 72% traffic reduction.
+-------------------------------------------------------------------------------------------------------------------------
+2023
+[[Explainable-DSE: An Agile and Explainable Exploration of Efficient Hardware/Software Codesigns of Deep Learning Accelerators Using Bottleneck Analysis]]
+[[Shail Dave]], [[Tony Nowatzki]], [[Aviral Shrivastava]]
+Effective design space exploration (DSE) is paramount for hardware/software codesigns of deep learning accelerators that must meet strict execution constraints. For their vast search space, existing DSE techniques can require excessive number of trials to obtain valid and efficient solution because they rely on black-box explorations that do not reason about design inefficiencies. In this paper, we propose Explainable-DSE–a framework for DSE of DNN accelerator codesigns using bottleneck analysis. By leveraging information about execution costs from bottleneck models, our DSE is able to identify the bottlenecks and therefore the reasons for design inefficiency, and can therefore make mitigating acquisitions in further explorations. We describe the construction of such bottleneck models for DNN accelerator domain. We also propose an API for expressing such domain-specific models and integrating them into the DSE framework. Acquisitions of our DSE framework caters to multiple bottlenecks in executions of workloads like DNNs that contain different functions with diverse execution characteristics. Evaluations for recent computer vision and language models show that Explainable-DSE mostly explores effectual candidates, achieving codesigns of 6× lower latency in 47× fewer iterations vs. non-explainable techniques using evolutionary or ML-based optimizations. By taking minutes or tens of iterations, it enables opportunities for runtime DSEs.
+-------------------------------------------------------------------------------------------------------------------------
+2022/10
+[[Riptide: A programmable, energy-minimal dataflow compiler and architecture]]
+[[Graham Gobieski]], [[Souradip Ghosh]], [[Marijn Heule]], [[Todd Mowry]], [[Tony Nowatzki]], [[Nathan Beckmann]], [[Brandon Lucia]]
+2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/1
+[[A programmable, energy-minimal dataflow compiler and architecture]]
+[[Graham Gobieski]], [[Souradip Ghosh]], [[Marijn Heule]], [[Todd Mowry]], [[Tony Nowatzki]], [[Nathan Beckmann]], [[Brandon Lucia]]
+2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/1
+[[OverGen: Improving FPGA usability through domain-specific overlay generation]]
+[[Sihao Liu]], [[Jian Weng]], [[Dylan Kupsh]], [[Atefeh Sohrabizadeh]], [[Zhengrong Wang]], [[Licheng Guo]], [[Jiuyang Liu]], [[Maxim Zhulin]], [[Rishabh Mani]], [[Lucheng Zhang]], [[Jason Cong]], [[Tony Nowatzki]]
+2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2022/8/31
+[[Infinity Stream: enabling transparent and automated in-memory computing]]
+[[Zhengrong Wang]], [[Christopher Liu]], [[Tony Nowatzki]]
+IEEE Computer Architecture Letters
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/12
+[[Unifying spatial accelerator compilation with idiomatic and modular transformations]]
+[[Jian Weng]], [[Sihao Liu]], [[Dylan Kupsh]], [[Tony Nowatzki]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/18
+[[The Mozart reuse exposed dataflow processor for AI and beyond: Industrial product]]
+[[Karthikeyan Sankaralingam]], [[Tony Nowatzki]], [[Vinay Gangadhar]], [[Preyas Shah]], [[Michael Davies]], [[William Galliher]], [[Ziliang Guo]], [[Jitu Khare]], [[Deepak Vijay]], [[Poly Palamuttam]], [[Maghawan Punde]], [[Alex Tan]], [[Vijay Thiruvengadam]], [[Rongyi Wang]], [[Shunmiao Xu]]
+Proceedings of the 49th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2022/4/2
+[[Near-stream computing: General and transparent near-cache acceleration]]
+[[Zhengrong Wang]], [[Jian Weng]], [[Sihao Liu]], [[Tony Nowatzki]]
+2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+-------------------------------------------------------------------------------------------------------------------------
+2022/3/22
+[[Systematically understanding graph accelerator dimensions and the value of hardware flexibility]]
+[[Vidushi Dadu]], [[Sihao Liu]], [[Tony Nowatzki]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/28
+[[TaskStream: accelerating task-parallel workloads by recovering program structure]]
+[[Vidushi Dadu]], [[Tony Nowatzki]]
+Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+-------------------------------------------------------------------------------------------------------------------------
+2022
+[[The Mozart Reuse Exposed Dataflow Processor for AI and Beyond]]
+[[Karthikeyan Sankaralingam]], [[Tony Nowatzki]], [[Vinay Gangadhar]], [[Preyas Shah]], [[Michael Davies]], [[William Galliher]], [[Ziliang Guo]], [[Jitu Khare]], [[Deepak Vijay]], [[Poly Palamuttam]], [[Maghawan Punde]], [[Alex Tan]], [[Vijay Thiruvengadam]], [[Rongyi Wang]], [[Shunmiao Xu]]
+Proc. Int. Symp. Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/18
+[[Session details: Session 8B: Sparse Processing]]
+[[Tony Nowatzki]]
+MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2021/8/22
+[[Mozart: Designing for software maturity and the next paradigm for chip architectures]]
+[[Karu Sankaralingam]], [[Tony Nowatzki]], [[Greg Wright]], [[Poly Palamuttam]], [[Jitu Khare]], [[Vinay Gangadhar]], [[Preyas Shah]]
+2021 IEEE Hot Chips 33 Symposium (HCS)
+-------------------------------------------------------------------------------------------------------------------------
+2021/8/5
+[[Hardware acceleration of sparse and irregular tensor computations of ml models: A survey and insights]]
+[[Shail Dave]], [[Riyadh Baghdadi]], [[Tony Nowatzki]], [[Sasikanth Avancha]], [[Aviral Shrivastava]], [[Baoxin Li]]
+Proceedings of the IEEE
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/27
+[[Stream floating: Enabling proactive and decentralized cache optimizations]]
+[[Zhengrong Wang]], [[Jian Weng]], [[Jason Lowe-Power]], [[Jayesh Gaur]], [[Tony Nowatzki]]
+2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/27
+[[UNIT: Unifying tensorized instruction compilation]]
+[[Jian Weng]], [[Animesh Jain]], [[Jie Wang]], [[Leyuan Wang]], [[Yida Wang]], [[Tony Nowatzki]]
+2021 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)
+-------------------------------------------------------------------------------------------------------------------------
+2021
+[[PolyGraph: Exposing the Value of Flexibility for Graph Processing Accelerators]]
+[[Vidushi Dadu]], [[Sihao Liu]], [[Tony Nowatzki]]
+2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)
+-------------------------------------------------------------------------------------------------------------------------
+2021
+[[Generality is the Key Dimension in Accelerator Design]]
+[[Jian Weng Vidushi Dadu Sihao Liu]], [[Tony Nowatzki]]
+Power
+-------------------------------------------------------------------------------------------------------------------------
+2020/5/30
+[[Dsagen: Synthesizing programmable spatial accelerators]]
+[[Jian Weng]], [[Sihao Liu]], [[Vidushi Dadu]], [[Zhengrong Wang]], [[Preyas Shah]], [[Tony Nowatzki]]
+2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)
+-------------------------------------------------------------------------------------------------------------------------
+2020/2/22
+[[A hybrid systolic-dataflow architecture for inductive matrix algorithms]]
+[[Jian Weng]], [[Sihao Liu]], [[Zhengrong Wang]], [[Vidushi Dadu]], [[Tony Nowatzki]]
+2020 IEEE International Symposium on High Performance Computer Architecture (HPCA)
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/12
+[[Towards general purpose acceleration by exploiting common data-dependence forms]]
+[[Vidushi Dadu]], [[Jian Weng]], [[Sihao Liu]], [[Tony Nowatzki]]
+Proceedings of the 52nd Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/12
+[[μir-an intermediate representation for transforming and optimizing the microarchitecture of application accelerators]]
+[[Amirali Sharifian]], [[Reza Hojabr]], [[Navid Rahimi]], [[Sihao Liu]], [[Apala Guha]], [[Tony Nowatzki]], [[Arrvindh Shriraman]]
+Proceedings of the 52nd Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/22
+[[Stream-based memory access specialization for general purpose processors]]
+[[Zhengrong Wang]], [[Tony Nowatzki]]
+Proceedings of the 46th International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2019/6
+[[The magazine archive includes every article published in Communications of the ACM for over the past 50 years.]]
+[[Tony Nowatzki]], [[Vinay Gangadhar]], [[Karthikeyan Sankaralingam]]
+Communications of the ACM
+-------------------------------------------------------------------------------------------------------------------------
+2019/5/21
+[[Heterogeneous von Neumann/dataflow microprocessors]]
+[[Tony Nowatzki]], [[Vinay Gangadhar]], [[Karthikeyan Sankaralingam]]
+Communications of the ACM
+-------------------------------------------------------------------------------------------------------------------------
+2018/11/1
+[[Hybrid optimization/heuristic instruction scheduling for programmable accelerator codesign]]
+[[Tony Nowatzki]], [[Newsha Ardalani]], [[Karthikeyan Sankaralingam]], [[Jian Weng]]
+Proceedings of the 27th International Conference on Parallel Architectures and Compilation Techniques
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/24
+[[Stream-dataflow acceleration]]
+[[Tony Nowatzki]], [[Vinay Gangadhar]], [[Newsha Ardalani]], [[Karthikeyan Sankaralingam]]
+Proceedings of the 44th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/14
+[[Domain specialization is generally unnecessary for accelerators]]
+[[Tony Nowatzki]], [[Vinay Gangadhar]], [[Karthikeyan Sankaralingam]], [[Greg Wright]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/9
+[[Kickstarting semiconductor innovation with open source hardware]]
+[[Gagan Gupta]], [[Tony Nowatzki]], [[Vinay Gangadhar]], [[Karthikeyan Sankaralingam]]
+Computer
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[Stream-dataflow acceleration. In 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)]]
+[[Tony Nowatzki]], [[Vinay Gangadhar]], [[Newsha Ardalani]], [[Karthikeyan Sankaralingam]]
+IEEE Proc. ISCA, Toronto, ON, Canada, 24th-28th Jun
+-------------------------------------------------------------------------------------------------------------------------
+2016/8/1
+[[Modularizing the microprocessor core to outperform traditional out-of-order]]
+[[Tony Nowatzki]], [[Karthikeyan Sankaralingam]]
+2016 IEEE Hot Chips 28 Symposium (HCS)
+-------------------------------------------------------------------------------------------------------------------------
+2016/5/25
+[[A heterogeneous von neumann/explicit dataflow processor]]
+[[Tony Nowatzki]], [[Vinay Gangadhar]], [[Karthikeyan Sankaralingam]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2016/3/25
+[[Analyzing behavior specialized acceleration]]
+[[Tony Nowatzki]], [[Karthikeyan Sankaralingam]]
+ACM SIGPLAN Notices
+-------------------------------------------------------------------------------------------------------------------------
+2016/3/12
+[[Software transparent dynamic binary translation for coarse-grain reconfigurable architectures]]
+[[Matthew A Watkins]], [[Tony Nowatzki]], [[Anthony Carno]]
+2016 IEEE International symposium on high performance computer architecture (HPCA)
+-------------------------------------------------------------------------------------------------------------------------
+2016/3/12
+[[Pushing the limits of accelerator efficiency while retaining programmability]]
+[[Tony Nowatzki]], [[Vinay Gangadhan]], [[Karthikeyan Sankaralingam]], [[Greg Wright]]
+2016 IEEE International Symposium on High Performance Computer Architecture (HPCA)
+-------------------------------------------------------------------------------------------------------------------------
+2016
+[[Behavior Specialized Processors]]
+[[Tony Nowatzki]]
+The University of Wisconsin-Madison
+-------------------------------------------------------------------------------------------------------------------------
+2015/12/29
+[[Comprehensive Circuit Failure Prediction for Logic and SRAM Using Virtual Aging]]
+[[Amir Yazdanbakhsh]], [[Raghuraman Balasubramanian]], [[Tony Nowatzki]], [[Karthikeyan Sankaralingam]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2015/7/13
+[[Architectural simulators considered harmful]]
+[[Tony Nowatzki]], [[Jaikrishnan Menon]], [[Chen-Han Ho]], [[Karthikeyan Sankaralingam]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2015/7/2
+[[Studying hybrid von-neumann/dataflow execution models]]
+[[Tony Nowatzki]], [[Venkatraman Govindaraju]], [[Karthikeyan Sankaralingam]]
+Hardware specialization is becoming a promising paradigm for future microprocessors. Unfortunately, by its very nature, the exploration of specialization ideas, (the artifact is dubbed an ?accelerator?) are developed, evaluated, and published as end-to-end vertical silos spanning application, language/compiler, and hardware architecture, with per-accelerator customized tools, and little opportunity for cross-application of ideas from one accelerator into another. This paper develops a novel program representation suitable for the hardware specialization paradigm, called the transformable dependence graph (TDG), which combines semantic information about program properties and low-level hardware events (cache misses, branch mis-predictions, resource hazards, energy expended by hardware events) in a single representation. We demonstrate that the TDG is a feasible, simple, and accurate modeling technique for transparent specialization approaches, enabling architectures to be compared and analyzed easily in a single framework. We demonstrate models for four previously proposed accelerators.
+-------------------------------------------------------------------------------------------------------------------------
+2015/6/13
+[[Exploring the potential of heterogeneous von neumann/dataflow execution models]]
+[[Tony Nowatzki]], [[Vinay Gangadhar]], [[Karthikeyan Sankaralingam]]
+Proceedings of the 42nd annual international symposium on computer architecture
+-------------------------------------------------------------------------------------------------------------------------
+2015/3/29
+[[Performance evaluation of a DySER FPGA prototype system spanning the compiler, microarchitecture, and hardware implementation]]
+[[Chen-Han Hoy]], [[Venkatraman Govindarajuz]], [[Tony Nowatzki]], [[Ranjini Nagaraju]], [[Zachary Marzec]], [[Preeti Agarwal]], [[Chris Frericks]], [[Ryan Cofell]], [[Karthikeyan Sankaralingam]]
+2015 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+-------------------------------------------------------------------------------------------------------------------------
+2014/11/17
+[[A scheduling framework for spatial architectures across multiple constraint-solving theories]]
+[[Tony Nowatzki]], [[Michael Sartin-Tarm]], [[Lorenzo De Carli]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]], [[Behnam Robatmili]]
+ACM Transactions on Programming Languages and Systems (TOPLAS)
+-------------------------------------------------------------------------------------------------------------------------
+2014
+[[Case Study: Instruction Set Customization]]
+[[Tony Nowatzki]], [[Michael Ferris]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]], [[Nilay Vaish]], [[David Wood]]
+Optimization and Mathematical Modeling in Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2014
+[[An Overview of Optimization]]
+[[Tony Nowatzki]], [[Michael Ferris]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]], [[Nilay Vaish]], [[David Wood]]
+Optimization and Mathematical Modeling in Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2014
+[[Case Study: Data Center Resource Management]]
+[[Tony Nowatzki]], [[Michael Ferris]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]], [[Nilay Vaish]], [[David Wood]]
+Optimization and Mathematical Modeling in Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2014
+[[Case Study: Spatial Architecture Scheduling]]
+[[Tony Nowatzki]], [[Michael Ferris]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]], [[Nilay Vaish]], [[David Wood]]
+Optimization and Mathematical Modeling in Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2014
+[[Case Study: Resource Allocation in Tiled Architectures]]
+[[Tony Nowatzki]], [[Michael Ferris]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]], [[Nilay Vaish]], [[David Wood]]
+Optimization and Mathematical Modeling in Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2014
+[[gem5, gpgpusim, mcpat, gpuwattch," your favorite simulator here" considered harmful]]
+[[Tony Nowatzki]], [[Jaikrishnan Menon]], [[Chen-Han Ho]], [[Karthikeyan Sankaralingam]]
+
+-------------------------------------------------------------------------------------------------------------------------
+2014
+[[Optimization and mathematical modeling in computer architecture]]
+[[Tony Nowatzki]], [[Michael C Ferris]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]], [[Nilay Vaish]], [[David Allen Wood]]
+Morgan & Claypool
+-------------------------------------------------------------------------------------------------------------------------
+2013/9/7
+[[Breaking SIMD shackles with an exposed flexible microarchitecture and the access execute PDG]]
+[[Venkatraman Govindaraju]], [[Tony Nowatzki]], [[Karthikeyan Sankaralingam]]
+Proceedings of the 22nd international conference on Parallel architectures and compilation techniques
+-------------------------------------------------------------------------------------------------------------------------
+2013/6/16
+[[A general constraint-centric scheduling framework for spatial architectures]]
+[[Tony Nowatzki]], [[Michael Sartin-Tarm]], [[Lorenzo De Carli]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]], [[Behnam Robatmili]]
+ACM SIGPLAN Notices
+-------------------------------------------------------------------------------------------------------------------------
+2013/5/29
+[[Constraint centric scheduling guide]]
+[[Michael Sartin-Tarm]], [[Tony Nowatzki]], [[Lorenzo De Carli]], [[Karthikeyan Sankaralingam]], [[Cristian Estan]]
+ACM SIGARCH Computer Architecture News
+-------------------------------------------------------------------------------------------------------------------------
+2012/8/27
+[[Prototyping the DySER specialization architecture with OpenSPARC]]
+[[Jesse Benson]], [[Ryan Cofell]], [[Chris Frericks]], [[Venkatraman Govindaraju]], [[Chen-Han Ho]], [[Zachary Marzec]], [[Tony Nowatzki]], [[Karu Sankaralingam]]
+2012 IEEE Hot Chips 24 Symposium (HCS)
+-------------------------------------------------------------------------------------------------------------------------
+2012/7/10
+[[Dyser: Unifying functionality and parallelism specialization for energy-efficient computing]]
+[[Venkatraman Govindaraju]], [[Chen-Han Ho]], [[Tony Nowatzki]], [[Jatin Chhugani]], [[Nadathur Satish]], [[Karthikeyan Sankaralingam]], [[Changkyu Kim]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2012/6/13
+[[Mechanisms for Parallelism Specialization for the DySER Architecture]]
+[[Karthikeyan Sankaralingam]], [[Tony Nowatzki]], [[Chen-Han Ho]], [[Venkatraraman Govindaraju]]
+University of Wisconsin-Madison Department of Computer Sciences
+-------------------------------------------------------------------------------------------------------------------------
+2012/6
+[[Mechanisms for Parallelism Specialization for the DySER Architecture]]
+[[V Govindaraju]], [[CH Ho]], [[T Nowatzki]], [[K Sankaralingam]]
+UW-Madison, Tech. Rep. TR-1773
+-------------------------------------------------------------------------------------------------------------------------
+2012/2/25
+[[Design, integration and implementation of the DySER hardware accelerator into OpenSPARC]]
+[[Jesse Benson]], [[Ryan Cofell]], [[Chris Frericks]], [[Chen-Han Ho]], [[Venkatraman Govindaraju]], [[Tony Nowatzki]], [[Karthikeyan Sankaralingam]]
+IEEE International Symposium on High-Performance Comp Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2012
+[[4 Awards]]
+[[Thomas F Wenisch]], [[Alper Buyuktosunoglu]], [[Vibhu Sharma]], [[Stefan Cosemans]], [[Maryam Ashouie]], [[Jos Huisken]], [[Francky Catthoor]], [[Wim Dehaene]], [[Multithreaded Embedded Processor]], [[David Burgess]], [[Edmund Gieske]], [[James Holt]], [[Thomas Hoy]], [[Gary Whisenhunt]], [[Venkatraman Govindaraju]], [[Chen-Han Ho]], [[Tony Nowatzki]], [[Jatin Chhugani]], [[Nadathur Satish]], [[Karthikeyan Sankaralingam]], [[Changkyu Kim]], [[Boris Grot]], [[Damien Hardy]], [[Pejman Lotfi-Kamran]], [[Babak Falsafi]], [[Chrysostomos Nicopoulos]], [[Yiannakis Sazeides]], [[Sherief Reda]], [[Ryan Cochran]], [[Ayse K Coskun]]
+Table of Contents
+-------------------------------------------------------------------------------------------------------------------------
+2010/5/1
+[[Boosting the performance of computational fluid dynamics codes for interactive supercomputing]]
+[[Paul R Woodward]], [[Jagan Jayaraj]], [[Pei-Hung Lin]], [[Pen-Chung Yew]], [[Michael Knox]], [[Jim Greensky]], [[Anthony Nowatski]], [[Karl Stoffels]]
+Procedia Computer Science
+-------------------------------------------------------------------------------------------------------------------------
+2010/3
+[[The piecewise-parabolic Boltzmann advection scheme (PPB) applied to multifluid hydrodynamics]]
+[[Paul R Woodward]], [[DH Porter]], [[William Dai]], [[Tyler Fuchs]], [[A Nowatzki]], [[Michael Knox]], [[Guy Dimonte]], [[Falk Herwig]], [[Chris Fryer]]
+report LA-UR
+-------------------------------------------------------------------------------------------------------------------------
+2008/3/11
+[[Nuclear burning and mixing in the first stars: entrainment at a convective boundary using the PPB advection scheme]]
+[[Paul Woodward]], [[Falk Herwig]], [[David Porter]], [[Tyler Fuchs]], [[Anthony Nowatzki]], [[Marco Pignatari]]
+AIP Conference Proceedings
+-------------------------------------------------------------------------------------------------------------------------
+2008
+[[American Institute of Physics Conf]]
+[[P Woodward]], [[F Herwig]], [[D Porter]], [[T Fuchs]], [[A Nowatzki]], [[M Pignatari]]
+990
+-------------------------------------------------------------------------------------------------------------------------
+2008
+[[First Stars III]]
+[[P Woodward]], [[F Herwig]], [[D Porter]], [[T Fuchs]], [[A Nowatzki]], [[M Pignatari]], [[BW O'Shea]], [[A Heger]]
+AIP Conf. Ser.
+-------------------------------------------------------------------------------------------------------------------------
+Domain specific accelerators (DSAs), which sacrifice programmability for efficiency, are a reaction to the waning benefits of device scaling. This work demonstrates that there are commonalities between DSAs that can be exploited with programmable mechanisms. The goal is to create a programmable architecture can match the benefits of a DSA, and create a platform for future accelerator investigations.
+[[Your Accelerator is Not So Special]]
+[[Tony Nowatzki]], [[Vinay Gangadhar]], [[Karthikeyan Sankaralingam]], [[Greg Wright]]
+Your Accelerator is Not So Special
+T Nowatzki, V Gangadhar, K Sankaralingam, G Wright
+Related articles All 2 versions
+-------------------------------------------------------------------------------------------------------------------------
+Provides a listing of current committee members and society officers.
+[[ICCD 2019]]
+[[Keiji Kimura]], [[Victor Kravets]], [[Devesh Tiwari]], [[Masahiro Fujita]], [[Davide Pandini]], [[John Kim]], [[Shantanu Dutt]], [[Siddhartha Nath]], [[Qingchuan Shi]], [[Theocharis Theocharides]], [[Syed Rafay Hasan]], [[Changhee Jung]], [[Armin Alaghi]], [[Wei Zhang]], [[Alan Mishchenko]], [[Yasutaka Wada]], [[Aida Todri-Sanial]], [[Takatsugu Ono]], [[Dhabaleswar Panda]], [[Shanq-Jang Ruan]], [[Yi Wang]], [[Ali Butt]], [[Dibakar Gope]], [[Hyoseung Kim]], [[Yongsoo Song]], [[Song Fu]], [[Sabya Das]], [[James Tuck]], [[Tony Nowatzki]], [[Tomoaki Tsumura]], [[Tanguy Risset]], [[Huiyang Zhou]], [[Jiafeng Xie]], [[Kiyoharu Hamaguchi]], [[Vijaykrishnan Narayanan]], [[Xin Fu]], [[Mahdi Bojnordi]], [[Bo Yuan]], [[Dimitrios Soudris]], [[James Stine]], [[Anna Bernasconi]], [[Henry Duwe]], [[Erik Larsson]], [[Bruce Childers]], [[Jose Joao]], [[Sicun Gao]], [[Christophe Jego]]
+ICCD 2019
+K Kimura, V Kravets, D Tiwari, M Fujita, D Pandini…
+-------------------------------------------------------------------------------------------------------------------------
+Author index Toggle navigation IEEE Computer Society Digital Library Jobs Tech News Resource Center Press Room Advertising About Us IEEE IEEE Computer Society IEEE Computer Society Digital Library My Subscriptions Magazines Journals Conference Proceedings Institutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News Resource Center Press Room Advertising About Us Cart All Advanced Search Conference Cover Image Download 1.Home 2.Proceedings 3.isca 2019 Author index 2019, pp. 816-819, DOI Bookmark: Keywords Authors Abstract Presents an index of the authors whose articles are published in the conference proceedings record. Author indexAamodt, Tor M., Abellán, José L., Abhari, Ali Javadi, Adileh, Almutaz, Aga, Shaizeen, Ahn, Jung Ho, Ajorpaz, Samira Mirbagher, Alderete, Cinthia Huerta, Alves, Ricardo, Amit, Nadav, …
+[[Ranganathan, Parthasarathy]]
+[[Tahsin Ahmad Khan]], [[Jangwoo Kim]], [[Jeremie S Kim]], [[John Kim]], [[Joonsung Kim]], [[Martha A Kim]], [[Nam Sung Kim]], [[Yeseong Kim]], [[Aasheesh Kolli]], [[Gunjae Koo]], [[Farinaz Koushanfar]], [[Christos Kozyrakis]], [[Trivikram Krishnamurthy]], [[Alberto Delmas Lascorz]], [[Eojin Lee]], [[Gyu-Hyeon Lee]], [[Jaewon Lee]], [[Sukhan Lee]], [[Yue Leng]], [[Hsiang-Pang Li]], [[Lele Li]], [[Ling Li]], [[Tao Li]], [[Youjie Li]], [[Calvin Lin]], [[Chit-Kwan Lin]], [[Jun Lin]], [[Norbert Matthias Linke]], [[Heiner Litz]], [[Fangming Liu]], [[Iou-Jen Liu]], [[Rami Melhem]], [[Dongmoon Min]], [[Asit Mishra]], [[Nikita Mishra]], [[Saiful A Mojumder]], [[Tipp Moseley]], [[Andreas Moshovos]], [[Prakash Murali]], [[Onur Mutlu]], [[Nayana Prasad Nagendra]], [[Satish Narayanasamy]], [[Krishnendra Nathella]], [[David Nellans]], [[Nhung Hong Nguyen]], [[Milos Nikolic]], [[Laurent Njilla]], [[Tony Nowatzki]], [[Yunho Oh]], [[Kunle Olukotun]], [[Minesh Patel]], [[Ashutosh Pattnaik]], [[Gennady Pekhimenko]], [[Zissis Poulos]], [[Raghu Prabhakar]], [[Seth Pugsley]], [[Xuehai Qian]], [[Moinuddin K Qureshi]], [[Mingoo Seok]], [[Sayeh Sharify]], [[Timothy Sherwood]], [[Ronak Singhal]], [[Kevin Siu]], [[Anand Sivasubramaniam]], [[Magnus Själander]], [[Dimitrios Skarlatos]], [[Kaitlin Smith]], [[Yan Solihin]], [[Mingcong Song]], [[Shuaiwen Leon Song]], [[Read Sprabery]], [[Akshitha Sriraman]], [[Dylan Malone Stuart]], [[G Edward Suh]], [[Fangxuan Sun]], [[Qiuyue Sun]], [[Yifan Sun]], [[Dam Sunwoo]], [[Jakub Szefer]], [[Xulong Tang]], [[Stephen J Tarsa]], [[Elvira Teran]], [[Mitch Thornton]], [[Josep Torrellas]], [[Shane Treadway]], [[Hung-Wei Tseng]], [[Rafael Ubal]]
+Ranganathan, Parthasarathy
+TA Khan, J Kim, JS Kim, J Kim, J Kim, MA Kim, NS Kim…
+All 2 versions
+-------------------------------------------------------------------------------------------------------------------------
+A new and powerful approach to multifluid hydrodynamics has been developed and applied over the last few years to a variety of problems involving the development of turbulent mixing of different fluids at unstable multifluid interfaces. As in the traditional volume of fluid techniques, a specially adapted advection scheme is applied within the context of a gas dynamics method, in this case the Piecewise-Parabolic Method (PPM). The multitluid fractional volume variable is advected using the Piecewise-Parabolic Boltzmann (PPB) scheme, which is an extension to 3-D constrained advection of van Leer's Scheme VI advection scheme for ID. Ten moments of the fractional volume in each grid cell are updated by PPB in a strictly conserving formulation. Unlike the recent Moment of Fluid method, which dates from around the same time as our initial work with PPB in PPM, we demand that if the fractional volume is non-vanishing anywhere in a grid cell, it must be so at all points inside the cell. This forces the representation of a sharp multitluid interface to be smeared out over at least one cell. Nevertheless, the subcell information maintained by the scheme, plus judicious handling of constraints that the fractional volume cannot be negative nor can it exceed unity, result in very sharp interface representations when this is appropriate. The advantages of this approach and the results it delivers on multiple applications are discussed.
+[[Q Alamos]]
+[[Paul R Woodward]], [[David Porter]], [[William Dai]], [[Tyler Fucks]], [[Tony Nowatzki]], [[Michael Knox]], [[Guy Dimonte]], [[Falk Herwig]], [[Chris Fryer]]
+Q Alamos
+PR Woodward, D Porter, W Dai, T Fucks, T Nowatzki…
+Related articles
+-------------------------------------------------------------------------------------------------------------------------
+!"################################################################################################################################################################# $% $ &'!!"##############(!"# $% &'%()!* & $+#, $)'!*+,-!. &)')!+"##########/0,-.+*'$/0+/1# $12$) & &-) 2$!"##############################(3 (2'# 3# &# 4'* $#-$+ 5$,# 2!%* 4+!)*!+) 5.'"############################################################################################################################################################# 6/+# 2 $4!/#'.## $%')% 7-) 5'+! 2.)%! $) 8*!+ 8%"#################################################################################################### 9 (-& $(# 6#.!,%#/: &): &';"####################################################### 00* $2$$+ $".* 4 &* 4!*!+ 8+ 8 2 1$:<" …
+[[Session 1A Hardware Accelerators]]
+[[Mahdi Nazm Bojnordi]], [[Engin Ipek]], [[Divya Mahajan]], [[Jongse Park]], [[Emmanuel Amaro]], [[Hardik Sharma]], [[Amir Yazdanbaksh]], [[Joon Kim]], [[Hadi Esmaeilzadeh]], [[Tony Nowatzki]], [[Vinay Gangadhar]], [[Karthikeyan Sankaralingam]], [[Greg Wright]]
+Session 1A Hardware Accelerators
+MN Bojnordi, E Ipek, D Mahajan, J Park, E Amaro…
+All 2 versions
+-------------------------------------------------------------------------------------------------------------------------

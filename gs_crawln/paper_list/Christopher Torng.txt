@@ -1,0 +1,158 @@
+2023/9/22
+[[Amber: A 16-nm System-on-Chip With a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra]]
+[[Kathleen Feng]], [[Taeyoung Kong]], [[Kalhan Koul]], [[Jackson Melchert]], [[Alex Carsello]], [[Qiaoyi Liu]], [[Gedeon Nyengele]], [[Maxwell Strange]], [[Keyi Zhang]], [[Ankita Nayak]], [[Jeff Setter]], [[James Thomas]], [[Kavya Sreedhar]], [[Po-Han Chen]], [[Nikhil Bhagdikar]], [[Zach A Myers]], [[Brandon D’Agostino]], [[Pranil Joshi]], [[Stephen Richardson]], [[Christopher Torng]], [[Mark Horowitz]], [[Priyanka Raina]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2023/4/19
+[[Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays]]
+[[Jackson Melchert]], [[Keyi Zhang]], [[Yuchen Mei]], [[Mark Horowitz]], [[Christopher Torng]], [[Priyanka Raina]]
+IEEE Computer Architecture Letters
+-------------------------------------------------------------------------------------------------------------------------
+2023/4/3
+[[Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains]]
+[[Ankita Nayak]], [[Keyi Zhang]], [[Rajsekhar Setaluri]], [[Alex Carsello]], [[Makai Mann]], [[Christopher Torng]], [[Stephen Richardson]], [[Rick Bahr]], [[Pat Hanrahan]], [[Mark Horowitz]], [[Priyanka Raina]]
+ACM Transactions on Reconfigurable Technology and Systems
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/24
+[[Aha: An agile approach to the design of coarse-grained reconfigurable accelerators and compilers]]
+[[Kalhan Koul]], [[Jackson Melchert]], [[Kavya Sreedhar]], [[Leonard Truong]], [[Gedeon Nyengele]], [[Keyi Zhang]], [[Qiaoyi Liu]], [[Jeff Setter]], [[Po-Han Chen]], [[Yuchen Mei]], [[Maxwell Strange]], [[Ross Daly]], [[Caleb Donovick]], [[Alex Carsello]], [[Taeyoung Kong]], [[Kathleen Feng]], [[Dillon Huff]], [[Ankita Nayak]], [[Rajsekhar Setaluri]], [[James Thomas]], [[Nikhil Bhagdikar]], [[David Durst]], [[Zachary Myers]], [[Nestan Tsiskaridze]], [[Stephen Richardson]], [[Rick Bahr]], [[Kayvon Fatahalian]], [[Pat Hanrahan]], [[Clark Barrett]], [[Mark Horowitz]], [[Christopher Torng]], [[Fredrik Kjolstad]], [[Priyanka Raina]]
+ACM Transactions on Embedded Computing Systems
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/2
+[[Hardware abstractions and hardware mechanisms to support multi-task execution on coarse-grained reconfigurable arrays]]
+[[Taeyoung Kong]], [[Kalhan Koul]], [[Priyanka Raina]], [[Mark Horowitz]], [[Christopher Torng]]
+arXiv preprint arXiv:2301.00861
+-------------------------------------------------------------------------------------------------------------------------
+2023
+[[Building First-Order Energy Modeling Intuition in Computer Architecture Lectures]]
+[[Christopher Torng]]
+Computer architecture students today arguably do not have as close a connection to energy as they do to performance. Specifically, they are not trained to reason about energy in a quantifiable way. Architecture students are taught that performance and energy are considered equally important. However, most course material focuses on a performance-driven narrative, meaning that students learn about processors, memories, networks, and systems with a strong sense of the performance implications, but with little intuition for the energy implications. On the other hand, VLSI students concretely learn about energy, but they are immersed in a world of gates and transistors and do not connect their understanding about energy back up to the abstraction of SoC-level components. How can we bridge this gap to enable architecture students to reason about the energy implications of hardware design concepts, directly within a computer architecture class? In this work, we attempt to mitigate these challenges by introducing a teaching methodology that integrates energy into pipeline diagrams. We include examples of specific classroom tools including the representation of an energy map, and we show how pipeline diagrams augmented with an energy map can enable first-order quantitative comparisons of performance, energy, and power across different design points. The approach is simple enough for lecture, in-class activities, and in exams. We hope this approach can train future students in thinking from first principles in evaluating performance-energy tradeoffs.
+-------------------------------------------------------------------------------------------------------------------------
+2022/8/1
+[[Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration]]
+[[Kathleen Feng]], [[Alex Carsello]], [[Taeyoung Kong]], [[Kalhan Koul]], [[Qiaoyi Liu]], [[Jackson Melchert]], [[Gedeon Nyengele]], [[Maxwell Strange]], [[Keyi Zhang]], [[Ankita Nayak]], [[Jeff Setter]], [[James Thomas]], [[Kavya Sreedhar]], [[Po-Han Chen]], [[Nikhil Bhagdikar]], [[Zachary Myers]], [[Brandon D'Agostino]], [[Pranil Joshi]], [[Stephen Richardson]], [[Rick Bahr]], [[Christopher Torng]], [[Mark Horowitz]], [[Priyanka Raina]]
+2022 IEEE Hot Chips 34 Symposium (HCS)
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/10
+[[mflowgen: A modular flow generator and ecosystem for community-driven physical design]]
+[[Alex Carsello]], [[James Thomas]], [[Ankita Nayak]], [[Po-Han Chen]], [[Mark Horowitz]], [[Priyanka Raina]], [[Christopher Torng]]
+Proceedings of the 59th ACM/IEEE Design Automation Conference
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a coarse-grained reconfigurable array for flexible acceleration of dense linear algebra]]
+[[Alex Carsello]], [[Kathleen Feng]], [[Taeyoung Kong]], [[Kalhan Koul]], [[Qiaoyi Liu]], [[Jackson Melchert]], [[Gedeon Nyengele]], [[Maxwell Strange]], [[Keyi Zhang]], [[Ankita Nayak]], [[Jeff Setter]], [[James Thomas]], [[Kavya Sreedhar]], [[Po-Han Chen]], [[Nikhil Bhagdikar]], [[Zachary Myers]], [[Brandon D’Agostino]], [[Pranil Joshi]], [[Stephen Richardson]], [[Rick Bahr]], [[Christopher Torng]], [[Mark Horowitz]], [[Priyanka Raina]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2022
+[[A Fast Large-Integer Extended GCD Algorithm and Hardware Design for Verifiable Delay Functions and Modular Inversion]]
+[[Kavya Sreedhar]], [[Mark Horowitz]], [[Christopher Torng]]
+IACR Transactions on Cryptographic Hardware and Embedded Systems
+-------------------------------------------------------------------------------------------------------------------------
+2021/11/29
+[[Enabling Reusable Physical Design Flows with Modular Flow Generators]]
+[[Alex Carsello]], [[James Thomas]], [[Ankita Nayak]], [[Po-Han Chen]], [[Mark Horowitz]], [[Priyanka Raina]], [[Christopher Torng]]
+arXiv preprint arXiv:2111.14535
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/27
+[[Ultra-elastic cgras for irregular loop specialization]]
+[[Christopher Torng]], [[Peitian Pan]], [[Yanghui Ou]], [[Cheng Tan]], [[Christopher Batten]]
+2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+-------------------------------------------------------------------------------------------------------------------------
+2020/7/20
+[[Creating an agile hardware design flow]]
+[[Rick Bahr]], [[Clark Barrett]], [[Nikhil Bhagdikar]], [[Alex Carsello]], [[Ross Daly]], [[Caleb Donovick]], [[David Durst]], [[Kayvon Fatahalian]], [[Kathleen Feng]], [[Pat Hanrahan]], [[Teguh Hofstee]], [[Mark Horowitz]], [[Dillon Huff]], [[Fredrik Kjolstad]], [[Taeyoung Kong]], [[Qiaoyi Liu]], [[Makai Mann]], [[Jackson Melchert]], [[Ankita Nayak]], [[Aina Niemetz]], [[Gedeon Nyengele]], [[Priyanka Raina]], [[Stephen Richardson]], [[Raj Setaluri]], [[Jeff Setter]], [[Kavya Sreedhar]], [[Maxwell Strange]], [[James Thomas]], [[Christopher Torng]], [[Leonard Truong]], [[Nestan Tsiskaridze]], [[Keyi Zhang]]
+2020 57th ACM/IEEE Design Automation Conference (DAC)
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/18
+[[Evaluating celerity: A 16-nm 695 Giga-RISC-V instructions/s manycore processor with synthesizable PLL]]
+[[Austin Rovinski]], [[Chun Zhao]], [[Khalid Al-Hawaj]], [[Paul Gao]], [[Shaolin Xie]], [[Christopher Torng]], [[Scott Davidson]], [[Aporva Amarnath]], [[Luis Vega]], [[Bandhav Veluri]], [[Anuj Rao]], [[Tutu Ajayi]], [[Julian Puscar]], [[Steve Dai]], [[Ritchie Zhao]], [[Dustin Richmond]], [[Zhiru Zhang]], [[Ian Galton]], [[Christopher Batten]], [[Michael B Taylor]], [[Ronald G Dreslinski]]
+IEEE Solid-State Circuits Letters
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/17
+[[PyOCN: A unified framework for modeling, testing, and evaluating on-chip networks]]
+[[Cheng Tan]], [[Yanghui Ou]], [[Shunning Jiang]], [[Peitian Pan]], [[Christopher Torng]], [[Shady Agwa]], [[Christopher Batten]]
+2019 IEEE 37th International Conference on Computer Design (ICCD)
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/9
+[[A 1.4 GHz 695 Giga Risc-V inst/s 496-core manycore processor with mesh on-chip network and an all-digital synthesized PLL in 16nm CMOS]]
+[[Austin Rovinski]], [[Chun Zhao]], [[Khalid Al-Hawaj]], [[Paul Gao]], [[Shaolin Xie]], [[Christopher Torng]], [[Scott Davidson]], [[Aporva Amarnath]], [[Luis Vega]], [[Bandhav Veluri]], [[Anuj Rao]], [[Tutu Ajayi]], [[Julian Puscar]], [[Steve Dai]], [[Ritchie Zhao]], [[Dustin Richmond]], [[Zhiru Zhang]], [[Ian Galton]], [[Christopher Batten]], [[Michael B Taylor]], [[Ronald G Dreslinski]]
+2019 Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019
+[[Software, Architecture, and VLSI Co-Design for Fine-Grain Voltage and Frequency Scaling]]
+[[Christopher Lin Torng]]
+Cornell University
+-------------------------------------------------------------------------------------------------------------------------
+2018/10
+[[A New Era of Silicon Prototyping in Computer Architecture Research]]
+[[Christopher Torng]], [[Shunning Jiang]], [[Khalid Al-Hawaj]], [[Ivan Bukreyev]], [[Berkin Ilbeyi]], [[Tuan Ta]], [[Lin Cheng]], [[Julian Puscar]], [[Ian Galton]], [[Christopher Batten]]
+The RISC-V Day Workshop at the 51st Int’l Symp. on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2018/6/24
+[[A modular digital VLSI flow for high-productivity SoC design]]
+[[Brucek Khailany]], [[Rangharajan Venkatesan]], [[Jason Clemons]], [[Joel S Emer]], [[Matthew Fojtik]], [[Alicia Klinefelter]], [[Michael Pellauer]], [[Nathaniel Pinckney]], [[Yakun Sophia Shao]], [[Shreesha Srinath]], [[Christopher Torng]], [[Sam Xi]], [[Yanqing Zhang]], [[Brian Zimmer]]
+Proceedings of the 55th Annual Design Automation Conference
+-------------------------------------------------------------------------------------------------------------------------
+2018/4/20
+[[The Celerity open-source 511-core RISC-V tiered accelerator fabric: Fast architectures and design methodologies for fast chips]]
+[[Scott Davidson]], [[Shaolin Xie]], [[Christopher Torng]], [[Khalid Al-Hawai]], [[Austin Rovinski]], [[Tutu Ajayi]], [[Luis Vega]], [[Chun Zhao]], [[Ritchie Zhao]], [[Steve Dai]], [[Aporva Amarnath]], [[Bandhav Veluri]], [[Paul Gao]], [[Anuj Rao]], [[Gai Liu]], [[Rajesh K Gupta]], [[Zhiru Zhang]], [[Ronald Dreslinski]], [[Christopher Batten]], [[Michael Bedford Taylor]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2018
+[[An open-source python-based hardware generation, simulation, and verification framework]]
+[[Shunning Jiang Christopher Torng Christopher Batten]]
+Proceedings of the Workshop on Open-Source EDA Technology (WOSET’18)
+-------------------------------------------------------------------------------------------------------------------------
+2017/11/27
+[[Four monolithically integrated switched-capacitor DC–DC converters with dynamic capacitance sharing in 65-nm CMOS]]
+[[Ivan Bukreyev]], [[Christopher Torng]], [[Waclaw Godycki]], [[Christopher Batten]], [[Alyssa Apsel]]
+IEEE Transactions on Circuits and Systems I: Regular Papers
+-------------------------------------------------------------------------------------------------------------------------
+2017/10/14
+[[Using intra-core loop-task accelerators to improve the productivity and performance of task-based parallel programs]]
+[[Ji Kim]], [[Shunning Jiang]], [[Christopher Torng]], [[Moyang Wang]], [[Shreesha Srinath]], [[Berkin Ilbeyi]], [[Khalid Al-Hawaj]], [[Christopher Batten]]
+Proceedings of the 50th Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2017/8
+[[Celerity: An open source RISC-V tiered accelerator fabric]]
+[[Tutu Ajayi]], [[Khalid Al-Hawaj]], [[Aporva Amarnath]], [[Steve Dai]], [[Scott Davidson]], [[Paul Gao]], [[Gai Liu]], [[Atieh Lotfi]], [[Julian Puscar]], [[Anuj Rao]], [[Austin Rovinski]], [[Loai Salem]], [[Ningxiao Sun]], [[Christopher Torng]], [[Luis Vega]], [[Bandhav Veluri]], [[Xiaoyang Wang]], [[Shaolin Xie]], [[Chun Zhao]], [[Ritchie Zhao]], [[Christopher Batten]], [[Ronald G Dreslinski]], [[Ian Galton]], [[Rajesh K Gupta]], [[Patrick P Mercier]], [[Mani Srivastava]], [[Michael B Taylor]], [[Zhiru Zhang]]
+Symp. on High Performance Chips (Hot Chips)
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[Experiences using the risc-v ecosystem to design an accelerator-centric soc in tsmc 16nm]]
+[[Tutu Ajayi1 Khalid Al-Hawaj Aporva]], [[Amarnath1 Steve Dai2 Scott Davidson]], [[Paul Gao4 Gai Liu2 Anuj Rao]], [[Austin Rovinski1 Ningxiao Sun4 Christopher Torng]], [[Luis Vega4 Bandhav Veluri4 Shaolin Xie]], [[Chun Zhao4 Ritchie Zhao]]
+1st Workshop on Computer Architecture Research with RISC-V (CARRV 2017)
+-------------------------------------------------------------------------------------------------------------------------
+2016/8/1
+[[Experiences using a novel Python-based hardware modeling framework for computer architecture test chips.]]
+[[Christopher Torng]], [[Moyang Wang]], [[Bharath Sudheendra]], [[Nagaraj Murali]], [[Suren Jayasuriya]], [[Shreesha Srinath]], [[Taylor Pritchard]], [[Robin Ying]], [[Christopher Batten]]
+Hot Chips Symposium
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/18
+[[Asymmetry-aware work-stealing runtimes]]
+[[Christopher Torng]], [[Moyang Wang]], [[Christopher Batten]]
+ACM SIGARCH Computer Architecture News
+-------------------------------------------------------------------------------------------------------------------------
+2014/12/13
+[[Enabling realistic fine-grain voltage scaling with reconfigurable power distribution networks]]
+[[Waclaw Godycki]], [[Christopher Torng]], [[Ivan Bukreyev]], [[Alyssa Apsel]], [[Christopher Batten]]
+2014 47th Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2013/6/23
+[[Microarchitectural mechanisms to exploit value structure in SIMT architectures]]
+[[Ji Kim]], [[Christopher Torng]], [[Shreesha Srinath]], [[Derek Lockhart]], [[Christopher Batten]]
+Proceedings of the 40th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+Technical Program Committee Toggle navigation IEEE Computer Society Digital Library Jobs Tech News Resource Center Press Room Advertising About Us IEEE IEEE Computer Society IEEE Computer Society Digital Library My Subscriptions Magazines Journals Conference Proceedings Institutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News Resource Center Press Room Advertising About Us Cart All Advanced Search Conference Cover Image Download 1.Home 2.Proceedings 3.micro 2022 Technical Program Committee 2022, pp. 31-33, DOI Bookmark: 10.1109/MICRO56248.2022.00008 Keywords Authors Abstract Presents the conference program. Technical Program Committee Aamer Jaleel, NVIDIA Abdullah Muzahid, Texas A&M University Ajay Joshi, Boston University Akanksha Jain, Google Alaa Alameldeen, Simon Fraser University Alberto Ros, University of Murcia Alex Rico, …
+[[Aamer Jaleel, NVIDIA Abdullah Muzahid, Texas A&M University Ajay Joshi, Boston University Akanksha Jain, Google]]
+[[Alaa Alameldeen]], [[Alberto Ros]], [[Alex Rico]], [[Ali Javadi-Abhari]], [[Alper Buyuktosunoglu]], [[Ang Li]], [[Arkaprava Basu]], [[Arrvindh Shriraman]], [[Artemiy Margaritov]], [[Arthur Perais]], [[Ashish Venkat]], [[Baris Kasikci]], [[Benjamin C Lee]], [[Brandon Lucia]], [[Changhee Jung]], [[Chao Li]], [[Cheng Tan]], [[Christopher Hughes]], [[Christopher Torng]], [[Chris Wilkerson]], [[Daniel A Jiménez]], [[Daniel Sanchez]], [[Daniel Wong]], [[Devesh Tiwari]], [[Dimitrios Skarlatos]], [[Dimitris Gizopoulos]], [[Dionisios Pnevmatikatos]], [[Divya Mahajan]], [[Dmitrii Ustiugov]], [[Dmitry Ponomarev]], [[Elaheh Sadredini]], [[Erik Altman]], [[Esha Choukse]], [[Gilles A Pokam]], [[Gokul Subramanian Ravi]], [[Huiyang Zhou]], [[Hung-Wei Tseng]], [[Hyeran Jeon]], [[Ismail Akturk]], [[Jack Sampson]], [[Jaehyuk Huh]], [[Jae W Lee]], [[Jaewoong Sim]], [[Jakub Szefer]]
+Aamer Jaleel, NVIDIA Abdullah Muzahid, Texas A&M University Ajay Joshi, Boston University Akanksha Jain, Google
+A Alameldeen, A Ros, A Rico, A Javadi-Abhari…
+All 2 versions
+-------------------------------------------------------------------------------------------------------------------------
+Presents the front cover or splash screen of the proceedings record.
+[[MiCRo 50 Author index]]
+[[Aamer Jaleel]], [[Aaron J Elmore]], [[Abhishek Bhattacharjee]], [[Adam Holmes]], [[Adam J McPadden]], [[Aditya Agrawal]], [[Akhil Arunkumar]], [[Alaa Alameldeen]], [[Alberto Delmas Lascorz]], [[Alex Ramirez]], [[AmirAli Abdolrashidi]], [[Amirali Boroumand]], [[Anand Sivasubramaniam]], [[Andreas Moshovos]], [[Andrew A Chien]], [[Andrew Lukefahr]], [[Ang Li]], [[Animesh Jain]], [[Antonio Gonzalez]], [[Ariel Eizenberg]], [[Arun Raghavan]], [[Arun Subramaniyan]], [[Athanasios Chatzidimitriou]], [[Babak Zamirai]], [[Barry P Rand]], [[Benjamin P Wood]], [[Berkin Ilbeyi]], [[Bharat Sukhwani]], [[Bo Yuan]], [[Bob Brennan]], [[Bojian Zheng]], [[CC Bultink]], [[CG Almudever]], [[Cagri Balkesen]], [[Caiwen Ding]], [[Chanyoung Oh]], [[Chao Wang]], [[Charles L Haymes]], [[Charlie Roth]], [[Chen Zou]], [[Chita R Das]], [[Chris Wilkerson]], [[Christian DeLozier]], [[Christopher Batten]], [[Christopher J Hughes]], [[Christopher J Rossbach]], [[Christopher Torng]], [[Daniel A Jiménez]], [[Daniel J Sorin]], [[Daniel Lustig]], [[Daniel M Dreps]], [[Daniel Wong]], [[Daphne I Gorman]], [[David Blaauw]], [[David Nellans]], [[David Wentzlaff]], [[Davoud Anoushe Jamshidi]], [[Dean Sanner]]
+MiCRo 50 Author index
+A Jaleel, AJ Elmore, A Bhattacharjee, A Holmes…
+-------------------------------------------------------------------------------------------------------------------------
