@@ -1,0 +1,75 @@
+2023/6/30
+[[FALCON: An FPGA Emulation Platform for Domain-Specific Systems-on-Chip (DSSoCs)]]
+[[Anish Krishnakumar]], [[Hanguang Yu]], [[Tutu Ajayi]], [[A Alper Goksoy]], [[Vishrut Pandey]], [[Joshua Mack]], [[Sahil Hassan]], [[Kuan-Yu Chen]], [[Chaitali Chakrabarti]], [[Daniel W Bliss]], [[Ali Akoglu]], [[Hun-Seok Kim]], [[Ronald G Dreslinski]], [[David Blaauw]], [[Umit Y Ogras]]
+IEEE Design & Test
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/17
+[[GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis]]
+[[Yufeng Gu]], [[Arun Subramaniyan]], [[Tim Dunn]], [[Alireza Khadem]], [[Kuan-Yu Chen]], [[Somnath Paul]], [[Md Vasimuddin]], [[Sanchit Misra]], [[David Blaauw]], [[Satish Narayanasamy]], [[Reetuparna Das]]
+Proceedings of the 50th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/8
+[[Locality-Aware Optimizations for Improving Remote Memory Latency in Multi-GPU Systems]]
+[[Leul Belayneh]], [[Haojie Ye]], [[Kuan-Yu Chen]], [[David Blaauw]], [[Trevor Mudge]], [[Ronald Dreslinski]], [[Nishil Talati]]
+Proceedings of the International Conference on Parallel Architectures and Compilation Techniques
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/8
+[[Squaring the circle: Executing Sparse Matrix Computations on FlexTPU---A TPU-Like Processor]]
+[[Xin He]], [[Kuan-Yu Chen]], [[Siying Feng]], [[Hun-Seok Kim]], [[David Blaauw]], [[Ronald Dreslinski]], [[Trevor Mudge]]
+Proceedings of the International Conference on Parallel Architectures and Compilation Techniques
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/1
+[[Mint: An Accelerator For Mining Temporal Motifs]]
+[[Nishil Talati]], [[Haojie Ye]], [[Sanketh Vedula]], [[Kuan-Yu Chen]], [[Yuhan Chen]], [[Daniel Liu]], [[Yichao Yuan]], [[David Blaauw]], [[Alex Bronstein]], [[Trevor Mudge]], [[Ronald Dreslinski]]
+2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/18
+[[MeNDA: a near-memory multi-way merge solution for sparse transposition and dataflows]]
+[[Siying Feng]], [[Xin He]], [[Kuan-Yu Chen]], [[Liu Ke]], [[Xuan Zhang]], [[David Blaauw]], [[Trevor Mudge]], [[Ronald Dreslinski]]
+Proceedings of the 49th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/18
+[[Ndminer: accelerating graph pattern mining using near data processing]]
+[[Nishil Talati]], [[Haojie Ye]], [[Yichen Yang]], [[Leul Belayneh]], [[Kuan-Yu Chen]], [[David Blaauw]], [[Trevor Mudge]], [[Ronald Dreslinski]]
+Proceedings of the 49th Annual International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[A 507 GMACs/J 256-core domain adaptive systolic-array-processor for wireless communication and linear-algebra kernels in 12nm FINFET]]
+[[Kuan-Yu Chen]], [[Chi-Sheng Yang]], [[Yu-Hsiu Sun]], [[Chien-Wei Tseng]], [[Morteza Fayazi]], [[Xin He]], [[Siying Feng]], [[Yufan Yue]], [[Trevor Mudge]], [[Ronald Dreslinski]], [[Hun-Seok Kim]], [[David Blaauw]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/27
+[[Enabling Software-Defined RF Convergence with a Novel Coarse-Scale Heterogeneous Processor]]
+[[DW Bliss]], [[T Ajayi]], [[A Akoglu]], [[I Aliyev]], [[T Basaklar]], [[L Belayneh]], [[D Blaauw]], [[J Brunhaver]], [[C Chakrabarti]], [[L Chang]], [[K-Y Chen]], [[M-H Chen]], [[X Chen]], [[AR Chiriyath]], [[A Daftardar]], [[R Dreslinski]], [[A Dutta]], [[AJ Farcas]], [[Y Fu]], [[A Goksoy]], [[X He]], [[Md S Hassan]], [[A Herschfelt]], [[J Holtom]], [[H-S Kim]], [[AN Krishnakumar]], [[Y Li]], [[O Ma]], [[J Mack]], [[S Mallik]], [[SK Mandal]], [[R Marculescu]], [[B McCall]], [[T Mudge]], [[UY Ogras]], [[V Pandey]], [[S Siddiqui]], [[Y-H Sun]], [[A Venkataramani]], [[X Wei]], [[BR Willis]], [[H Yu]], [[Y Yue]]
+2022 IEEE International Symposium on Circuits and Systems (ISCAS)
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/20
+[[A Long-Range Narrowband RF Localization System with a Crystal-Less Frequency-Hopping Receiver]]
+[[Chien-Wei Tseng]], [[Demba Komma]], [[Kuan-Yu Chen]], [[Rohit Rothe]], [[Zhen Feng]], [[Makoto Yasuda]], [[Masaru Kawaminami]], [[Hun-Seok Kim]], [[David Blaauw]]
+2022 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2022/1/31
+[[Versa: A 36-core systolic multiprocessor with dynamically reconfigurable interconnect and memory]]
+[[Sung Kim]], [[Morteza Fayazi]], [[Alhad Daftardar]], [[Kuan-Yu Chen]], [[Jielun Tan]], [[Subhankar Pal]], [[Tutu Ajayi]], [[Yan Xiong]], [[Trevor Mudge]], [[Chaitali Chakrabarti]], [[David Blaauw]], [[Ronald Dreslinski]], [[Hun-Seok Kim]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/18
+[[Squigglefilter: An accelerator for portable virus detection]]
+[[Tim Dunn]], [[Harisankar Sadasivan]], [[Jack Wadden]], [[Kush Goliya]], [[Kuan-Yu Chen]], [[David Blaauw]], [[Reetuparna Das]], [[Satish Narayanasamy]]
+MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/13
+[[Versa: A dataflow-centric multiprocessor with 36 systolic arm cortex-m4f cores and a reconfigurable crossbar-memory hierarchy in 28nm]]
+[[Sung Kim]], [[Morteza Fayazi]], [[Alhad Daftardar]], [[Kuan-Yu Chen]], [[Jielun Tan]], [[Subhankar Pal]], [[Tutu Ajayi]], [[Yan Xiong]], [[Trevor Mudge]], [[Chaitali Chakrabarti]], [[David Blaauw]], [[Ronald Dreslinski]], [[Hun-Seok Kim]]
+2021 Symposium on VLSI Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2020/1/1
+[[A 7.3 m output non-zeros/j, 11.7 m output non-zeros/gb reconfigurable sparse matrix–matrix multiplication accelerator]]
+[[Dong-Hyeon Park]], [[Subhankar Pal]], [[Siying Feng]], [[Paul Gao]], [[Jielun Tan]], [[Austin Rovinski]], [[Shaolin Xie]], [[Chun Zhao]], [[Aporva Amarnath]], [[Timothy Wesley]], [[Jonathan Beaumont]], [[Kuan-Yu Chen]], [[Chaitali Chakrabarti]], [[Michael Bedford Taylor]], [[Trevor Mudge]], [[David Blaauw]], [[Hun-Seok Kim]], [[Ronald G Dreslinski]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/9
+[[A 7.3 M Output Non-Zeros/J Sparse Matrix-Matrix Multiplication Accelerator using Memory Reconfiguration in 40 nm]]
+[[Subhankar Pal]], [[Dong-hyeon Park]], [[Siying Feng]], [[Paul Gao]], [[Jielun Tan]], [[Austin Rovinski]], [[Shaolin Xie]], [[Chun Zhao]], [[Aporva Amarnath]], [[Timothy Wesley]], [[Jonathan Beaumont]], [[Kuan-Yu Chen]], [[Chaitali Chakrabarti]], [[Michael Taylor]], [[Trevor Mudge]], [[David Blaauw]], [[Hun-Seok Kim]], [[Ronald Dreslinski]]
+2019 Symposium on VLSI Technology
+-------------------------------------------------------------------------------------------------------------------------
