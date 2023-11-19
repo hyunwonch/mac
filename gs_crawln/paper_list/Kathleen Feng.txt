@@ -1,0 +1,50 @@
+2023/9/22
+[[Amber: A 16-nm System-on-Chip With a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra]]
+[[Kathleen Feng]], [[Taeyoung Kong]], [[Kalhan Koul]], [[Jackson Melchert]], [[Alex Carsello]], [[Qiaoyi Liu]], [[Gedeon Nyengele]], [[Maxwell Strange]], [[Keyi Zhang]], [[Ankita Nayak]], [[Jeff Setter]], [[James Thomas]], [[Kavya Sreedhar]], [[Po-Han Chen]], [[Nikhil Bhagdikar]], [[Zach A Myers]], [[Brandon D’Agostino]], [[Pranil Joshi]], [[Stephen Richardson]], [[Christopher Torng]], [[Mark Horowitz]], [[Priyanka Raina]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2023/3/25
+[[APEX: A Framework for Automated Processing Element Design Space Exploration using Frequent Subgraph Analysis]]
+[[Jackson Melchert]], [[Kathleen Feng]], [[Caleb Donovick]], [[Ross Daly]], [[Ritvik Sharma]], [[Clark Barrett]], [[Mark A Horowitz]], [[Pat Hanrahan]], [[Priyanka Raina]]
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3
+-------------------------------------------------------------------------------------------------------------------------
+2023/3/1
+[[Unified Buffer: Compiling Image Processing and Machine Learning Applications to Push-Memory Accelerators]]
+[[Qiaoyi Liu]], [[Jeff Setter]], [[Dillon Huff]], [[Maxwell Strange]], [[Kathleen Feng]], [[Mark Horowitz]], [[Priyanka Raina]], [[Fredrik Kjolstad]]
+ACM Transactions on Architecture and Code Optimization
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/24
+[[Aha: An agile approach to the design of coarse-grained reconfigurable accelerators and compilers]]
+[[Kalhan Koul]], [[Jackson Melchert]], [[Kavya Sreedhar]], [[Leonard Truong]], [[Gedeon Nyengele]], [[Keyi Zhang]], [[Qiaoyi Liu]], [[Jeff Setter]], [[Po-Han Chen]], [[Yuchen Mei]], [[Maxwell Strange]], [[Ross Daly]], [[Caleb Donovick]], [[Alex Carsello]], [[Taeyoung Kong]], [[Kathleen Feng]], [[Dillon Huff]], [[Ankita Nayak]], [[Rajsekhar Setaluri]], [[James Thomas]], [[Nikhil Bhagdikar]], [[David Durst]], [[Zachary Myers]], [[Nestan Tsiskaridze]], [[Stephen Richardson]], [[Rick Bahr]], [[Kayvon Fatahalian]], [[Pat Hanrahan]], [[Clark Barrett]], [[Mark Horowitz]], [[Christopher Torng]], [[Fredrik Kjolstad]], [[Priyanka Raina]]
+ACM Transactions on Embedded Computing Systems
+-------------------------------------------------------------------------------------------------------------------------
+2022/8/1
+[[Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration]]
+[[Kathleen Feng]], [[Alex Carsello]], [[Taeyoung Kong]], [[Kalhan Koul]], [[Qiaoyi Liu]], [[Jackson Melchert]], [[Gedeon Nyengele]], [[Maxwell Strange]], [[Keyi Zhang]], [[Ankita Nayak]], [[Jeff Setter]], [[James Thomas]], [[Kavya Sreedhar]], [[Po-Han Chen]], [[Nikhil Bhagdikar]], [[Zachary Myers]], [[Brandon D'Agostino]], [[Pranil Joshi]], [[Stephen Richardson]], [[Rick Bahr]], [[Christopher Torng]], [[Mark Horowitz]], [[Priyanka Raina]]
+2022 IEEE Hot Chips 34 Symposium (HCS)
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/12
+[[Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra]]
+[[Alex Carsello]], [[Kathleen Feng]], [[Taeyoung Kong]], [[Kalhan Koul]], [[Qiaoyi Liu]], [[Jackson Melchert]], [[Gedeon Nyengele]], [[Maxwell Strange]], [[Keyi Zhang]], [[Ankita Nayak]], [[Jeff Setter]], [[James Thomas]], [[Kavya Sreedhar]], [[Po-Han Chen]], [[Nikhil Bhagdikar]], [[Zachary Myers]], [[Brandon D’Agostino]], [[Pranil Joshi]], [[Stephen Richardson]], [[Rick Bahr]], [[Christopher Torng]], [[Mark Horowitz]], [[Priyanka Raina]]
+2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/26
+[[Compiling Halide Programs to Push-Memory Accelerators]]
+[[Qiaoyi Liu]], [[Dillon Huff]], [[Jeff Setter]], [[Maxwell Strange]], [[Kathleen Feng]], [[Kavya Sreedhar]], [[Ziheng Wang]], [[Keyi Zhang]], [[Mark Horowitz]], [[Priyanka Raina]], [[Fredrik Kjolstad]]
+arXiv preprint arXiv:2105.12858
+-------------------------------------------------------------------------------------------------------------------------
+2021/4/29
+[[Automated design space exploration of cgra processing element architectures using frequent subgraph analysis]]
+[[Jackson Melchert]], [[Kathleen Feng]], [[Caleb Donovick]], [[Ross Daly]], [[Clark Barrett]], [[Mark Horowitz]], [[Pat Hanrahan]], [[Priyanka Raina]]
+arXiv preprint arXiv:2104.14155
+-------------------------------------------------------------------------------------------------------------------------
+2020/7/20
+[[Creating an agile hardware design flow]]
+[[Rick Bahr]], [[Clark Barrett]], [[Nikhil Bhagdikar]], [[Alex Carsello]], [[Ross Daly]], [[Caleb Donovick]], [[David Durst]], [[Kayvon Fatahalian]], [[Kathleen Feng]], [[Pat Hanrahan]], [[Teguh Hofstee]], [[Mark Horowitz]], [[Dillon Huff]], [[Fredrik Kjolstad]], [[Taeyoung Kong]], [[Qiaoyi Liu]], [[Makai Mann]], [[Jackson Melchert]], [[Ankita Nayak]], [[Aina Niemetz]], [[Gedeon Nyengele]], [[Priyanka Raina]], [[Stephen Richardson]], [[Raj Setaluri]], [[Jeff Setter]], [[Kavya Sreedhar]], [[Maxwell Strange]], [[James Thomas]], [[Christopher Torng]], [[Leonard Truong]], [[Nestan Tsiskaridze]], [[Keyi Zhang]]
+2020 57th ACM/IEEE Design Automation Conference (DAC)
+-------------------------------------------------------------------------------------------------------------------------
+2018/8/20
+[[Ultra Low-Cost Parallel Computing Using Low-End Phone Processors]]
+[[Kathleen Feng]]
+In the past few years, as the popularity and demand for smart mobile devices has grown, the performance of mobile phone processors has increased tremendously. At the same time, mobile processors have continued to have low costs, consume low power, and have compact designs, making them great processors for manycore, parallel computing. In this thesis, we present an ultra low-cost computer consisting of low-end mobile processors as a cost-effective alternative to high performance computing. We use the Allwinner H5, a quadcore, ARM-based processor that costs $4.50, to design a PCB with eight H5 processors that can connect to other boards in a flexible architecture and scale up to include many cores. Compared to a quadcore consumer processor and a 20-core server processor, the H5 has a better performance-to-cost ratio, demonstrating a peak ratio of 48.9 Mop/s/$, 1.63x the ratio for the Intel Xeon E5-2670 v2 processor and 3.71x the ratio for the Intel Core i7-4870HQ processor.
+-------------------------------------------------------------------------------------------------------------------------

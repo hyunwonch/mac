@@ -23,7 +23,3 @@ ACM Transactions on Embedded Computing Systems (TECS)
 [[Kalhan Koul]], [[Jackson Melchert]], [[Kavya Sreedhar]], [[Leonard Truong]], [[Gedeon Nyengele]], [[Keyi Zhang]], [[Qiaoyi Liu]], [[Jeff Setter]], [[Po-Han Chen]], [[Yuchen Mei]], [[Maxwell Strange]], [[Ross Daly]], [[Caleb Donovick]], [[Alex Carsello]], [[Taeyoung Kong]], [[Kathleen Feng]], [[Dillon Huff]], [[Ankita Nayak]], [[Rajsekhar Setaluri]], [[James Thomas]], [[Nikhil Bhagdikar]], [[David Durst]], [[Zachary Myers]], [[Nestan Tsiskaridze]], [[Stephen Richardson]], [[Rick Bahr]], [[Kayvon Fatahalian]], [[Pat Hanrahan]], [[Clark Barrett]], [[Mark Horowitz]], [[Christopher Torng]], [[Fredrik Kjolstad]], [[Priyanka Raina]]
 ACM
 -------------------------------------------------------------------------------------------------------------------------
-
-
-ih
-bye

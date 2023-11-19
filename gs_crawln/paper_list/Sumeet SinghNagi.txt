@@ -1,0 +1,30 @@
+2022/10/27
+[[A 16-nm 784-Core Digital Signal Processor Array, Assembled as a 2× 2 Dielet With 10-μm Pitch Interdielet I/O for Runtime Multiprogram Reconfiguration]]
+[[Sumeet Singh Nagi]], [[Uneeb Rathore]], [[Krutikesh Sahoo]], [[Tim Ling]], [[Subramanian S Iyer]], [[Dejan Marković]]
+IEEE Journal of Solid-State Circuits
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/20
+[[A 16nm 785GMACs/J 784-Core Digital Signal Processor Array With a Multilayer Switch Box Interconnect, Assembled as a 2× 2 Dielet with 10μm-Pitch Inter-Dielet I/O for Runtime …]]
+[[Uneeb Rathore]], [[Sumeet Singh Nagi]], [[Subramanian Iyer]], [[Dejan Marković]]
+2022 IEEE International Solid-State Circuits Conference (ISSCC)
+-------------------------------------------------------------------------------------------------------------------------
+2022
+[[Efficient, Scalable and High-Throughput Runtime Reconfigurable Arrays for Accelerator as a Service]]
+[[Sumeet Singh Nagi]]
+University of California, Los Angeles
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/19
+[[A Multi-Domain Architectural Efficiency Metric]]
+[[Sumeet Singh Nagi]], [[Dejan Markovic]]
+2021 IEEE Workshop on Signal Processing Systems (SiPS)
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/3
+[[Demonstration of a Low Latency (< 20 ps) Fine-pitch (≤ 10 μm) Assembly on the Silicon Interconnect Fabric]]
+[[SivaChandra Jangam]], [[Uneeb Rathore]], [[Sumeet Nagi]], [[Dejan Markovic]], [[Subramanian S Iyer]]
+2020 IEEE 70th Electronic Components and Technology Conference (ECTC)
+-------------------------------------------------------------------------------------------------------------------------
+2014/4/4
+[[MedAssist: automated medication kit]]
+[[Kshitiz Gupta]], [[Arpit Jain]], [[P Harsha Vardhan]], [[Sumeet Singh]], [[Aashish Amber]], [[Amit Sethi]]
+2014 Texas Instruments India Educators' Conference (TIIEC)
+-------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+2023
+[[Developing, Synthesizing, and Automating Domain-Specific Accelerators]]
+[[Jian Weng]]
+University of California, Los Angeles
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/12
+[[Unifying spatial accelerator compilation with idiomatic and modular transformations]]
+[[Jian Weng]], [[Sihao Liu]], [[Dylan Kupsh]], [[Tony Nowatzki]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/27
+[[UNIT: Unifying tensorized instruction compilation]]
+[[Jian Weng]], [[Animesh Jain]], [[Jie Wang]], [[Leyuan Wang]], [[Yida Wang]], [[Tony Nowatzki]]
+2021 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)
+-------------------------------------------------------------------------------------------------------------------------
+2020/5/30
+[[Dsagen: Synthesizing programmable spatial accelerators]]
+[[Jian Weng]], [[Sihao Liu]], [[Vidushi Dadu]], [[Zhengrong Wang]], [[Preyas Shah]], [[Tony Nowatzki]]
+2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)
+-------------------------------------------------------------------------------------------------------------------------
+2020/2/22
+[[A hybrid systolic-dataflow architecture for inductive matrix algorithms]]
+[[Jian Weng]], [[Sihao Liu]], [[Zhengrong Wang]], [[Vidushi Dadu]], [[Tony Nowatzki]]
+2020 IEEE International Symposium on High Performance Computer Architecture (HPCA)
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/25
+[[DAEGEN: A modular compiler for exploring decoupled spatial accelerators]]
+[[Jian Weng]], [[Sihao Liu]], [[Vidushi Dadu]], [[Tony Nowatzki]]
+IEEE Computer Architecture Letters
+-------------------------------------------------------------------------------------------------------------------------

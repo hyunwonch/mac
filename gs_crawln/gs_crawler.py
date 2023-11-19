@@ -30,7 +30,7 @@ def get_url(driver, url):
         driver.close()
 
 
-def gs_crawling(search_command, stop_year):
+def gs_crawling(search_command, stop_year, override, override_url):
 
     driver = get_driver()
 
@@ -40,8 +40,6 @@ def gs_crawling(search_command, stop_year):
     print(f"Name : {search_command}, Until : {stop_year}")
     url = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=" + search_command + "&btnG="
 
-    override_url = "https://scholar.google.com/citations?user=6tBFbCQAAAAJ&hl=en"
-    override = 0
     end_signal = 0
 
     if (override):
@@ -161,13 +159,21 @@ if __name__ == '__main__':
     if(len(argv) == 4):
         stop_year = argv[3]
     else:
-        stop_year = '2018'
+        stop_year = '2015'
 
+    if(len(argv) >= 5):
+        override = int(argv[4])
+        override_url = argv[5].strip('"')
+    else:
+        override = 0
+        override_url = ''
+
+    print(override, override_url)
     print(search_command)
     print(stop_year)
 
 
 
 
-    gs_crawling(search_command, stop_year)
+    gs_crawling(search_command, stop_year, override, override_url)
 
