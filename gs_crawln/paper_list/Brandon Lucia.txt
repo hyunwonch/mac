@@ -1,0 +1,325 @@
+2023/9/11
+[[A 10.33 μJ/encryption Homomorphic Encryption Engine in 28nm CMOS with 4096-degree 109-bit Polynomials for Resource-Constrained IoT Clients]]
+[[Siddharth Das]], [[McKenzie Van Der Hagen]], [[Swarali Patil]], [[Cagri Erbagci]], [[Brandon Lucia]], [[Ken Mai]]
+ESSCIRC 2023-IEEE 49th European Solid State Circuits Conference (ESSCIRC)
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/6
+[[A Type System for Safe Intermittent Computing]]
+[[Milijana Surbatovich]], [[Naomi Spargo]], [[Limin Jia]], [[Brandon Lucia]]
+Proceedings of the ACM on Programming Languages
+-------------------------------------------------------------------------------------------------------------------------
+2023/5/21
+[[MANIC: A @ 4MHz, 256 MOPS/mW, RISC-V microcontroller with embedded MRAM main memory and vector-dataflow co-processor in 22nm bulk finFET CMOS]]
+[[Graham Gobieski]], [[Oguz Atli]], [[Cagri Erbagci]], [[Ken Mai]], [[Nathan Beckmann]], [[Brandon Lucia]]
+2023 IEEE International Symposium on Circuits and Systems (ISCAS)
+-------------------------------------------------------------------------------------------------------------------------
+2023/3/25
+[[Kodan: Addressing the computational bottleneck in space]]
+[[Bradley Denby]], [[Krishna Chintalapudi]], [[Ranveer Chandra]], [[Brandon Lucia]], [[Shadi Noghabi]]
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3
+-------------------------------------------------------------------------------------------------------------------------
+2023
+[[Technical Report: A Type System for Safe Intermittent Computing]]
+[[Milijana Surbatovich]], [[Naomi Spargo]], [[Limin Jia]], [[Brandon Lucia]]
+Carnegie Mellon University
+-------------------------------------------------------------------------------------------------------------------------
+2023/1
+[[Lost in Space: Visual Satellite Navigation]]
+[[Kyle McCleary]], [[Paulo RM Fisch]], [[Saral Tayal]], [[Zac Manchester]], [[Brandon Lucia]]
+Active Methods in Autonomous Navigation Workshop
+-------------------------------------------------------------------------------------------------------------------------
+2022/10
+[[Riptide: A programmable, energy-minimal dataflow compiler and architecture]]
+[[Graham Gobieski]], [[Souradip Ghosh]], [[Marijn Heule]], [[Todd Mowry]], [[Tony Nowatzki]], [[Nathan Beckmann]], [[Brandon Lucia]]
+2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/1
+[[An architectural charge management interface for energy-harvesting systems]]
+[[Emily Ruppel]], [[Milijana Surbatovich]], [[Harsh Desai]], [[Kiwan Maeng]], [[Brandon Lucia]]
+2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/1
+[[A programmable, energy-minimal dataflow compiler and architecture]]
+[[Graham Gobieski]], [[Souradip Ghosh]], [[Marijn Heule]], [[Todd Mowry]], [[Tony Nowatzki]], [[Nathan Beckmann]], [[Brandon Lucia]]
+2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+-------------------------------------------------------------------------------------------------------------------------
+2022/7
+[[Guest Editorial: Special issue on battery‐free computing]]
+[[Geoff V Merrett]], [[Bernd‐Christian Renner]], [[Brandon Lucia]]
+IET Computers & Digital Techniques
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/28
+[[Camaroptera: A long-range image sensor with local inference for remote sensing applications]]
+[[Harsh Desai]], [[Matteo Nardello]], [[Davide Brunelli]], [[Brandon Lucia]]
+ACM Transactions on Embedded Computing Systems (TECS)
+-------------------------------------------------------------------------------------------------------------------------
+2022/4/1
+[[Improving Locality of Irregular Updates with Hardware Assisted Propagation Blocking.]]
+[[Vignesh Balaji]], [[Brandon Lucia]]
+HPCA
+-------------------------------------------------------------------------------------------------------------------------
+2022
+[[Tartan artibeus: A batteryless, computational satellite research platform]]
+[[Brad Denby]], [[Emily Ruppel]], [[Vaibhav Singh]], [[Shize Che]], [[Chad Taylor]], [[Fayyaz Zaidi]], [[Swarun Kumar]], [[Zac Manchester]], [[Brandon Lucia]]
+TTartan Artibeus (TA1) is the first batteryless, computational pocketqube satellite; its open-source hardware and software launched into low-Earth orbit (LEO) in January 2022. TA1 is a 1p (125 cm 3) pocketqube built around the Tartan Artibeus Bus (TAB), which connects independently-designed modules into a batteryless, computational satellite. In TA1, TAB incorporates an electrical power supply (EPS) module that harvests solar energy into a supercapacitor, a fault-tolerant command and data handling (C&DH) module, a radio-communication module, and a configurable computational payload module.
+-------------------------------------------------------------------------------------------------------------------------
+2022
+[[Client-Optimized Algorithms and Acceleration for Encrypted Compute Offloading]]
+[[McKenzie van der Hagen]], [[Brandon Lucia]]
+Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+-------------------------------------------------------------------------------------------------------------------------
+2021/7/12
+[[Neat: Low-Complexity, Efficient On-Chip Cache Coherence]]
+[[Rui Zhang]], [[Swarnendu Biswas]], [[Vignesh Balaji]], [[Michael D Bond]], [[Brandon Lucia]]
+arXiv preprint arXiv:2107.05453
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/19
+[[Automatically enforcing fresh and consistent inputs in intermittent systems]]
+[[Milijana Surbatovich]], [[Limin Jia]], [[Brandon Lucia]]
+Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/17
+[[Computational nanosatellite constellations: Opportunities and challenges]]
+[[Brandon Lucia]], [[Brad Denby]], [[Zachary Manchester]], [[Harsh Desai]], [[Emily Ruppel]], [[Alexei Colin]]
+GetMobile: Mobile Computing and Communications
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/14
+[[Snafu: an ultra-low-power, energy-minimal cgra-generation framework and architecture]]
+[[Graham Gobieski]], [[Ahmet Oguz Atli]], [[Kenneth Mai]], [[Brandon Lucia]], [[Nathan Beckmann]]
+2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)
+-------------------------------------------------------------------------------------------------------------------------
+2021/3/15
+[[Understanding and improving failure tolerant training for deep learning recommendation with partial recovery]]
+[[Kiwan Maeng]], [[Shivam Bharuka]], [[Isabel Gao]], [[Mark Jeffrey]], [[Vikram Saraph]], [[Bor-Yiing Su]], [[Caroline Trippel]], [[Jiyan Yang]], [[Mike Rabbat]], [[Brandon Lucia]], [[Carole-Jean Wu]]
+Proceedings of Machine Learning and Systems
+-------------------------------------------------------------------------------------------------------------------------
+2021/3/11
+[[Practical encrypted computing for iot clients]]
+[[McKenzie van der Hagen]], [[Brandon Lucia]]
+arXiv preprint arXiv:2103.06743
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/24
+[[The role of edge offload for hardware-accelerated mobile devices]]
+[[Mahadev Satyanarayanan]], [[Nathan Beckmann]], [[Grace A Lewis]], [[Brandon Lucia]]
+Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications
+-------------------------------------------------------------------------------------------------------------------------
+2021
+[[P-opt: Practical optimal cache replacement for graph analytics]]
+[[Vignesh Balaji]], [[Neal Crago]], [[Aamer Jaleel]], [[Brandon Lucia]]
+2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/17
+[[Optimizing graph processing and preprocessing with hardware assisted propagation blocking]]
+[[Vignesh Balaji]], [[Brandon Lucia]]
+arXiv preprint arXiv:2011.08451
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/13
+[[Towards a formal foundation of intermittent computing]]
+[[Milijana Surbatovich]], [[Brandon Lucia]], [[Limin Jia]]
+Proceedings of the ACM on Programming Languages
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/11
+[[Adaptive low-overhead scheduling for periodic and reactive intermittent execution]]
+[[Kiwan Maeng]], [[Brandon Lucia]]
+Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation
+-------------------------------------------------------------------------------------------------------------------------
+2020/4/24
+[[A power-aware heterogeneous architecture scaling model for energy-harvesting computers]]
+[[Harsh Desai]], [[Brandon Lucia]]
+IEEE Computer Architecture Letters
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/9
+[[Orbital edge computing: Nanosatellite constellations as a new class of computer system]]
+[[Bradley Denby]], [[Brandon Lucia]]
+Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/9
+[[Peacenik: Architecture support for not failing under fail-stop memory consistency]]
+[[Rui Zhang]], [[Swarnendu Biswas]], [[Vignesh Balaji]], [[Michael D Bond]], [[Brandon Lucia]]
+Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems
+-------------------------------------------------------------------------------------------------------------------------
+2020/2/4
+[[Dynamic task-based intermittent execution for energy-harvesting devices]]
+[[Amjad Yousef Majid]], [[Carlo Delle Donne]], [[Kiwan Maeng]], [[Alexei Colin]], [[Kasim Sinan Yildirim]], [[Brandon Lucia]], [[Przemysław Pawełczak]]
+ACM Transactions on Sensor Networks (TOSN)
+-------------------------------------------------------------------------------------------------------------------------
+2019/12/4
+[[Enhancing Stratospheric Weather Analyses and Forecasts by Deploying Sensors from a Weather Balloon]]
+[[Kiwan Maeng]], [[Iskender Kushan]], [[Brandon Lucia]], [[Ashish Kapoor]]
+arXiv preprint arXiv:1912.02276
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/10
+[[ENSsys 2019 Chairs' Welcome]]
+[[Christian Renner]], [[Brandon Lucia]], [[Alex Weddell]], [[Josiah Hester]]
+ENSsys 2019-Proceedings of the 7th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/10
+[[Camaroptera: A batteryless long-range remote visual sensing system]]
+[[Matteo Nardello]], [[Harsh Desai]], [[Davide Brunelli]], [[Brandon Lucia]]
+Proceedings of the 7th International Workshop on Energy Harvesting & Energy-Neutral Sensing Systems
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/12
+[[Manic: A vector-dataflow architecture for ultra-low-power embedded systems]]
+[[Graham Gobieski]], [[Amolak Nagi]], [[Nathan Serafin]], [[Mehmet Meric Isgenc]], [[Nathan Beckmann]], [[Brandon Lucia]]
+Proceedings of the 52nd Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/10
+[[I/O dependent idempotence bugs in intermittent systems]]
+[[Milijana Surbatovich]], [[Limin Jia]], [[Brandon Lucia]]
+Proceedings of the ACM on Programming Languages
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/22
+[[CoNDA: Efficient cache coherence support for near-data accelerators]]
+[[Amirali Boroumand]], [[Saugata Ghose]], [[Minesh Patel]], [[Hasan Hassan]], [[Brandon Lucia]], [[Rachata Ausavarungnirun]], [[Kevin Hsieh]], [[Nastaran Hajinazar]], [[Krishna T Malladi]], [[Hongzhong Zheng]], [[Onur Mutlu]]
+Proceedings of the 46th International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/17
+[[Combining data duplication and graph reordering to accelerate parallel graph processing]]
+[[Vignesh Balaji]], [[Brandon Lucia]]
+Proceedings of the 28th International symposium on high-performance parallel and distributed computing
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/8
+[[Supporting peripherals in intermittent systems with just-in-time checkpoints]]
+[[Kiwan Maeng]], [[Brandon Lucia]]
+Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/8
+[[Transactional concurrency control for intermittent, energy-harvesting computing systems]]
+[[Emily Ruppel]], [[Brandon Lucia]]
+Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation
+-------------------------------------------------------------------------------------------------------------------------
+2019/5/20
+[[Rethinking Support for Region Conflict Exceptions]]
+[[Swarnendu Biswas]], [[Rui Zhang]], [[Michael D Bond]], [[Brandon Lucia]]
+2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+-------------------------------------------------------------------------------------------------------------------------
+2019/4/4
+[[Intelligence beyond the edge: Inference on intermittent embedded systems]]
+[[Graham Gobieski]], [[Brandon Lucia]], [[Nathan Beckmann]]
+Proceedings of the Twenty-Fourth International Conference on Architectural Support for Programming Languages and Operating Systems
+-------------------------------------------------------------------------------------------------------------------------
+2019/3/26
+[[Orbital edge computing: Machine inference in space]]
+[[Bradley Denby]], [[Brandon Lucia]]
+IEEE Computer Architecture Letters
+-------------------------------------------------------------------------------------------------------------------------
+2019/3/1
+[[Orbital edge computing: Processing data in space]]
+[[Bradley Denby]], [[Brandon Lucia]]
+IEEE Computer Architecture Letters
+-------------------------------------------------------------------------------------------------------------------------
+2019/2/22
+[[The computing landscape of the 21st century]]
+[[Mahadev Satyanarayanan]], [[Wei Gao]], [[Brandon Lucia]]
+Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications
+-------------------------------------------------------------------------------------------------------------------------
+2018/9/1
+[[Inter-disciplinary research challenges in computer systems for the 2020s]]
+[[Albert Cohen]], [[Xipeng Shen]], [[Josep Torrellas]], [[James Tuck]], [[Yuanyuan Zhou]], [[Sarita Adve]], [[Ismail Akturk]], [[Saurabh Bagchi]], [[Rajeev Balasubramonian]], [[Rajkishore Barik]], [[Micah Beck]], [[Ras Bodik]], [[Ali Butt]], [[Luis Ceze]], [[Haibo Chen]], [[Yiran Chen]], [[Trishul Chilimbi]], [[Mihai Christodorescu]], [[John Criswell]], [[Chen Ding]], [[Yufei Ding]], [[Sandhya Dwarkadas]], [[Erik Elmroth]], [[Phil Gibbons]], [[Xiaochen Guo]], [[Rajesh Gupta]], [[Gernot Heiser]], [[Hank Hoffman]], [[Jian Huang]], [[Hillery Hunter]], [[John Kim]], [[Sam King]], [[James Larus]], [[Chen Liu]], [[Shan Lu]], [[Brandon Lucia]], [[Saeed Maleki]], [[Somnath Mazumdar]], [[Iulian Neamtiu]], [[Keshav Pingali]], [[Paolo Rech]], [[Michael Scott]], [[Yan Solihin]], [[Dawn Song]], [[Jakub Szefer]], [[Dan Tsafrir]], [[Bhuvan Urgaonkar]], [[Marilyn Wolf]], [[Yuan Xie]], [[Jishen Zhao]], [[Lin Zhong]], [[Yuhao Zhu]]
+National Science Foundation
+-------------------------------------------------------------------------------------------------------------------------
+2018/3/19
+[[A reconfigurable energy storage architecture for energy-harvesting devices]]
+[[Alexei Colin]], [[Emily Ruppel]], [[Brandon Lucia]]
+Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems
+-------------------------------------------------------------------------------------------------------------------------
+2018/3/19
+[[SOFRITAS: Serializable ordering-free regions for increasing thread atomicity scalably]]
+[[Christian DeLozier]], [[Ariel Eizenberg]], [[Brandon Lucia]], [[Joseph Devietti]]
+Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems
+-------------------------------------------------------------------------------------------------------------------------
+2018/2/24
+[[Termination checking and task decomposition for task-based intermittent programs]]
+[[Alexei Colin]], [[Brandon Lucia]]
+Proceedings of the 27th International Conference on Compiler Construction
+-------------------------------------------------------------------------------------------------------------------------
+2018
+[[Adaptive dynamic checkpointing for safe efficient intermittent computing]]
+[[Kiwan Maeng]], [[Brandon Lucia]]
+13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18)
+-------------------------------------------------------------------------------------------------------------------------
+2018
+[[When is Graph Reordering an Optimization? studying the effect of lightweight graph reordering across applications and input graphs]]
+[[Vignesh Balaji]], [[Brandon Lucia]]
+2018 IEEE International Symposium on Workload Characterization (IISWC)
+-------------------------------------------------------------------------------------------------------------------------
+2018
+[[Intermittent deep neural network inference]]
+[[Graham Gobieski]], [[Nathan Beckmann]], [[Brandon Lucia]]
+SysML Conference
+-------------------------------------------------------------------------------------------------------------------------
+2017/10/1
+[[Alpaca: Intermittent execution without checkpoints]]
+[[Kiwan Maeng]], [[Alexei Colin]], [[Brandon Lucia]]
+Proceedings of the ACM on Programming Languages, October 2017, Article No.: 96
+-------------------------------------------------------------------------------------------------------------------------
+2017/9/26
+[[Flexible support for fast parallel commutative updates]]
+[[Vignesh Balaji]], [[Dhruva Tirumala]], [[Brandon Lucia]]
+arXiv preprint arXiv:1709.09491
+-------------------------------------------------------------------------------------------------------------------------
+2017/8/10
+[[Guest Editor Introduction PPoPP 2016, Special Issue 2 of 2]]
+[[Grey Ballard]], [[Mary Hall]], [[Tim Harris]], [[Brandon Lucia]]
+ACM Transactions on Parallel Computing (TOPC)
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/14
+[[An energy-aware debugger for intermittently powered systems]]
+[[Alexei Colin]], [[Graham Harvey]], [[Alanson P Sample]], [[Brandon Lucia]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/10
+[[LazyPIM: Efficient support for cache coherence in processing-in-memory architectures]]
+[[Amirali Boroumand]], [[Saugata Ghose]], [[Minesh Patel]], [[Hasan Hassan]], [[Brandon Lucia]], [[Nastaran Hajinazar]], [[Kevin Hsieh]], [[Krishna T Malladi]], [[Hongzhong Zheng]], [[Onur Mutlu]]
+arXiv preprint arXiv:1706.03162
+-------------------------------------------------------------------------------------------------------------------------
+2017/1/26
+[[Poster: An architecture and programming model for accelerating parallel commutative computations via privatization]]
+[[Vignesh Balaji]], [[Dhruva Tirumala]], [[Brandon Lucia]]
+ACM SIGPLAN Notices
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[Efficient Architecture Support for Region-Serializability-Based Consistency]]
+[[Swarnendu Biswas]], [[Rui Zhang]], [[Michael D Bond]], [[Brandon Lucia]]
+Technical Report OSU-CISRC-4/17-TR01, Computer Science & Engineering, Ohio State University
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[Intermittent computing: Challenges and opportunities]]
+[[Brandon Lucia]], [[Vignesh Balaji]], [[Alexei Colin]], [[Kiwan Maeng]], [[Emily Ruppel]]
+2nd Summit on Advances in Programming Languages (SNAPL 2017)
+-------------------------------------------------------------------------------------------------------------------------
+2016/10/19
+[[Chain: tasks and channels for reliable intermittent programs]]
+[[Alexei Colin]], [[Brandon Lucia]]
+Proceedings of the 2016 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/7
+[[LazyPIM: An efficient cache coherence mechanism for processing-in-memory]]
+[[Amirali Boroumand]], [[Saugata Ghose]], [[Minesh Patel]], [[Hasan Hassan]], [[Brandon Lucia]], [[Kevin Hsieh]], [[Krishna T Malladi]], [[Hongzhong Zheng]], [[Onur Mutlu]]
+IEEE Computer Architecture Letters
+-------------------------------------------------------------------------------------------------------------------------
+2016/4/6
+[[Concurrency debugging with differential schedule projections]]
+[[Nuno Machado]], [[Daniel Quinta]], [[Brandon Lucia]], [[Luis Rodrigues]]
+ACM Transactions on Software Engineering and Methodology (TOSEM)
+-------------------------------------------------------------------------------------------------------------------------
+2016/3/25
+[[An energy-interference-free hardware-software debugger for intermittent energy-harvesting systems]]
+[[Alexei Colin]], [[Graham Harvey]], [[Brandon Lucia]], [[Alanson P Sample]]
+ACM SIGARCH Computer Architecture News
+-------------------------------------------------------------------------------------------------------------------------
+2016/2/27
+[[Production-guided concurrency debugging]]
+[[Nuno Machado]], [[Brandon Lucia]], [[Luís Rodrigues]]
+Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+-------------------------------------------------------------------------------------------------------------------------
+2016
+[[Orca: Ordering-free regions for consistency and atomicity]]
+[[Christian DeLozier]], [[Yuanfeng Peng]], [[Ariel Eizenberg]], [[Brandon Lucia]], [[Joe Devietti]]
+Writing correct synchronization is one of the main difficulties of multithreaded programming. Incorrect synchronization causes many subtle concurrency errors such as data races and atomicity violations. Previous work has proposed stronger memory consistency models to rule out certain classes of concurrency bugs. However, these approaches are limited by a program’s original (and possibly incorrect) synchronization. In this work, we provide stronger guarantees than previous memory consistency models by punctuating atomicity only at ordering constructs like barriers, but not at lock operations. We describe the Ordering-free Regions for Consistency and Atomicity (ORCA) system which enforces atomicity at the granularity of ordering-free regions (OFRs). While many atomicity violations occur at finer granularity, in an empirical study of many large multithreaded workloads we find no examples of code that requires atomicity coarser than OFRs. Thus, we believe OFRs are a conservative approximation of the atomicity requirements of many programs. ORCA assists programmers by throwing an exception when OFR atomicity is threatened, and, in exception-free executions, guaranteeing that all OFRs execute atomically. In our evaluation, we show that ORCA automatically prevents real concurrency bugs. A user-study of ORCA demonstrates that synchronizing a program with ORCA is easier than using a data race detector. We evaluate modest hardware support that allows ORCA to run with just 18% slowdown on average over pthreads, with very similar scalability.
+-------------------------------------------------------------------------------------------------------------------------
+2016
+[[Overcoming the data-flow limit on parallelism with structural approximation]]
+[[Vignesh Balaji]], [[Brandon Lucia]], [[Radu Marculescu]]
+WAX 2016
+-------------------------------------------------------------------------------------------------------------------------
