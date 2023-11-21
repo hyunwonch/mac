@@ -133,6 +133,13 @@ def gs_crawling(search_command, stop_year, override, override_url):
     print(file_name)
     file = open(file_name,'w')
 
+    current_year = time.ctime().split()[-1]
+
+    for i in range(int(current_year), int(stop_year), -1):
+        print(f"[[{i} - {search_command.split()[1]}]]", file=file)
+    print('-------------------------------------------------------------------------------------------------------------------------',file=file)
+
+
     for i in range(len(title_list)):
         if(journal_list[i] == 'US'):
             continue
@@ -143,7 +150,17 @@ def gs_crawling(search_command, stop_year, override, override_url):
                 print(j,"", sep='', end='\n', file=file)
             else:
                 print(j,", ", sep='', end='', file=file)
-        print(journal_list[i], file=file)
+
+        if "ISCA" in journal_list[i]:
+            journal_tmp = "ISCA"
+        elif "MICRO" in journal_list[i]:
+            journal_tmp = "MICRO"
+        elif "ISSCC" in journal_list[i]:
+            journal_tmp = "ISSCC"
+        else:
+            journal_tmp = journal_list[i]
+
+        print("[[", journal_tmp, "]]", sep='', file=file)
         print('-------------------------------------------------------------------------------------------------------------------------', file=file)
 
     file.close()
@@ -153,10 +170,9 @@ def gs_crawling(search_command, stop_year, override, override_url):
 if __name__ == '__main__':
 
     argv = sys.argv
-    # search_command = "Dejan Markovic"
     search_command = argv[1] + " " + argv[2]
 
-    if(len(argv) == 4):
+    if(len(argv) >= 4):
         stop_year = argv[3]
     else:
         stop_year = '2015'

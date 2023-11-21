@@ -1,0 +1,464 @@
+[[2023 - Bass]]
+[[2022 - Bass]]
+[[2021 - Bass]]
+[[2020 - Bass]]
+[[2019 - Bass]]
+[[2018 - Bass]]
+[[2017 - Bass]]
+[[2016 - Bass]]
+[[2015 - Bass]]
+[[2014 - Bass]]
+[[2013 - Bass]]
+[[2012 - Bass]]
+[[2011 - Bass]]
+[[2010 - Bass]]
+[[2009 - Bass]]
+[[2008 - Bass]]
+[[2007 - Bass]]
+[[2006 - Bass]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/1
+[[Energy-efficient canonical Huffman decoders on many-core processor arrays and FPGAs]]
+[[Satyabrata Sarangi]], [[Bevan Baas]]
+[[Integration]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/12/19
+[[Efficient and High-Performance Sparse Matrix-Vector Multiplication on a Many-Core Array]]
+[[Peiyao Shi]], [[Aaron Stillmaker]], [[Bevan Baas]]
+[[2022 IEEE 15th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/3
+[[Architecture and 28 nm CMOS Design of a 1886 MBin/sec Context-Adaptive Binary Arithmetic Coder (CABAC) Encoder]]
+[[Renjie Chen]], [[Aaron Stillmaker]], [[Bevan Baas]]
+[[2022 IFIP/IEEE 30th International Conference on Very Large Scale Integration (VLSI-SoC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/3
+[[A Low-Overhead Method for the Accurate Estimation of the Maximum Operating Clock Frequency]]
+[[Brent Bohnenstiehl]], [[Aaron Stillmaker]], [[Timothy Andreas]], [[Bevan Baas]]
+[[2022 IFIP/IEEE 30th International Conference on Very Large Scale Integration (VLSI-SoC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/11/7
+[[A 1448-Mpixel/s, 84-pJ/pixel display stream compression encoder in 28 nm for 4K video resolution]]
+[[Shifu Wu]], [[K De Silva]], [[Snehlata Gutgutia]], [[B Baas]], [[Massimo Alioto]]
+[[2021 IEEE Asian Solid-State Circuits Conference (A-SSCC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/22
+[[DeepScaleTool: A tool for the accurate estimation of technology scaling in the deep-submicron era]]
+[[Satyabrata Sarangi]], [[Bevan Baas]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/3/23
+[[Display stream compression decoders for fine-grained many-core processor arrays]]
+[[Shifu Wu]], [[Bevan M Baas]]
+[[IEEE Transactions on Circuits and Systems II: Express Briefs]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/1/18
+[[Canonical huffman decoder on fine-grain many-core processor arrays]]
+[[Satyabrata Sarangi]], [[Bevan Baas]]
+[[Proceedings of the 26th Asia and South Pacific Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/23
+[[Indexed color history many-core engines for display stream compression decoders]]
+[[Shifu Wu]], [[Bevan Baas]]
+[[2020 27th IEEE International Conference on Electronics, Circuits and Systems (ICECS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/10
+[[Correction to: Guest Editorial: JSPS Special Issue on 2018 IEEE Signal Processing Systems (SiPS) Workshop]]
+[[Tokunbo Ogunfunmi]], [[John McAllister]], [[Bevan Baas]], [[Mrityunjoy Chakraborty]]
+[[Journal of Signal Processing Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/10
+[[Guest Editorial: JSPS Special Issue on 2018 IEEE Signal Processing Systems (SiPS) Workshop]]
+[[Tokunbo Ogunfunmi]], [[John McAllister]], [[Bevan Baas]], [[Mrityunjoy Chakraborty]]
+[[Journal of Signal Processing Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/4/1
+[[Scalable energy-efficient parallel sorting on a fine-grained many-core processor array]]
+[[Aaron Stillmaker]], [[Brent Bohnenstiehl]], [[Lucas Stillmaker]], [[Bevan Baas]]
+[[Journal of Parallel and Distributed Computing]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/7
+[[Corrigendum to “Scaling equations for the accurate prediction of CMOS device performance from 180 nm to 7 nm”[Integr. VLSI J. 58 (2017) 74–81]]]
+[[Aaron Stillmaker]], [[Bevan Baas]]
+[[67]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/10/28
+[[Display stream compression encoder architectures for real-time 4K and 8K video encoding]]
+[[Shifu Wu]], [[Snehlata Gutgutia]], [[Massimo Alioto]], [[Bevan Baas]]
+[[2018 52nd Asilomar Conference on Signals, Systems, and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/10/15
+[[Exploration of Fine-Grain Body Bias Control in Many-Core Processor Arrays]]
+[[Bevan Baas]], [[Brent Bohnenstiehl]], [[Jin Cui]]
+[[2018 IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference (S3S)]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/8/5
+[[A low-cost slice interleaving DSC decoder architecture for real-time 8K video decoding]]
+[[Shifu Wu]], [[Bevan Baas]]
+[[2018 IEEE 61st International Midwest Symposium on Circuits and Systems (MWSCAS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/8/7
+[[A configurable H. 265-compatible motion estimation accelerator architecture for realtime 4K video encoding in 65 nm CMOS]]
+[[Michael Braly]], [[Aaron Stillmaker]], [[Bevan Baas]]
+[[2017 IEEE Conference on Dependable and Secure Computing]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/20
+[[The design of the kilocore chip]]
+[[Aaron Stillmaker]], [[Brent Bohnenstiehl]], [[Bevan Baas]]
+[[ACM/IEEE Design Automation Conference, Austin, TX]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/1
+[[Scaling equations for the accurate prediction of CMOS device performance from 180 nm to 7 nm]]
+[[Aaron Stillmaker]], [[Bevan Baas]]
+[[Integration]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/5/10
+[[Kilocore: A fine-grained 1,000-processor array for task-parallel applications]]
+[[Brent Bohnenstiehl]], [[Aaron Stillmaker]], [[Jon Pimentel]], [[Timothy Andreas]], [[Bin Liu]], [[Anh Tran]], [[Emmanuel Adeagbo]], [[Bevan Baas]]
+[[IEEE Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/2/14
+[[KiloCore: A 32-nm 1000-processor computational array]]
+[[Brent Bohnenstiehl]], [[Aaron Stillmaker]], [[Jon J Pimentel]], [[Timothy Andreas]], [[Bin Liu]], [[Anh T Tran]], [[Emmanuel Adeagbo]], [[Bevan M Baas]]
+[[IEEE Journal of Solid-State Circuits]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/8/23
+[[KiloCore: A 32 nm 1 OOO-Processor Array]]
+[[Brent Bohnenstiehl]], [[Aaron Stillmaker]], [[Jon Pimentel]], [[Timothy Andreas]], [[Bin Liu]], [[Anh Tran]], [[Emmanuel Adeagbo]], [[Bevan Baas]]
+[[KiloCore: A 32 1 OOO-Processor Array Page 1 KiloCore: A 32 nm 1 OOO-Processor Array Brent Bohnenstiehl, Aaron Stillmaker, Jon Pimentel, Timothy Andreas, Bin Liu, Anh Tran, Emmanuel Adeagbo, Bevan Baas University of California, Davis VLSI Computation Laboratory August 23, 2016 Page 2 Processors Over Time 1000 900 800 o 700 Q) u 600 o L- a.. o L- 400 Q) ..c 300 E :::J Z 200 Academic Industry RAW Cell 100 ([Y VALUED([Y VALUED Am2045 pc205 ([Y VALUED ([Y VALUED <> <> Polaris T3 & ([Y VALU ) SCC Ferrw, o ([YVA AL MPPA-256 ([Y VALUED <> KiloCore ([Y VALUE]) 3D=piphany <> Maps IV Gx72 7120A R9 J\L't(j UIIDr VAL(ffEtiA LUED o ------(.. ---<. >--------'-. .I- ----'-. ----'-. - - - -.........- -.......- -- '02 '03 '04 '05 '06 '07 '08 '09 '10 '11 '12 '13 '14 '15 '16 Year • Number of processors on single die vs. year - Each processor capable of independent program execution 2 Page 3 …]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/8/23
+[[KiloCore: A 32 nm 1000-processor array.]]
+[[Brent Bohnenstiehl]], [[Aaron Stillmaker]], [[Jon J Pimentel]], [[Timothy Andreas]], [[Bin Liu]], [[Anh Tran]], [[Emmanuel Adeagbo]], [[Bevan M Baas]]
+[[Hot Chips Symposium]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/7/12
+[[Hybrid hardware/software floating-point implementations for optimized area and throughput tradeoffs]]
+[[Jon J Pimentel]], [[Brent Bohnenstiehl]], [[Bevan M Baas]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/15
+[[A 5.8 pj/op 115 billion ops/sec, to 1.78 trillion ops/sec 32nm 1000-processor array]]
+[[Brent Bohnenstiehl]], [[Aaron Stillmaker]], [[Jon Pimentel]], [[Timothy Andreas]], [[Bin Liu]], [[Anh Tran]], [[Emmanuel Adeagbo]], [[Bevan Baas]]
+[[2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits)]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/11/8
+[[A software LDPC decoder implemented on a many-core array of programmable processors]]
+[[Brent Bohnenstiehl]], [[Bevan Baas]]
+[[2015 49th Asilomar Conference on Signals, Systems and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/11/8
+[[Area efficient backprojection computation with reduced floating-point word width for SAR image formation]]
+[[Jon J Pimentel]], [[Aaron Stillmaker]], [[Brent Bohnenstiehl]], [[Bevan M Baas]]
+[[2015 49th Asilomar Conference on Signals, Systems and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/9
+[[Energy-efficient string search architectures on a fine-grained many-core platform]]
+[[Emmanuel O Adeagbo]], [[Bevan M Baas]], [[Zhibin Xiao]], [[Bevan Baas]], [[Aaron Stillmaker]], [[Lucas Stillmaker]], [[Bevan Baas]], [[Bin Liu]], [[Bevan M Baas]], [[Zhibin Xiao]], [[Bevan M Baas]]
+[[Technology and Talent for the 21st Century (TECHCON 2015)]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/8/2
+[[Optimizing power of many-core systems by exploiting dynamic voltage, frequency and core scaling]]
+[[Bin Liu]], [[Mohammad H Foroozannejad]], [[Soheil Ghiasi]], [[Bevan M Baas]]
+[[2015 IEEE 58th International Midwest Symposium on Circuits and Systems (MWSCAS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2015
+[[Eco-friendly management of chilli anthracnose (Colletotrichum capsici).]]
+[[MM Rashid]], [[MH Kabir]], [[MM Hossain]], [[MR Bhuiyan]], [[MAI Khan]]
+[[International Journal of Plant Pathology]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/11/2
+[[Scalable hardware-based power management for many-core systems]]
+[[Bin Liu]], [[Brent Bohnenstiehl]], [[Bevan M Baas]]
+[[2014 48th Asilomar Conference on Signals, Systems and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/11/2
+[[Hybrid floating-point modules with low area overhead on a fine-grained processing core]]
+[[Jon J Pimentel]], [[Bevan M Baas]]
+[[2014 48th Asilomar Conference on Signals, Systems and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/4/17
+[[Time-scalable mapping for circuit-switched GALS chip multiprocessor platforms]]
+[[Mohammad H Foroozannejad]], [[Matin Hashemi]], [[Alireza Mahini]], [[Bevan M Baas]], [[Soheil Ghiasi]]
+[[IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/9
+[[Energy-efficient sorting on a many-core platform]]
+[[Aaron Stillmaker]], [[Lucas Stillmaker]], [[Brent Bohnenstiehl]], [[Bevan Baas]]
+[[Technology and Talent for the 21st Century (TECHCON 2013)]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/7/3
+[[Achieving high-performance on-chip networks with shared-buffer routers]]
+[[Anh T Tran]], [[Bevan M Baas]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/6/25
+[[Processor tile Shapes and interconnect topologies for dense On-chip networks]]
+[[Zhibin Xiao]], [[Bevan M Baas]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/3
+[[Parallel AES encryption engines for many-core processor arrays]]
+[[Bin Liu]], [[Bevan M Baas]]
+[[IEEE Transactions on Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2013
+[[A hexagonal processor and interconnect topology for many-core architecture with dense on-chip networks]]
+[[Zhibin Xiao]], [[Bevan Baas]]
+[[VLSI-SoC: From Algorithms to Circuits and System-on-Chip Design: 20th IFIP WG 10.5/IEEE International Conference on Very Large Scale Integration, VLSI-SoC 2012, Santa Cruz, CA, USA, October 7-10, 2012, Revised Selected Papers 20]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/1/1
+[[Guest Editors' Introduction to Practical Parallel EDA]]
+[[Rasit Onur Topaloglu]], [[Bevan Baas]]
+[[IEEE Design & Test of Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/1/1
+[[LDPC decoder with an adaptive wordwidth datapath for energy and BER co-optimization]]
+[[Tinoosh Mohsenin]], [[Houshmand Shirani-mehr]], [[Bevan M Baas]]
+[[VLSI Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/12/17
+[[Fine-grained energy-efficient sorting on a many-core processor array]]
+[[Aaron Stillmaker]], [[Lucas Stillmaker]], [[Bevan Baas]]
+[[2012 IEEE 18th International Conference on Parallel and Distributed Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/10/7
+[[A hexagonal shaped processor and interconnect topology for tightly-tiled many-core architecture]]
+[[Zhibin Xiao]], [[Bevan Baas]]
+[[2012 IEEE/IFIP 20th International Conference on VLSI and System-on-Chip (VLSI-SoC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/7
+[[NoCTweak: a highly parameterizable simulator for early exploration of performance and energy of networks on-chip]]
+[[Anh T Tran]], [[Bevan Baas]]
+[[VLSI Computation Lab, ECE Department, University of California, Davis, Tech. Rep. ECE-VCL-2012-2]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/12
+[[Toward more accurate scaling estimates of cmos circuits from 180 nm to 22 nm]]
+[[Aaron Stillmaker]], [[Zhibin Xiao]], [[Bevan Baas]]
+[[VLSI Computation Lab, ECE Department, University of California, Davis, Tech. Rep. ECE-VCL-2011-4]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/11/6
+[[A high-performance area-efficient AES cipher on a many-core platform]]
+[[Bin Liu]], [[Bevan M Baas]]
+[[2011 Conference Record of the Forty Fifth Asilomar Conference on Signals, Systems and Computers (ASILOMAR)]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/11/6
+[[A fine-grained parallel implementation of a H.264/AVC encoder on a 167-processor computational platform]]
+[[Zhibin Xiao]], [[Stephen Le]], [[Bevan Baas]]
+[[Signals, Systems and Computers (ASILOMAR), 2011 Conference Record of the Forty Fifth Asilomar Conference on]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/11/6
+[[A reduced routing network architecture for partial parallel LDPC decoders]]
+[[Houshmand Shirani-Mehr]], [[Tinoosh Mohsenin]], [[Bevan Baas]]
+[[2011 Conference Record of the Forty Fifth Asilomar Conference on Signals, Systems and Computers (ASILOMAR)]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/10/9
+[[RoShaQ: High-performance on-chip router with shared queues]]
+[[Anh T Tran]], [[Bevan M Baas]]
+[[2011 IEEE 29th International Conference on Computer Design (ICCD)]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/9
+[[Energy-efficient AES ciphers on a fine-grained many-core system]]
+[[Bin Liu]], [[Bevan M Baas]]
+[[Proc. 2012 Technology and Talent for the 21st Century]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/9
+[[Design of bufferless on-chip routers providing in-order packet delivery]]
+[[Anh T Tran]], [[Bevan M Baas]]
+[[SRC Technology and Talent for the 21st Century (TECHCON)]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/5/15
+[[Low power LDPC decoder with efficient stopping scheme for undecodable blocks]]
+[[Tinoosh Mohsenin]], [[Houshmand Shirani-mehr]], [[Bevan Baas]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/3/28
+[[A 1080p H.264/AVC baseline residual encoder for a fine-grained many-core system]]
+[[Zhibin Xiao]], [[Bevan M Baas]]
+[[IEEE transactions on circuits and systems for video technology]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/12
+[[A split-decoding message passing algorithm for low density parity check decoders]]
+[[Tinoosh Mohsenin]], [[Bevan M Baas]]
+[[Journal of Signal Processing Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/11/3
+[[Massively parallel processor array for mid-/back-end ultrasound signal processing]]
+[[Dean N Truong]], [[Bevan M Baas]]
+[[2010 Biomedical Circuits and Systems Conference (BioCAS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/10/6
+[[DLABS: A dual-lane buffer-sharing router architecture for networks on chip]]
+[[Anh T Tran]], [[Bevan M Baas]]
+[[2010 IEEE Workshop On Signal Processing Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/8/11
+[[Design of an energy-efficient 32-bit adder operating at subthreshold voltages in 45-nm CMOS]]
+[[Anh T Tran]], [[Bevan M Baas]]
+[[International Conference on Communications and Electronics 2010]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/6/13
+[[Circuit modeling for practical many-core architecture design exploration]]
+[[Dean N Truong]], [[Bevan M Baas]]
+[[Proceedings of the 47th Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/5/20
+[[A reconfigurable source-synchronous on-chip network for GALS many-core platforms]]
+[[Anh Thien Tran]], [[Dean Nguyen Truong]], [[Bevan Baas]]
+[[IEEE transactions on computer-aided design of integrated circuits and systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/5/10
+[[A low-complexity message-passing algorithm for reduced routing congestion in LDPC decoders]]
+[[Tinoosh Mohsenin]], [[Dean N Truong]], [[Bevan M Baas]]
+[[IEEE Transactions on Circuits and Systems I: Regular Papers]]
+-------------------------------------------------------------------------------------------------------------------------
+2010
+[[An overview of standard cellbased digital VLSI design]]
+[[Zhiyi Yu]], [[Tinoosh Mohsenin]], [[Aaron Stillmaker]], [[Bevan Baas]]
+[[UC Davis seminar]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/12
+[[2009 Index IEEE Transactions on Very Large Scale Integration (VLSI) Systems Vol. 17]]
+[[A Abramo]], [[R Achar]], [[A Afzali-Kusha]], [[VD Agrawal]], [[M Ahmadi]], [[M Ahn]], [[AR Alameldeen]], [[LP Alarcon]], [[M Alioto]], [[S Almukhaizim]], [[H Alrimeih]], [[R Ambroise]], [[R Amirtharajah]], [[K Ananyi]], [[JH Anderson]], [[M Anis]], [[D Appello]], [[G Araujo]], [[M Ashouei]], [[T Austin]], [[R Avidan]], [[R Azevedo]], [[P Azzoni]], [[BM Baas]], [[A Baghdadi]], [[O Bahlous]], [[S Bahukudumbi]], [[F Balasa]], [[AO Balkan]], [[A Banerjee]], [[S Banerjee]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/11/1
+[[Trends and challenges in LDPC hardware decoders]]
+[[Tinoosh Mohsenin]], [[Bevan Baas]]
+[[2009 Conference Record of the Forty-Third Asilomar Conference on Signals, Systems and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/8/4
+[[A low-area multi-link interconnect architecture for GALS chip multiprocessors]]
+[[Zhiyi Yu]], [[Bevan M Baas]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/6/14
+[[An improved Split-Row Threshold decoding algorithm for LDPC codes]]
+[[Tinoosh Mohsenin]], [[Dean Truong]], [[Bevan Baas]]
+[[2009 IEEE International Conference on Communications]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/5/24
+[[A low-cost high-speed source-synchronous interconnection technique for GALS chip multiprocessors]]
+[[Anh T Tran]], [[Dean N Truong]], [[Bevan M Baas]]
+[[2009 IEEE International Symposium on Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/5/24
+[[The design of a reconfigurable continuous-flow mixed-radix FFT processor]]
+[[Anthony T Jacobson]], [[Dean N Truong]], [[Bevan M Baas]]
+[[2009 IEEE International Symposium on Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/5/24
+[[Multi-split-row threshold decoding implementations for LDPC codes]]
+[[Tinoosh Mohsenin]], [[Dean Truong]], [[Bevan Baas]]
+[[2009 IEEE International Symposium on Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/5/10
+[[A GALS many-core heterogeneous DSP platform with source-synchronous on-chip interconnection network]]
+[[Anh T Tran]], [[Dean N Truong]], [[Bevan M Baas]]
+[[2009 3rd ACM/IEEE International Symposium on Networks-on-Chip]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/3/24
+[[A 167-processor computational platform in 65 nm CMOS]]
+[[Dean N Truong]], [[Wayne H Cheng]], [[Tinoosh Mohsenin]], [[Zhiyi Yu]], [[Anthony T Jacobson]], [[Gouri Landge]], [[Michael J Meeuwsen]], [[Christine Watnik]], [[Anh T Tran]], [[Zhibin Xiao]], [[Eric W Work]], [[Jeremy W Webb]], [[Paul V Mejia]], [[Bevan M Baas]]
+[[IEEE Journal of Solid-State Circuits]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/12
+[[Architecture and evaluation of an asynchronous array of simple processors]]
+[[Zhiyi Yu]], [[Michael J Meeuwsen]], [[Ryan W Apperson]], [[Omar Sattari]], [[Michael A Lai]], [[Jeremy W Webb]], [[Eric W Work]], [[Tinoosh Mohsenin]], [[Bevan M Baas]]
+[[Journal of Signal Processing Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/11/25
+[[High performance, energy efficiency, and scalability with GALS chip multiprocessors]]
+[[Zhiyi Yu]], [[Bevan M Baas]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/11/9
+[[Balanced computing with nanophotonic interconnects]]
+[[SJ Ben Yoo]], [[V Akella]], [[R Amirtharajah]], [[B Baas]], [[K Bergman]], [[S Fan]], [[JS Harris]], [[M Lipson]], [[DAB Miller]], [[J Shalf]]
+[[LEOS 2008-21st Annual Meeting of the IEEE Lasers and Electro-Optics Society]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/10/26
+[[A thresholding algorithm for improved Split-Row decoding of LDPC codes]]
+[[Tinoosh Mohsenin]], [[Pascal Urard]], [[Bevan Baas]]
+[[2008 42nd Asilomar Conference on Signals, Systems and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/10/26
+[[A complete real-time 802.11a baseband receiver implemented on an array of programmable processors]]
+[[Anh T Tran]], [[Dean N Truong]], [[Bevan M Baas]]
+[[Signals, Systems and Computers, 2008 42nd Asilomar Conference on]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/10/12
+[[A high-performance parallel CAVLC encoder on a fine-grained many-core system]]
+[[Zhibin Xiao]], [[Bevan Baas]]
+[[2008 IEEE International Conference on Computer Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/8/24
+[[A 167-processor computational array for highly-efficient DSP and embedded application processing]]
+[[Dean Truong]], [[Wayne Cheng]], [[Tinoosh Mohsenin]], [[Zhiyi Yu]], [[Toney Jacobson]], [[Gouri Landge]], [[Michael Meeuwsen]], [[Christine Watnik]], [[Paul Mejia]], [[Anh Tran]], [[Jeremy Webb]], [[Eric Work]], [[Zhibin Xiao]], [[Bevan Baas]]
+[[2008 IEEE Hot Chips 20 Symposium (HCS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/6/18
+[[A 167-processor 65 nm computational platform with per-processor dynamic supply voltage and dynamic clock frequency scaling]]
+[[Dean Truong]], [[Wayne Cheng]], [[Tinoosh Mohsenin]], [[Zhiyi Yu]], [[Toney Jacobson]], [[Gouri Landge]], [[Michael Meeuwsen]], [[Christine Watnik]], [[Paul Mejia]], [[Anh Tran]], [[Jeremy Webb]], [[Eric Work]], [[Zhibin Xiao]], [[Bevan Baas]]
+[[2008 IEEE Symposium on VLSI Circuits]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/5/18
+[[A low-area interconnect architecture for chip multiprocessors]]
+[[Zhiyi Yu]], [[Bevan M Baas]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/5/18
+[[Dynamic voltage and frequency scaling circuits with two supply voltages]]
+[[Wayne H Cheng]], [[Bevan M Baas]]
+[[2008 IEEE International Symposium on Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/2/25
+[[AsAP: An asynchronous array of simple processors]]
+[[Zhiyi Yu]], [[Michael J Meeuwsen]], [[Ryan W Apperson]], [[Omar Sattari]], [[Michael Lai]], [[Jeremy W Webb]], [[Eric W Work]], [[Dean Truong]], [[Tinoosh Mohsenin]], [[Bevan M Baas]]
+[[IEEE Journal of Solid-State Circuits]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/12
+[[A shared memory module for asynchronous arrays of processors]]
+[[Michael J Meeuwsen]], [[Zhiyi Yu]], [[Bevan M Baas]]
+[[EURASIP Journal on Embedded Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/9/17
+[[A scalable dual-clock FIFO for data transfers between arbitrary and haltable clock domains]]
+[[Ryan W Apperson]], [[Zhiyi Yu]], [[Michael J Meeuwsen]], [[Tinoosh Mohsenin]], [[Bevan M Baas]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/8/13
+[[AsAP: A fine-grained many-core platform for DSP applications]]
+[[Bevan Baas]], [[Zhiyi Yu]], [[Michael Meeuwsen]], [[Omar Sattari]], [[Ryan Apperson]], [[Eric Work]], [[Jeremy Webb]], [[Michael Lai]], [[Tinoosh Mohsenin]], [[Dean Truong]], [[Jason Cheung]]
+[[IEEE Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/4/15
+[[High-throughput LDPC decoders using a multiple split-row method]]
+[[Tinoosh Mohsenin]], [[Bevan M Baas]]
+[[2007 IEEE International Conference on Acoustics, Speech and Signal Processing-ICASSP'07]]
+-------------------------------------------------------------------------------------------------------------------------
+2006/10/1
+[[Split-row: A reduced complexity, high throughput LDPC decoder architecture]]
+[[Tinoosh Mohsenin]], [[Bevan M Baas]]
+[[2006 International Conference on Computer Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2006/10/1
+[[Implementing tile-based chip multiprocessors with GALS clocking styles]]
+[[Zhiyi Yu]], [[Bevan Baas]]
+[[2006 International Conference on Computer Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2006/8/20
+[[Hardware and applications of AsAP: An asynchronous array of simple processors]]
+[[Bevan Baas]], [[Zhiyi Yu]], [[Michael Meeuwsen]], [[Omar Sattari]], [[Ryan Apperson]], [[Eric Work]], [[Jeremy Webb]], [[Michael Lai]], [[Daniel Gurman]], [[Chi Chen]], [[Jason Cheung]], [[Dean Truong]], [[Tinoosh Mohsenin]]
+[[2006 IEEE Hot Chips 18 Symposium (HCS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2006/3/2
+[[Performance and power analysis of globally asynchronous locally synchronous multiprocessor systems]]
+[[Zhiyi Yu]], [[Bevan M Baas]]
+[[IEEE Computer Society Annual Symposium on Emerging VLSI Technologies and Architectures (ISVLSI'06)]]
+-------------------------------------------------------------------------------------------------------------------------
+2006/2/6
+[[An asynchronous array of simple processors for DSP applications]]
+[[Zhiyi Yu]], [[Michael Meeuwsen]], [[Ryan Apperson]], [[Omar Sattari]], [[Michael Lai]], [[Jeremy Webb]], [[Eric Work]], [[Tinoosh Mohsenin]], [[Mandeep Singh]], [[Bevan Baas]]
+[[2006 IEEE International Solid State Circuits Conference-Digest of Technical Papers]]
+-------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,290 @@
+2023/6/6
+[[Mosaic: An Interoperable Compiler for Tensor Algebra]]
+[[Manya Bansal]], [[Olivia Hsu]], [[Kunle Olukotun]], [[Fredrik Kjolstad]]
+Proceedings of the ACM on Programming Languages
+-------------------------------------------------------------------------------------------------------------------------
+2023/3/25
+[[The Sparse Abstract Machine]]
+[[Olivia Hsu]], [[Maxwell Strange]], [[Ritvik Sharma]], [[Jaeyeon Won]], [[Kunle Olukotun]], [[Joel S Emer]], [[Mark A Horowitz]], [[Fredrik Kjølstad]]
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3
+-------------------------------------------------------------------------------------------------------------------------
+2023/3/25
+[[Homunculus: Auto-generating efficient data-plane ml pipelines for datacenter networks]]
+[[Tushar Swamy]], [[Annus Zulfiqar]], [[Luigi Nardi]], [[Muhammad Shahbaz]], [[Kunle Olukotun]]
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3
+-------------------------------------------------------------------------------------------------------------------------
+2023/2/13
+[[Revet: A Language and Compiler for Dataflow Threads]]
+[[Alexander Rucker]], [[Shiv Sundram]], [[Coleman Smith]], [[Matthew Vilim]], [[Raghu Prabhakar]], [[Fredrik Kjolstad]], [[Kunle Olukotun]]
+arXiv preprint arXiv:2302.06124
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/27
+[[Sigma: Compiling Einstein Summations to Locality-Aware Dataflow]]
+[[Tian Zhao]], [[Alexander Rucker]], [[Kunle Olukotun]]
+Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2
+-------------------------------------------------------------------------------------------------------------------------
+2022/12/1
+[[Baco: A fast and portable Bayesian compiler optimization framework]]
+[[Erik Hellsten]], [[Artur Souza]], [[Johannes Lenfers]], [[Rubens Lacouture]], [[Olivia Hsu]], [[Adel Ejjeh]], [[Fredrik Kjolstad]], [[Michel Steuwer]], [[Kunle Olukotun]], [[Luigi Nardi]]
+arXiv preprint arXiv:2212.11142
+-------------------------------------------------------------------------------------------------------------------------
+2022/11/7
+[[Stardust: Compiling Sparse Tensor Algebra to a Reconfigurable Dataflow Architecture]]
+[[Olivia Hsu]], [[Alexander Rucker]], [[Tian Zhao]], [[Kunle Olukotun]], [[Fredrik Kjolstad]]
+arXiv preprint arXiv:2211.03251
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/30
+[[Accelerating SLIDE: Exploiting Sparsity on Accelerator Architectures]]
+[[Sho Ko]], [[Alexander Rucker]], [[Yaqi Zhang]], [[Paul Mure]], [[Kunle Olukotun]]
+2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/28
+[[Taurus: a data plane architecture for per-packet ML]]
+[[Tushar Swamy]], [[Alexander Rucker]], [[Muhammad Shahbaz]], [[Ishan Gaur]], [[Kunle Olukotun]]
+Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/2
+[[Efficient Memory Partitioning in Software Defined Hardware]]
+[[Matthew Feldman]], [[Tian Zhao]], [[Kunle Olukotun]]
+arXiv preprint arXiv:2202.01261
+-------------------------------------------------------------------------------------------------------------------------
+2021/12/6
+[[High performance lattice regression on FPGAs via a high level hardware description language]]
+[[Nathan Zhang]], [[Matthew Feldman]], [[Kunle Olukotun]]
+2021 International Conference on Field-Programmable Technology (ICFPT)
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/18
+[[Capstan: A vector RDA for sparsity]]
+[[Alexander Rucker]], [[Matthew Vilim]], [[Tian Zhao]], [[Yaqi Zhang]], [[Raghu Prabhakar]], [[Kunle Olukotun]]
+MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/15
+[[Compilation of sparse array programming models]]
+[[Rawn Henry]], [[Olivia Hsu]], [[Rohan Yadav]], [[Stephen Chou]], [[Kunle Olukotun]], [[Saman Amarasinghe]], [[Fredrik Kjolstad]]
+Proceedings of the ACM on Programming Languages
+-------------------------------------------------------------------------------------------------------------------------
+2021/8/4
+[[Chopping off the Tail: Bounded Non-Determinism for Real-Time Accelerators]]
+[[Alexander Rucker]], [[Muhammad Shahbaz]], [[Kunle Olukotun]]
+IEEE Computer Architecture Letters
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/14
+[[Sara: Scaling a reconfigurable dataflow accelerator]]
+[[Yaqi Zhang]], [[Nathan Zhang]], [[Tian Zhao]], [[Matt Vilim]], [[Muhammad Shahbaz]], [[Kunle Olukotun]]
+2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/14
+[[Aurochs: An architecture for dataflow threads]]
+[[Matthew Vilim]], [[Alexander Rucker]], [[Kunle Olukotun]]
+2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)
+-------------------------------------------------------------------------------------------------------------------------
+2021
+[[Bayesian optimization with a prior for the optimum]]
+[[Artur Souza]], [[Luigi Nardi]], [[Leonardo B Oliveira]], [[Kunle Olukotun]], [[Marius Lindauer]], [[Frank Hutter]]
+Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2021, Bilbao, Spain, September 13–17, 2021, Proceedings, Part III 21
+-------------------------------------------------------------------------------------------------------------------------
+2020/10/2
+[[Prior-guided bayesian optimization]]
+[[Artur Souza]], [[Luigi Nardi]], [[Leonardo Oliveira]], [[Kunle Olukotun]], [[Marius Lindauer]], [[Frank Hutter]]
+While Bayesian Optimization (BO) is a very popular method for optimizing expensive black-box functions, it fails to leverage the experience of domain experts. This causes BO to waste function evaluations on bad design choices (e.g., machine learning hyperparameters) that the expert already knows to work poorly. To address this issue, we introduce Prior-guided Bayesian Optimization (PrBO). PrBO allows users to inject their knowledge into the optimization process in the form of priors about which parts of the input space will yield the best performance, rather than BO’s standard priors over functions (which are much less intuitive for users). PrBO then combines these priors with BO’s standard probabilistic model to form a pseudo-posterior used to select which points to evaluate next. We show that PrBO is around 12x faster than state-of-the-art methods without user priors and 10,000x faster than random search on a common suite of benchmarks, and achieves a new state-of-the-art performance on a real-world hardware design application. We also show that PrBO converges faster even if the user priors are not entirely accurate and that it robustly recovers from misleading priors.
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/9
+[[Coarse-Grained Reconfigurable Architectures]]
+[[Raghu Prabhakar]], [[Yaqi Zhang]], [[Kunle Olukotun]]
+NANO-CHIPS 2030: On-Chip AI for an Efficient Data-Driven World
+-------------------------------------------------------------------------------------------------------------------------
+2020/5/30
+[[Gorgon: Accelerating machine learning from relational data]]
+[[Matthew Vilim]], [[Alexander Rucker]], [[Yaqi Zhang]], [[Sophia Liu]], [[Kunle Olukotun]]
+2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture (ISCA)
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/1
+[[Plasticine—A Universal Data Analytics Accelerator]]
+[[Kunle Olukotun]], [[Leland Stanford Junior University Stanford United States]]
+Leland Stanford Junior University Stanford United States
+-------------------------------------------------------------------------------------------------------------------------
+2020
+[[Efficient multiway hash join on reconfigurable hardware]]
+[[Rekha Singhal]], [[Yaqi Zhang]], [[Jeffrey D Ullman]], [[Raghu Prabhakar]], [[Kunle Olukotun]]
+Performance Evaluation and Benchmarking for the Era of Cloud (s) 11th TPC Technology Conference, TPCTC 2019, Los Angeles, CA, USA, August 26, 2019, Revised Selected Papers 11
+-------------------------------------------------------------------------------------------------------------------------
+2020
+[[Taurus: An intelligent data plane]]
+[[Tushar Swamy]], [[Alexander Rucker]], [[Muhammad Shahbaz]], [[Kunle Olukotun]]
+arXiv preprint arXiv:2002.08987
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/21
+[[Hypermapper: a practical design space exploration framework]]
+[[Luigi Nardi]], [[Artur Souza]], [[David Koeplinger]], [[Kunle Olukotun]]
+2019 IEEE 27th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS)
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/21
+[[Practical design space exploration]]
+[[Luigi Nardi]], [[David Koeplinger]], [[Kunle Olukotun]]
+2019 IEEE 27th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS)
+-------------------------------------------------------------------------------------------------------------------------
+2019/9/8
+[[Tensorflow to cloud FPGAs: Tradeoffs for accelerating deep neural networks]]
+[[Stefan Hadjis]], [[Kunle Olukotun]]
+2019 29th International Conference on Field Programmable Logic and Applications (FPL)
+-------------------------------------------------------------------------------------------------------------------------
+2019/8/17
+[[Elastic rss: Co-scheduling packets and cores using programmable nics]]
+[[Alexander Rucker]], [[Muhammad Shahbaz]], [[Tushar Swamy]], [[Kunle Olukotun]]
+Proceedings of the 3rd Asia-Pacific workshop on networking 2019
+-------------------------------------------------------------------------------------------------------------------------
+2019/7/25
+[[Analysis of dawnbench, a time-to-accuracy machine learning performance benchmark]]
+[[Cody Coleman]], [[Daniel Kang]], [[Deepak Narayanan]], [[Luigi Nardi]], [[Tian Zhao]], [[Jian Zhang]], [[Peter Bailis]], [[Kunle Olukotun]], [[Chris Ré]], [[Matei Zaharia]]
+ACM SIGOPS Operating Systems Review
+-------------------------------------------------------------------------------------------------------------------------
+2019/7/7
+[[Polystore++: Accelerated polystore system for heterogeneous workloads]]
+[[Rekha Singhal]], [[Nathan Zhang]], [[Luigi Nardi]], [[Muhammad Shahbaz]], [[Kunle Olukotun]]
+2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/22
+[[Scalable interconnects for reconfigurable spatial architectures]]
+[[Yaqi Zhang]], [[Alexander Rucker]], [[Matthew Vilim]], [[Raghu Prabhakar]], [[William Hwang]], [[Kunle Olukotun]]
+Proceedings of the 46th International Symposium on Computer Architecture
+-------------------------------------------------------------------------------------------------------------------------
+2019/5/31
+[[Efficient multiway hash join on reconfigurable hardware]]
+[[Kunle Olukotun]], [[Raghu Prabhakar]], [[Rekha Singhal]], [[Jeffrey D Ullman]], [[Yaqi Zhang]]
+arXiv preprint arXiv:1905.13376
+-------------------------------------------------------------------------------------------------------------------------
+2019/4/26
+[[DeepFreak: Learning crystallography diffraction patterns with automated machine learning]]
+[[Artur Souza]], [[Leonardo B Oliveira]], [[Sabine Hollatz]], [[Matt Feldman]], [[Kunle Olukotun]], [[James M Holton]], [[Aina E Cohen]], [[Luigi Nardi]]
+arXiv preprint arXiv:1904.11834
+-------------------------------------------------------------------------------------------------------------------------
+2019/4/15
+[[Serving recurrent neural networks efficiently with a spatial accelerator]]
+[[Tian Zhao]], [[Yaqi Zhang]], [[Kunle Olukotun]]
+Proceedings of Machine Learning and Systems
+-------------------------------------------------------------------------------------------------------------------------
+2019/3/29
+[[Mlsys: The new frontier of machine learning systems]]
+[[Alexander Ratner]], [[Dan Alistarh]], [[Gustavo Alonso]], [[David G Andersen]], [[Peter Bailis]], [[Sarah Bird]], [[Nicholas Carlini]], [[Bryan Catanzaro]], [[Jennifer Chayes]], [[Eric Chung]], [[Bill Dally]], [[Jeff Dean]], [[Inderjit S Dhillon]], [[Alexandros Dimakis]], [[Pradeep Dubey]], [[Charles Elkan]], [[Grigori Fursin]], [[Gregory R Ganger]], [[Lise Getoor]], [[Phillip B Gibbons]], [[Garth A Gibson]], [[Joseph E Gonzalez]], [[Justin Gottschlich]], [[Song Han]], [[Kim Hazelwood]], [[Furong Huang]], [[Martin Jaggi]], [[Kevin Jamieson]], [[Michael I Jordan]], [[Gauri Joshi]], [[Rania Khalaf]], [[Jason Knight]], [[Jakub Konečný]], [[Tim Kraska]], [[Arun Kumar]], [[Anastasios Kyrillidis]], [[Aparna Lakshmiratan]], [[Jing Li]], [[Samuel Madden]], [[H Brendan McMahan]], [[Erik Meijer]], [[Ioannis Mitliagkas]], [[Rajat Monga]], [[Derek Murray]], [[Kunle Olukotun]], [[Dimitris Papailiopoulos]], [[Gennady Pekhimenko]], [[Theodoros Rekatsinas]], [[Afshin Rostamizadeh]], [[Christopher Ré]], [[Christopher De Sa]], [[Hanie Sedghi]], [[Siddhartha Sen]], [[Virginia Smith]], [[Alex Smola]], [[Dawn Song]], [[Evan Sparks]], [[Ion Stoica]], [[Vivienne Sze]], [[Madeleine Udell]], [[Joaquin Vanschoren]], [[Shivaram Venkataraman]], [[Rashmi Vinayak]], [[Markus Weimer]], [[Andrew Gordon Wilson]], [[Eric Xing]], [[Matei Zaharia]], [[Ce Zhang]], [[Ameet Talwalkar]]
+arXiv preprint arXiv:1904.03257
+-------------------------------------------------------------------------------------------------------------------------
+2019
+[[Serving recurrent neural networks efficiently with a spatial architecture]]
+[[Tian Zhao]], [[Yaqi Zhang]], [[Kunle Olukotun]]
+Proceedings of the 2019 ACM Conference on Systems and Machine Learning
+-------------------------------------------------------------------------------------------------------------------------
+2018/9/27
+[[DiffraNet: Automatic Classification of Serial Crystallography Diffraction Patterns]]
+[[Artur Souza]], [[Leonardo B Oliveira]], [[Sabine Hollatz]], [[Matt Feldman]], [[Kunle Olukotun]], [[James M Holton]], [[Aina E Cohen]], [[Luigi Nardi]]
+Serial crystallography is the field of science that studies the structure and properties of crystals via diffraction patterns. In this paper, we introduce a new serial crystallography dataset generated through the use of a simulator; the synthetic images are labeled and they are both scalable and accurate. The resulting synthetic dataset is called DiffraNet, and it is composed of 25,000 512x512 grayscale labeled images. We explore several computer vision approaches for classification on DiffraNet such as standard feature extraction algorithms associated with Random Forests and Support Vector Machines but also an end-to-end CNN topology dubbed DeepFreak tailored to work on this new dataset. All implementations are publicly available and have been fine-tuned using off-the-shelf AutoML optimization tools for a fair comparison. Our best model achieves 98.5% accuracy. We believe that the DiffraNet dataset and its classification methods will have in the long term a positive impact in accelerating discoveries in many disciplines, including chemistry, geology, biology, materials science, metallurgy, and physics.
+-------------------------------------------------------------------------------------------------------------------------
+2018/6/15
+[[Exploring the Utility of Developer Exhaust]]
+[[Jian Zhang]], [[Max Lam]], [[Stephanie Wang]], [[Paroma Varma]], [[Luigi Nardi]], [[Kunle Olukotun]], [[Christopher Ré]]
+Proceedings of the Second Workshop on Data Management for End-To-End Machine Learning
+-------------------------------------------------------------------------------------------------------------------------
+2018/6/11
+[[Spatial: A language and compiler for application accelerators]]
+[[David Koeplinger]], [[Matthew Feldman]], [[Raghu Prabhakar]], [[Yaqi Zhang]], [[Stefan Hadjis]], [[Ruben Fiszel]], [[Tian Zhao]], [[Luigi Nardi]], [[Ardavan Pedram]], [[Christos Kozyrakis]], [[Kunle Olukotun]]
+Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation
+-------------------------------------------------------------------------------------------------------------------------
+2018/5/11
+[[Plasticine: A reconfigurable accelerator for parallel patterns]]
+[[Raghu Prabhakar]], [[Yaqi Zhang]], [[David Koeplinger]], [[Matt Feldman]], [[Tian Zhao]], [[Stefan Hadjis]], [[Ardavan Pedram]], [[Christos Kozyrakis]], [[Kunle Olukotun]]
+IEEE Micro
+-------------------------------------------------------------------------------------------------------------------------
+2018/4/16
+[[Levelheaded: A unified engine for business intelligence and linear algebra querying]]
+[[Christopher Aberger]], [[Andrew Lamb]], [[Kunle Olukotun]], [[Christopher Ré]]
+2018 IEEE 34th International Conference on Data Engineering (ICDE)
+-------------------------------------------------------------------------------------------------------------------------
+2018/3/9
+[[High-accuracy low-precision training]]
+[[Christopher De Sa]], [[Megan Leszczynski]], [[Jian Zhang]], [[Alana Marzoev]], [[Christopher R Aberger]], [[Kunle Olukotun]], [[Christopher Ré]]
+arXiv preprint arXiv:1803.03383
+-------------------------------------------------------------------------------------------------------------------------
+2018
+[[High-accuracy low-precision training]]
+[[Christopher R Aberger]], [[Christopher De Sa]], [[Megan Leszczynski]], [[Alana Marzoev]], [[Kunle Olukotun]], [[Christopher Ré]], [[Jian Zhang]]
+arXiv preprint arXiv:1803.03383
+-------------------------------------------------------------------------------------------------------------------------
+2018
+[[Flare: Optimizing Apache Spark with Native Compilation for {Scale-Up} Architectures and {Medium-Size} Data]]
+[[Gregory Essertel]], [[Ruby Tahboub]], [[James Decker]], [[Kevin Brown]], [[Kunle Olukotun]], [[Tiark Rompf]]
+13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18)
+-------------------------------------------------------------------------------------------------------------------------
+2017/12
+[[Dawnbench: An end-to-end deep learning benchmark and competition]]
+[[Cody Coleman]], [[Deepak Narayanan]], [[Daniel Kang]], [[Tian Zhao]], [[Jian Zhang]], [[Luigi Nardi]], [[Peter Bailis]], [[Kunle Olukotun]], [[Chris Ré]], [[Matei Zaharia]]
+Training
+-------------------------------------------------------------------------------------------------------------------------
+2017/10/27
+[[Emptyheaded: A relational engine for graph processing]]
+[[Christopher R Aberger]], [[Andrew Lamb]], [[Susan Tu]], [[Andres Nötzli]], [[Kunle Olukotun]], [[Christopher Ré]]
+ACM Transactions on Database Systems (TODS)
+-------------------------------------------------------------------------------------------------------------------------
+2017/8/25
+[[LevelHeaded: Making Worst-Case Optimal Joins Work in the Common Case]]
+[[Christopher R Aberger]], [[Andrew Lamb]], [[Kunle Olukotun]], [[Christopher Ré]]
+arXiv preprint arXiv:1708.07859
+-------------------------------------------------------------------------------------------------------------------------
+2017/8/1
+[[Mind the gap: bridging multi-domain query workloads with EmptyHeaded]]
+[[Christopher R Aberger]], [[Andrew Lamb]], [[Kunle Olukotun]], [[Christopher Ré]]
+Proceedings of the VLDB Endowment
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/24
+[[Plasticine: A reconfigurable architecture for parallel paterns]]
+[[Raghu Prabhakar]], [[Yaqi Zhang]], [[David Koeplinger]], [[Matt Feldman]], [[Tian Zhao]], [[Stefan Hadjis]], [[Ardavan Pedram]], [[Christos Kozyrakis]], [[Kunle Olukotun]]
+ACM SIGARCH Computer Architecture News
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/24
+[[Understanding and optimizing asynchronous low-precision stochastic gradient descent]]
+[[Christopher De Sa]], [[Matthew Feldman]], [[Christopher Ré]], [[Kunle Olukotun]]
+Proceedings of the 44th annual international symposium on computer architecture
+-------------------------------------------------------------------------------------------------------------------------
+2017/5/22
+[[Infrastructure for usable machine learning: The stanford dawn project]]
+[[Peter Bailis]], [[Kunle Olukotun]], [[Christopher Ré]], [[Matei Zaharia]]
+arXiv preprint arXiv:1705.07538
+-------------------------------------------------------------------------------------------------------------------------
+2017/3/23
+[[Flare: Native compilation for heterogeneous workloads in Apache Spark]]
+[[Grégory M Essertel]], [[Ruby Y Tahboub]], [[James M Decker]], [[Kevin J Brown]], [[Kunle Olukotun]], [[Tiark Rompf]]
+arXiv preprint arXiv:1703.08219
+-------------------------------------------------------------------------------------------------------------------------
+2016/9/11
+[[Scaling data analytics with moore's law]]
+[[Kunle Olukotun]]
+Proceedings of the 2016 International Conference on Parallel Architectures and Compilation
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/18
+[[Automatic generation of efficient accelerators for reconfigurable hardware]]
+[[David Koeplinger]], [[Christina Delimitrou]], [[Raghu Prabhakar]], [[Christos Kozyrakis]], [[Yaqi Zhang]], [[Kunle Olukotun]]
+ACM SIGARCH Computer Architecture News
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/11
+[[Ensuring rapid mixing and low bias for asynchronous Gibbs sampling]]
+[[Christopher De Sa]], [[Chris Re]], [[Kunle Olukotun]]
+International Conference on Machine Learning
+-------------------------------------------------------------------------------------------------------------------------
+2016/5/16
+[[Old techniques for new join algorithms: A case study in RDF processing]]
+[[Christopher R Aberger]], [[Susan Tu]], [[Kunle Olukotun]], [[Christopher Ré]]
+2016 IEEE 32nd International Conference on Data Engineering Workshops (ICDEW)
+-------------------------------------------------------------------------------------------------------------------------
+2016/3/25
+[[Generating configurable hardware from parallel patterns]]
+[[Raghu Prabhakar]], [[David Koeplinger]], [[Kevin J Brown]], [[HyoukJoong Lee]], [[Christopher De Sa]], [[Christos Kozyrakis]], [[Kunle Olukotun]]
+Acm Sigplan Notices
+-------------------------------------------------------------------------------------------------------------------------
+2016/2/29
+[[Have abstraction and eat performance, too: Optimized heterogeneous computing with parallel patterns]]
+[[Kevin J Brown]], [[HyoukJoong Lee]], [[Tiark Rompf]], [[Arvind K Sujeeth]], [[Christopher De Sa]], [[Christopher Aberger]], [[Kunle Olukotun]]
+Proceedings of the 2016 International Symposium on Code Generation and Optimization
+-------------------------------------------------------------------------------------------------------------------------
+2016/2/21
+[[Graphops: A dataflow library for graph analytics acceleration]]
+[[Tayo Oguntebi]], [[Kunle Olukotun]]
+Proceedings of the 2016 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+-------------------------------------------------------------------------------------------------------------------------

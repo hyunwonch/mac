@@ -1,0 +1,111 @@
+[[2023 - Truong]]
+[[2022 - Truong]]
+[[2021 - Truong]]
+[[2020 - Truong]]
+[[2019 - Truong]]
+[[2018 - Truong]]
+[[2017 - Truong]]
+[[2016 - Truong]]
+[[2015 - Truong]]
+[[2014 - Truong]]
+[[2013 - Truong]]
+[[2012 - Truong]]
+[[2011 - Truong]]
+[[2010 - Truong]]
+[[2009 - Truong]]
+[[2008 - Truong]]
+[[2007 - Truong]]
+[[2006 - Truong]]
+[[2005 - Truong]]
+[[2004 - Truong]]
+[[2003 - Truong]]
+[[2002 - Truong]]
+[[2001 - Truong]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/11/3
+[[Massively parallel processor array for mid-/back-end ultrasound signal processing]]
+[[Dean N Truong]], [[Bevan M Baas]]
+[[2010 Biomedical Circuits and Systems Conference (BioCAS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/6/13
+[[Circuit modeling for practical many-core architecture design exploration]]
+[[Dean N Truong]], [[Bevan M Baas]]
+[[Proceedings of the 47th Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/5/20
+[[A reconfigurable source-synchronous on-chip network for GALS many-core platforms]]
+[[Anh Thien Tran]], [[Dean Nguyen Truong]], [[Bevan Baas]]
+[[IEEE transactions on computer-aided design of integrated circuits and systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/5/10
+[[A low-complexity message-passing algorithm for reduced routing congestion in LDPC decoders]]
+[[Tinoosh Mohsenin]], [[Dean N Truong]], [[Bevan M Baas]]
+[[IEEE Transactions on Circuits and Systems I: Regular Papers]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/6/14
+[[An improved Split-Row Threshold decoding algorithm for LDPC codes]]
+[[Tinoosh Mohsenin]], [[Dean Truong]], [[Bevan Baas]]
+[[Communications, 2009. ICC'09. IEEE International Conference on]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/5/24
+[[A low-cost high-speed source-synchronous interconnection technique for GALS chip multiprocessors]]
+[[Anh T Tran]], [[Dean N Truong]], [[Bevan M Baas]]
+[[2009 IEEE International Symposium on Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/5/24
+[[The design of a reconfigurable continuous-flow mixed-radix FFT processor]]
+[[Anthony T Jacobson]], [[Dean N Truong]], [[Bevan M Baas]]
+[[2009 IEEE International Symposium on Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/5/24
+[[Multi-split-row threshold decoding implementations for LDPC codes]]
+[[Tinoosh Mohsenin]], [[Dean Truong]], [[Bevan Baas]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/5/10
+[[A GALS many-core heterogeneous DSP platform with source-synchronous on-chip interconnection network]]
+[[Anh T Tran]], [[Dean N Truong]], [[Bevan M Baas]]
+[[2009 3rd ACM/IEEE International Symposium on Networks-on-Chip]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/4
+[[A 167-processor computational platform in 65 nm CMOS]]
+[[Dean N Truong]], [[Wayne H Cheng]], [[Tinoosh Mohsenin]], [[Zhiyi Yu]], [[Anthony T Jacobson]], [[Gouri Landge]], [[Michael J Meeuwsen]], [[Christine Watnik]], [[Anh T Tran]], [[Zhibin Xiao]], [[Eric W Work]], [[Jeremy W Webb]], [[Paul V Mejia]], [[Bevan M Baas]]
+[[Solid-State Circuits, IEEE Journal of]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/10/26
+[[A complete real-time 802.11 a baseband receiver implemented on an array of programmable processors]]
+[[Anh T Tran]], [[Dean N Truong]], [[Bevan M Baas]]
+[[Signals, Systems and Computers, 2008 42nd Asilomar Conference on]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/8
+[[A 167-processor computational array for highly-efficient DSP and embedded application processing]]
+[[Dean Truong]], [[Wayne Cheng]], [[Tinoosh Mohsenin]], [[Zhiyi Yu]], [[Toney Jacobson]], [[Gouri Landge]], [[Michael Meeuwsen]], [[Christine Watnik]], [[Paul Mejia]], [[Anh Tran]], [[Jeremy Webb]], [[Eric Work]], [[Zhibin Xiao]], [[Bevan Baas]]
+[[HotChips Symp. High-Performance Chips]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/6/18
+[[A 167-processor 65 nm computational platform with per-processor dynamic supply voltage and dynamic clock frequency scaling]]
+[[Dean Truong]], [[Wayne Cheng]], [[Tinoosh Mohsenin]], [[Zhiyi Yu]], [[Toney Jacobson]], [[Gouri Landge]], [[Michael Meeuwsen]], [[Christine Watnik]], [[Paul Mejia]], [[Anh Tran]], [[Jeremy Webb]], [[Eric Work]], [[Zhibin Xiao]], [[Bevan Baas]]
+[[VLSI Circuits, 2008 IEEE Symposium on]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/3
+[[AsAP: An asynchronous array of simple processors]]
+[[Zhiyi Yu]], [[Michael J Meeuwsen]], [[Ryan W Apperson]], [[Omar Sattari]], [[Michael Lai]], [[Jeremy W Webb]], [[Eric W Work]], [[Dean Truong]], [[Tinoosh Mohsenin]], [[Bevan M Baas]]
+[[Solid-State Circuits, IEEE Journal of]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/3
+[[AsAP: A fine-grained many-core platform for DSP applications]]
+[[Bevan Baas]], [[Zhiyi Yu]], [[Michael Meeuwsen]], [[Omar Sattari]], [[Ryan Apperson]], [[Eric Work]], [[Jeremy Webb]], [[Michael Lai]], [[Tinoosh Mohsenin]], [[Dean Truong]], [[Jason Cheung]]
+[[Micro, IEEE]]
+-------------------------------------------------------------------------------------------------------------------------
+2006/8
+[[Hardware and applications of AsAP: An asynchronous array of simple processors]]
+[[Bevan Baas]], [[Zhiyi Yu]], [[Michael Meeuwsen]], [[Omar Sattari]], [[Ryan Apperson]], [[Eric Work]], [[Jeremy Webb]], [[Michael Lai]], [[Daniel Gurman]], [[Chi Chen]], [[Jason Cheung]], [[Dean Truong]], [[Tinoosh Mohsenin]]
+[[IEEE HotChips Symposium on High-Performance Chips (HotChips 2006)]]
+-------------------------------------------------------------------------------------------------------------------------
+This paper presents the design of a dynami-cally configurable Fast Fourier Transform (FFT) processor built around a continuous flow, mixed-radix architecture. Complex FFTs/inverse FFTs (IFFTs) of size 16-to 4096-point can be performed, with the option to turn on/off block floating point (BFP), and to divide the input data by 2 (to prevent overflow in the butterfly). An addressing scheme is presented to accomodate performing FFTs of any size. Minimizing twiddle factor data storage is discussed with a method to improve FFT accuracy and reduce the number of multiplications performed within an FFT. The datapath for this processor varies between 16-to 34-bits. Built in a 65 nm technology, a 1024-point FFT is performed in 1.29 μs and a 4096-point FFT is performed in 6.11 μs at a clock speed of 1.01 GHz. The accuracy is 80 dB for a 64-point FFT and 73 dB for a 1024-point random-data FFT. The processor consumes …
+[[A Dynamically-Configurable 16–4096-Point 65 nm Complex FFT Processor]]
+[[Anthony T Jacobson]], [[Dean N Truong]], [[Bevan M Baas]]
+[[A Dynamically-Configurable 16–4096-Point 65 nm Complex FFT Processor
+AT Jacobson, DN Truong, BM Baas
+Related articles]]
+-------------------------------------------------------------------------------------------------------------------------
