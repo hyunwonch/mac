@@ -1,0 +1,28 @@
+[[2023 - Bandara]]
+[[2022 - Bandara]]
+[[2021 - Bandara]]
+[[2020 - Bandara]]
+[[2019 - Bandara]]
+[[2018 - Bandara]]
+[[2017 - Bandara]]
+[[2016 - Bandara]]
+2023/9/19
+[[Flip: Data-Centric Edge CGRA Accelerator]]
+[[Dan Wu]], [[Peng Chen]], [[Thilini Kaushalya Bandara]], [[Zhaoying Li]], [[Tulika Mitra]]
+[[arXiv preprint arXiv:2309.10623]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/10
+[[PANORAMA: divide-and-conquer approach for mapping complex loop kernels on CGRA]]
+[[Dhananjaya Wijerathne]], [[Zhaoying Li]], [[Thilini Kaushalya Bandara]], [[Tulika Mitra]]
+[[Proceedings of the 59th ACM/IEEE Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/13
+[[An Energy-Efficient Processing Element Design for Coarse-Grained Reconfigurable Architecture on FPGA]]
+[[Lingzhi Su]], [[Wang Ling Goh]], [[Jingjing Lan]], [[Vishnu P Nambiar]], [[Anh Tuan Do]], [[Thilini Kaushalya Bandara]], [[Aditi Kulkarni Mohite]], [[Bo Wang]]
+[[2022 11th International Conference on Communications, Circuits and Systems (ICCCAS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/28
+[[REVAMP: a systematic framework for heterogeneous CGRA realization]]
+[[Thilini Kaushalya Bandara]], [[Dhananjaya Wijerathne]], [[Tulika Mitra]], [[Li-Shiuan Peh]]
+[[Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems]]
+-------------------------------------------------------------------------------------------------------------------------

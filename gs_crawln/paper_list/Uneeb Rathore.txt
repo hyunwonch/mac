@@ -1,0 +1,34 @@
+[[2023 - Rathore]]
+[[2022 - Rathore]]
+[[2021 - Rathore]]
+[[2020 - Rathore]]
+[[2019 - Rathore]]
+[[2018 - Rathore]]
+[[2017 - Rathore]]
+[[2016 - Rathore]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/27
+[[A 16-nm 784-Core Digital Signal Processor Array, Assembled as a 2× 2 Dielet With 10-μm Pitch Interdielet I/O for Runtime Multiprogram Reconfiguration]]
+[[Sumeet Singh Nagi]], [[Uneeb Rathore]], [[Krutikesh Sahoo]], [[Tim Ling]], [[Subramanian S Iyer]], [[Dejan Marković]]
+[[IEEE Journal of Solid-State Circuits]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/31
+[[Functional demonstration of< 0.4-pJ/bit, 9.8 μm fine-pitch dielet-to-dielet links for advanced packaging using silicon interconnect fabric]]
+[[Krutikesh Sahoo]], [[Uneeb Rathore]], [[Siva Chandra Jangam]], [[Tri Nguyen]], [[Dejan Markovic]], [[Subramanian S Iyer]]
+[[2022 IEEE 72nd Electronic Components and Technology Conference (ECTC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/20
+[[A 16nm 785GMACs/J 784-Core Digital Signal Processor Array With a Multilayer Switch Box Interconnect, Assembled as a 2× 2 Dielet with 10μm-Pitch Inter-Dielet I/O for Runtime …]]
+[[Uneeb Rathore]], [[Sumeet Singh Nagi]], [[Subramanian Iyer]], [[Dejan Marković]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/3
+[[Demonstration of a Low Latency (< 20 ps) Fine-pitch (≤ 10 μm) Assembly on the Silicon Interconnect Fabric]]
+[[SivaChandra Jangam]], [[Uneeb Rathore]], [[Sumeet Nagi]], [[Dejan Markovic]], [[Subramanian S Iyer]]
+[[2020 IEEE 70th Electronic Components and Technology Conference (ECTC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2018
+[[Next Generation Dynamically Reconfigurable DSP in 16nm Technology]]
+[[Uneeb Yaqub Rathore]]
+[[University of California, Los Angeles]]
+-------------------------------------------------------------------------------------------------------------------------
