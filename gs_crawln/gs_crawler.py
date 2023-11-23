@@ -102,7 +102,12 @@ def gs_crawling(search_command, stop_year, override, override_url):
             title = driver.find_element(By.CLASS_NAME, 'gsc_oci_title_link').text
             authors = driver.find_elements(By.CLASS_NAME, 'gsc_oci_value')[0].text
             date = driver.find_elements(By.CLASS_NAME, 'gsc_oci_value')[1].text
-            journal = driver.find_elements(By.CLASS_NAME, 'gsc_oci_value')[2].text
+            journal_field = driver.find_elements(By.CLASS_NAME, 'gsc_oci_field')[2].text
+            if journal_field == "Description":
+                journal = " "
+                continue
+            else:
+                journal = driver.find_elements(By.CLASS_NAME, 'gsc_oci_value')[2].text
             #print(title)
             #print(authors)
             #print(date)
