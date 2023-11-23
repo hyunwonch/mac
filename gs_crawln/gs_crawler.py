@@ -158,10 +158,50 @@ def gs_crawling(search_command, stop_year, override, override_url):
 
         if "ISCA" in journal_list[i]:
             journal_tmp = "ISCA"
+        elif "International Symposium on Computer Architecture" in journal_list[i]:
+            journal_tmp = "ISCA"
+        elif "Micro" in journal_list[i]:
+            journal_tmp = "Micro"
         elif "MICRO" in journal_list[i]:
-            journal_tmp = "MICRO"
+            journal_tmp = "Micro"
+        elif "HPCA" in journal_list[i]:
+            journal_tmp = "HPCA"
+        elif "ASAP" in journal_list[i]:
+            journal_tmp = "ASAP"
+        elif "IISWC" in journal_list[i]:
+            journal_tmp = "IISWC"
+        elif "HCS" in journal_list[i]:
+            journal_tmp = "HCS"
+        elif "PACT" in journal_list[i]:
+            journal_tmp = "PACT"
+        elif "ISPASS" in journal_list[i]:
+            journal_tmp = "ISPASS"
+        elif "FCCM" in journal_list[i]:
+            journal_tmp = "FCCM"
+        elif "ICCD" in journal_list[i]:
+            journal_tmp = "ICCD"
+        elif "MWSCAS" in journal_list[i]:
+            journal_tmp = "MWSCAS"
         elif "ISSCC" in journal_list[i]:
             journal_tmp = "ISSCC"
+        elif "Symposium on VLSI Circuits" in journal_list[i]:
+            journal_tmp = "VLSI"
+        elif "IEEE Journal of Solid-State Circuits" in journal_list[i]:
+            journal_tmp = "JSSC"
+        elif "CICC" in journal_list[i]:
+            journal_tmp = "CICC"
+        elif "DAC" in journal_list[i]:
+            journal_tmp = "DAC"
+        elif "A-SSCC" in journal_list[i]:
+            journal_tmp = "A-SSCC"
+        elif "ESSCIRC" in journal_list[i]:
+            journal_tmp = "ESSCIRC"
+        elif "DATE" in journal_list[i]:
+            journal_tmp = "DATE"
+        elif "ISLPED" in journal_list[i]:
+            journal_tmp = "ISLPED"
+        elif "arXiv" in journal_list[i]:
+            journal_tmp = "arXiv"
         else:
             journal_tmp = journal_list[i]
 

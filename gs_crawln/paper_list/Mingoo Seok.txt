@@ -1,0 +1,1002 @@
+[[2023 - Seok]]
+[[2022 - Seok]]
+[[2021 - Seok]]
+[[2020 - Seok]]
+[[2019 - Seok]]
+[[2018 - Seok]]
+[[2017 - Seok]]
+[[2016 - Seok]]
+[[2015 - Seok]]
+[[2014 - Seok]]
+[[2013 - Seok]]
+[[2012 - Seok]]
+[[2011 - Seok]]
+[[2010 - Seok]]
+[[2009 - Seok]]
+[[2008 - Seok]]
+[[2007 - Seok]]
+[[2006 - Seok]]
+[[2005 - Seok]]
+[[2004 - Seok]]
+[[2003 - Seok]]
+[[2002 - Seok]]
+[[2001 - Seok]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/10/30
+[[A 44.2-TOPS/W CNN Processor With Variation-Tolerant Analog Datapath and Variation Compensating Circuit]]
+[[Jin-O Seo]], [[Mingoo Seok]], [[SeongHwan Cho]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/10/2
+[[A Capacitorless External-Clock-Free Fully-Synthesizable Digital LDO with Time-Based Load-State Decision and Asynchronous Recovery]]
+[[Jonghyun Oh]], [[Yoonho Song]], [[Young-Ha Hwang]], [[Jun-Eun Park]], [[Mingoo Seok]], [[Deog-Kyoon Jeong]]
+[[IEEE Transactions on Power Electronics]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/9/28
+[[DIMCA: An Area-Efficient Digital In-Memory Computing Macro Featuring Approximate Arithmetic Hardware in 28 nm]]
+[[Chuan-Tung Lin]], [[Dewei Wang]], [[Bo Zhang]], [[Gregory K Chen]], [[Phil C Knag]], [[Ram Kumar Krishnamurthy]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/9/11
+[[microASR: 32-μW Real-Time Automatic Speech Recognition Chip featuring a Bio-Inspired Neuron Model and Digital SRAM-based Compute-In-Memory Hardware]]
+[[Dewei Wang]], [[Jonghyun Oh]], [[Gregory K Chen]], [[Phil Knag]], [[Ram K Krishnamurthy]], [[Mingoo Seok]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/9/11
+[[D6CIM: 60.4-TOPS/W, 1.46-TOPS/mm2, 1005-Kb/mm2 Digital 6T-SRAM-Based Compute-in-Memory Macro Supporting 1-to-8b Fixed-Point Arithmetic in 28-nm …]]
+[[Jonghyun Oh]], [[Chuan-Tung Lin]], [[Mingoo Seok]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/9/11
+[[93.89% Peak Efficiency 24V-to-1V DC-DC Converter with Fast In-Situ Efficiency Tracking and Power-FET Code Roaming]]
+[[Zhaoqing Wang]], [[Mao Li]], [[Suhwan Kim]], [[Nachiket Desai]], [[Ram K Krishnamurthy]], [[Orlando Lazaro]], [[Andres Blanco]], [[Xin Zhang]], [[Mingoo Seok]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/9/10
+[[Experimentation with Wideband Real-Time Adaptive Full-Duplex Radios]]
+[[Alon Simon Levin]], [[Igor Kadota]], [[Sasank Garikapati]], [[Bo Zhang]], [[Aditya Jolly]], [[Manav Kohli]], [[Mingoo Seok]], [[Harish Krishnaswamy]], [[Gil Zussman]]
+[[Proceedings of the ACM SIGCOMM 2023 Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/8/30
+[[A Fully-Digital Variation-Tolerant Runtime Detector for PCB-level Probing Attack in a 28-nm CMOS]]
+[[Mao Li]], [[Yunze Yang]], [[Weifeng He]], [[Sanu K Mathew]], [[Vivek De]], [[Mingoo Seok]]
+[[IEEE Solid-State Circuits Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/8/21
+[[TICA: Timing Slack Inference and Clock Frequency Adaption Technique for a Deeply Pipelined Near-Threshold-Voltage Bitcoin Mining Core]]
+[[Jieyu Li]], [[Weifeng He]], [[Bo Zhang]], [[Guanghui He]], [[Jing Jin]], [[Jun Yang]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/23
+[[A Metastability Risk Prediction and Mitigation Technique for Clock-Domain Crossing With Single-Stage Synchronizer in Near-Threshold-Voltage Multivoltage/Frequency-Domain …]]
+[[Chuxiong Lin]], [[Weifeng He]], [[Yanan Sun]], [[Lin Shao]], [[Bo Zhang]], [[Jun Yang]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/4/23
+[[iMCU: A 102-μJ, 61-ms Digital In-Memory Computingbased Microcontroller Unit for Edge TinyML]]
+[[Chuan-Tung Lin]], [[Paul Xuanyuanliang Huang]], [[Jonghyun Oh]], [[Dewei Wang]], [[Mingoo Seok]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/2/19
+[[29.7 CCSA: A 394TOPS/W Mixed-Signal GPS Accelerator with Charge-Based Correlation Computing for Signal Acquisition]]
+[[Jieyu Li]], [[Weifeng He]], [[Bo Zhang]], [[Liang Qi]], [[Guanghui He]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/23
+[[60-GHz single flux quantum pulse transfer circuit for serial biasing]]
+[[Ashish Shukla]], [[Dmitri E Kirichenko]], [[Timur V Filippov]], [[Anubhav Sahu]], [[A Erik Lehmann]], [[Mingoo Seok]], [[Deepnarayan Gupta]]
+[[IEEE Transactions on Applied Superconductivity]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/19
+[[CDAR-DRAM: Enabling Runtime DRAM Performance and Energy Optimization via In-situ Charge Detection and Adaptive Data Restoration]]
+[[Yuxuan Qin]], [[Chuxiong Lin]], [[Weifeng He]], [[Yanan Sun]], [[Zhigang Mao]], [[Mingoo Seok]]
+[[IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/11/6
+[[A 0.0043-mm2 Capacitorless External-Clock-Free Fully-Synthesizable Digital LDO Using Load-Direct Droop Detector and Time-Based Load-State Decision]]
+[[Jonghyun Oh]], [[Yoonho Song]], [[Young-Ha Hwang]], [[Jun-Eun Park]], [[Mingoo Seok]], [[Deog-Kyoon Jeong]]
+[[A-SSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/21
+[[An Output-Capacitor-Free Synthesizable Digital LDO Using CMP-Triggered Oscillator and Droop Detector]]
+[[Jonghyun Oh]], [[Young-Ha Hwang]], [[Jun-Eun Park]], [[Mingoo Seok]], [[Deog-Kyoon Jeong]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/19
+[[PIMCA: A programmable in-memory computing accelerator for energy-efficient dnn inference]]
+[[Bo Zhang]], [[Shihui Yin]], [[Minkyu Kim]], [[Jyotishman Saikia]], [[Soonwan Kwon]], [[Sungmeen Myung]], [[Hyunsoo Kim]], [[Sang Joon Kim]], [[Jae-Sun Seo]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/14
+[[Serial biasing technique for electronic design automation in RSFQ circuits]]
+[[Ashish Shukla]], [[Timur V Filippov]], [[Dmitri E Kirichenko]], [[Sukanya S Meher]], [[Mustafa Eren Çelik]], [[Mingoo Seok]], [[Deepnarayan Gupta]]
+[[IEEE Transactions on Applied Superconductivity]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/9/19
+[[INTIACC: A 32-bit Floating-Point Programmable Custom-ISA Accelerator for Solving Classes of Partial Differential Equations]]
+[[Paul Xuanyuanliang Huang]], [[Daniel Jang]], [[Yannis Tsividis]], [[Mingoo Seok]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/29
+[[A DFT-Compatible In-Situ Timing Error Detection and Correction Structure Featuring Low Area and Test Overhead]]
+[[Hao Zhang]], [[Weifeng He]], [[Yanan Sun]], [[Mingoo Seok]]
+[[IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/31
+[[Package Design and Measurements for Radar Emulator using Accelerators and Photonics]]
+[[Mercy Daniel-Aguebor]], [[Mutee Ur Rehman]], [[Serhat Erdogan]], [[Kyoung-Sik Jack Moon]], [[Nikita Ambasana]], [[Saibal Mukhopadhya]], [[Madhavan Swaminathan]], [[Liang Yuan Dai]], [[Keren Bergman]], [[Daniel Jang]], [[Mingoo Seok]]
+[[2022 IEEE 72nd Electronic Components and Technology Conference (ECTC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/4/24
+[[A 177 TOPS/W, capacitor-based in-memory computing SRAM macro with stepwise-charging/discharging DACs and sparsity-optimized bitcells for 4-bit deep convolutional neural networks]]
+[[Bo Zhang]], [[Jyotishman Saikia]], [[Jian Meng]], [[Dewei Wang]], [[Soonwan Kwon]], [[Sungmeen Myung]], [[Hyunsoo Kim]], [[Sang Joon Kim]], [[Jae-sun Seo]], [[Mingoo Seok]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/4/24
+[[Review, survey, and benchmark of recent digital LDO voltage regulators]]
+[[Zhaoqing Wang]], [[Sung J Kim]], [[Keith Bowman]], [[Mingoo Seok]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/4/24
+[[TICA: A 0.3 V, Variation-Resilient 64-Stage Deeply-Pipelined Bitcoin Mining Core with Timing Slack Inference and Clock Frequency Adaption]]
+[[Jieyu Li]], [[Weifeng He]], [[Bo Zhang]], [[Guanghui He]], [[Jun Yang]], [[Mingoo Seok]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/4/24
+[[MPAM: Reliable, Low-Latency, Near-Threshold-Voltage Multi-Voltage/Frequency-Domain Network-on-Chip with Metastability Risk Prediction and Mitigation]]
+[[Chuxiong Lin]], [[Weifeng He]], [[Yannan Sun]], [[Lin Shao]], [[Bo Zhang]], [[Jun Yang]], [[Mingoo Seok]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/20
+[[ARCHON: A 332.7 TOPS/W 5b variation-tolerant analog CNN processor featuring analog neuronal computation unit and analog memory]]
+[[Jin-O Seo]], [[Mingoo Seok]], [[SeongHwan Cho]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/2/20
+[[DIMC: 2219TOPS/W 2569F2/b digital in-memory computing macro in 28nm based on approximate arithmetic hardware]]
+[[Dewei Wang]], [[Chuan-Tung Lin]], [[Gregory K Chen]], [[Phil Knag]], [[Ram K Krishnamurthy]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/1/13
+[[Pulse interfaces and current management techniques for serially biased RSFQ circuits]]
+[[Ashish Shukla]], [[Dmitri E Kirichenko]], [[Timur V Filippov]], [[Anubhav Sahu]], [[M Eren Çelik]], [[Mingoo Seok]], [[Deepnarayan Gupta]]
+[[IEEE Transactions on Applied Superconductivity]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/12/27
+[[Improving DNN hardware accuracy by in-memory computing noise injection]]
+[[Sai Kiran Cherupally]], [[Jian Meng]], [[Adnan Siraj Rakin]], [[Shihui Yin]], [[Mingoo Seok]], [[Deliang Fan]], [[Jae-Sun Seo]]
+[[IEEE Design & Test]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/12/5
+[[CDAR-DRAM: An in-Situ charge detection and adaptive data restoration DRAM architecture for performance and energy efficiency improvement]]
+[[Chuxiong Lin]], [[Weifeng He]], [[Yanan Sun]], [[Zhigang Mao]], [[Mingoo Seok]]
+[[DAC]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/12/5
+[[Leveraging noise and aggressive quantization of in-memory computing for robust dnn hardware against adversarial input and weight attacks]]
+[[Sai Kiran Cherupally]], [[Adnan Siraj Rakin]], [[Shihui Yin]], [[Mingoo Seok]], [[Deliang Fan]], [[Jae-sun Seo]]
+[[DAC]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/11/1
+[[An area-efficient scannable in situ timing error detection technique featuring low test overhead for resilient circuits]]
+[[Hao Zhang]], [[Weifeng He]], [[Yanan Sun]], [[Mingoo Seok]]
+[[2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/15
+[[Channel estimation using deep learning on an FPGA for 5G millimeter-wave communication systems]]
+[[Pavan Kumar Chundi]], [[Xiaodong Wang]], [[Mingoo Seok]]
+[[IEEE Transactions on Circuits and Systems I: Regular Papers]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/7/20
+[[Always-on sub-microwatt spiking neural network based on spike-driven clock-and power-gating for an ultra-low-power intelligent device]]
+[[Pavan Kumar Chundi]], [[Dewei Wang]], [[Sung Justin Kim]], [[Minhao Yang]], [[Joao Pedro Cerqueira]], [[Joonsung Kang]], [[Seungchul Jung]], [[Sangjoon Kim]], [[Mingoo Seok]]
+[[Frontiers in Neuroscience]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/13
+[[EQZ-LDO: A Near-Zero EDP Overhead,> 10M-Attack-Resilient, Secure Digital LDO featuring Attack-Detection and Detection-Driven Protection for a Correlation-Power-Analysis …]]
+[[Sung Justin Kim]], [[Dongkwun Kim]], [[Ayushparth Sharma]], [[Mingoo Seok]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/6/13
+[[PIMCA: A 3.4-Mb programmable in-memory computing accelerator in 28nm for on-chip DNN inference]]
+[[Shihui Yin]], [[Bo Zhang]], [[Minkyu Kim]], [[Jyotishman Saikia]], [[Soonwan Kwon]], [[Sungmeen Myung]], [[Hyunsoo Kim]], [[Sang Joon Kim]], [[Mingoo Seok]], [[Jae-sun Seo]]
+[[2021 Symposium on VLSI Technology]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/22
+[[An energy-efficient logic cell library design methodology with fine granularity of driving strength for near-and sub-threshold digital circuits]]
+[[Hao Zhang]], [[Weifeng He]], [[Yanan Sun]], [[Member Mingoo Seok]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/22
+[[An ultra-low leakage bitcell structure with the feedforward self-suppression scheme for near-threshold SRAM]]
+[[Hao Zhang]], [[Jieyu Li]], [[Weifeng He]], [[Yanan Sun]], [[Mingoo Seok]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/22
+[[Investigation of dynamic leakage-suppression logic techniques crossing different technology nodes from 180 nm bulk CMOS to 7 nm FinFET plus process]]
+[[Jieyu Li]], [[Zihan Lian]], [[Hao Zhang]], [[Weifeng He]], [[Yanan Sun]], [[Mingoo Seok]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/12
+[[Nanowatt acoustic inference sensing exploiting nonlinear analog feature extraction]]
+[[Minhao Yang]], [[Hongjie Liu]], [[Weiwei Shan]], [[Jun Zhang]], [[Ilya Kiselev]], [[Sang Joon Kim]], [[Christian Enz]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/4/30
+[[FLEET—Fast Lanes for Expedited Execution at 10 Terabits: Program Overview]]
+[[Fred Douglis]], [[Seth Robertson]], [[Eric Van den Berg]], [[Josephine Micallef]], [[Marc Pucci]], [[Alex Aiken]], [[Keren Bergman]], [[Maarten Hattink]], [[Mingoo Seok]]
+[[IEEE Internet Computing]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/4/16
+[[0.5–1-V, 90–400-mA, Modular, Distributed, 3× 3 Digital LDOs Based on Event-Driven Control and Domino Sampling and Regulation]]
+[[Sung Justin Kim]], [[Dongkwun Kim]], [[Yu Pu]], [[Chunlei Shi]], [[Soo Bong Chang]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/4/2
+[[A High PSRR, Low Ripple, Temperature-Compensated, 10-μA-Class Digital LDO Based on Current-Source Power-FETs for a Sub-mW SoC]]
+[[Sung Justin Kim]], [[Soo Bong Chang]], [[Mingoo Seok]]
+[[IEEE Solid-State Circuits Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/16
+[[A 10-output, single-inductor-multiple-output DC–DC Buck converter with integrated output capacitors for a sub-mW system-on-chip]]
+[[Dongkwun Kim]], [[Sung J Kim]], [[Zhewei Jiang]], [[Suhwan Kim]], [[Andres Blanco]], [[Ram K Krishnamurthy]], [[Mingoo Seok]]
+[[IEEE Solid-State Circuits Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/13
+[[Session 29 Overview: Digital Circuits for Computing, Clocking and Power Management]]
+[[Ping-Hsuan Hsieh]], [[Mingoo Seok]], [[Keith Bowman]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/13
+[[9.9 A background-noise and process-variation-tolerant 109nW acoustic feature extractor based on spike-domain divisive-energy normalization for an always-on keyword spotting device]]
+[[Dewei Wang]], [[Sung Justin Kim]], [[Minhao Yang]], [[Aurel A Lazar]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/1
+[[Modeling and optimization of sram-based in-memory computing hardware design]]
+[[Jyotishman Saikia]], [[Shihui Yin]], [[Sai Kiran Cherupally]], [[Bo Zhang]], [[Jian Meng]], [[Mingoo Seok]], [[Jae-Sun Seo]]
+[[DATE]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/12
+[[A case for 3d integrated system design for neuromorphic computing and AI applications]]
+[[Eren Kurshan]], [[Hai Li]], [[Mingoo Seok]], [[Yuan Xie]]
+[[International Journal of Semantic Computing]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/20
+[[MEDAC: A metastability condition detection and correction technique for a near-threshold-voltage multi-voltage-/frequency-domain network-on-chip]]
+[[Chuxiong Lin]], [[Weifeng He]], [[Yanan Sun]], [[Bingxi Pei]], [[Pavan Kumar Chundi]], [[Zhigang Mao]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/9
+[[Always-on, sub-300-nw, event-driven spiking neural network based on spike-driven clock-generation and clock-and power-gating for an ultra-low-power intelligent device]]
+[[Dewei Wang]], [[Pavan Kumar Chundi]], [[Sung Justin Kim]], [[Minhao Yang]], [[Joao Pedro Cerqueira]], [[Joonsung Kang]], [[Seungchul Jung]], [[Sangjoon Kim]], [[Mingoo Seok]]
+[[A-SSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/10/11
+[[An integrated programmable gate timing control and gate driver chip for a 48V-to-0.75 V active-clamp forward converter power block]]
+[[Dongkwun Kim]], [[Yoshitaka Yamauchi]], [[Xiaodong Meng]], [[Tianyu Jia]], [[Liam McAuliffe]], [[Todd Takken]], [[Kevin Tien]], [[Shurong Tian]], [[Yuan Yao]], [[Andrew Ferencz]], [[Mingoo Seok]], [[Xin Zhang]]
+[[2020 IEEE Energy Conversion Congress and Exposition (ECCE)]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/9/11
+[[A 6.3-Nanowatt-per-Channel 96-Channel Neural Spike Processor for a Movement-Intention-Decoding Brain-Computer-Interface Implant]]
+[[Zhewei Jiang]], [[Jiangyi Li]], [[Pavan K Chundi]], [[Sung Justin Kim]], [[Minhao Yang]], [[Joonseong Kang]], [[Seungchul Jung]], [[Sang Joon Kim]], [[Mingoo Seok]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/7/19
+[[Ktan: knowledge transfer adversarial network]]
+[[Peiye Liu]], [[Wu Liu]], [[Huadong Ma]], [[Zhewei Jiang]], [[Mingoo Seok]]
+[[2020 International Joint Conference on Neural Networks (IJCNN)]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/5/18
+[[C3SRAM: An in-memory-computing SRAM macro based on robust capacitive coupling computing mechanism]]
+[[Zhewei Jiang]], [[Shihui Yin]], [[Jae-Sun Seo]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/12
+[[Catena: A near-threshold, sub-0.4-mW, 16-core programmable spatial array accelerator for the ultralow-power mobile and embedded Internet of Things]]
+[[Joao P Cerqueira]], [[Thomas J Repetti]], [[Yu Pu]], [[Shivam Priyadarshi]], [[Martha A Kim]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/2/16
+[[25.8 a near-threshold-voltage network-on-chip with a metastability error detection and correction technique for supporting a quad-voltage/frequency-domain ultra-low-power …]]
+[[Chuxiong Lin]], [[Weifeng He]], [[Yanan Sun]], [[Bingxi Pei]], [[Zhigang Mao]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/2/16
+[[14.1 A 510nW 0.41 V low-memory low-computation keyword-spotting chip using serial FFT-based MFCC and binarized depthwise separable convolutional neural network in 28nm CMOS]]
+[[Weiwei Shan]], [[Minhao Yang]], [[Jiaming Xu]], [[Yicheng Lu]], [[Shuai Zhang]], [[Tao Wang]], [[Jun Yang]], [[Longxing Shi]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/1/14
+[[XNOR-SRAM: In-memory computing SRAM macro for binary/ternary deep neural networks]]
+[[Shihui Yin]], [[Zhewei Jiang]], [[Jae-Sun Seo]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020
+[[Memnas: Memory-efficient neural architecture search with grow-trim learning]]
+[[Peiye Liu]], [[Bo Wu]], [[Huadong Ma]], [[Mingoo Seok]]
+[[Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/12/27
+[[Introduction to the Special Issue on the 2019 IEEE International Solid-State Circuits Conference (ISSCC)]]
+[[Tony Chan Carusone]], [[Mingoo Seok]], [[Hsie-Chia Chang]], [[Meng-Fan Chang]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/12/27
+[[A bi-directional, zero-latency adaptive clocking circuit in a 28-nm wide AVFS system]]
+[[Weiwei Shan]], [[Wentao Dai]], [[Liang Wan]], [[Minyi Lu]], [[Longxing Shi]], [[Mingoo Seok]], [[Jun Yang]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/3
+[[Vesti: An in-memory computing processor for deep neural networks acceleration]]
+[[Zhewei Jiang]], [[Shihui Yin]], [[Minkyu Kim]], [[Tushar Gupta]], [[Mingoo Seok]], [[Jae-sun Seo]]
+[[2019 53rd Asilomar Conference on Signals, Systems, and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/29
+[[Ultra-low-power intelligent acoustic sensing using cochlea-inspired feature extraction and dnn classification]]
+[[Minhao Yang]], [[Shih-Chii Liu]], [[Mingoo Seok]], [[Christian Enz]]
+[[2019 Ieee 13Th International Conference On Asic (Asicon)]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/14
+[[Vesti: Energy-efficient in-memory computing accelerator for deep neural networks]]
+[[Shihui Yin]], [[Zhewei Jiang]], [[Minkyu Kim]], [[Tushar Gupta]], [[Mingoo Seok]], [[Jae-Sun Seo]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/2
+[[SRAM-ADC: SRAM circuits transformable to a stochastic ADC at ultralow area overhead]]
+[[Doyun Kim]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[IEEE Solid-State Circuits Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/9
+[[C3SRAM: In-memory-computing SRAM macro based on capacitive-coupling computing]]
+[[Zhewei Jiang]], [[Shihui Yin]], [[Jae-Sun Seo]], [[Mingoo Seok]]
+[[IEEE Solid-State Circuits Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/8/4
+[[A Femto/Pico-Watt Feedforward Leakage Self-Suppression Logic Family in 180 nm to 28 nm Technologies]]
+[[Joao P Cerqueira]], [[Jieyu Li]], [[Jiangyi Li]], [[Weifeng He]], [[Mingoo Seok]]
+[[MWSCAS]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/7/29
+[[K-nearest neighbor hardware accelerator using in-memory computing SRAM]]
+[[Jyotishman Saikia]], [[Shihui Yin]], [[Zhewei Jiang]], [[Mingoo Seok]], [[Jae-sun Seo]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/7/29
+[[Fpga-based acceleration of binary neural network training with minimized off-chip memory access]]
+[[Pavan Kumar Chundi]], [[Peiye Liu]], [[Sangsu Park]], [[Seho Lee]], [[Mingoo Seok]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/7/22
+[[MemNet: memory-efficiency guided neural architecture search with augment-trim learning]]
+[[Peiye Liu]], [[Bo Wu]], [[Huadong Ma]], [[Mingoo Seok]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/22
+[[Master of none acceleration: A comparison of accelerator architectures for analytical query processing]]
+[[Andrea Lottarini]], [[João P Cerqueira]], [[Thomas J Repetti]], [[Stephen A Edwards]], [[Kenneth A Ross]], [[Mingoo Seok]], [[Martha A Kim]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/9
+[[A 923 gbps/w, 113-cycle, 2-sbox energy-efficient aes accelerator in 28nm cmos]]
+[[Weiwei Shan]], [[Ao Fan]], [[Jiaming Xu]], [[Jun Yang]], [[Mingoo Seok]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/9
+[[A 0.5-1V input event-driven multiple digital low-dropout-regulator system for supporting a large digital load]]
+[[Sung Justin Kim]], [[Dongkwun Kim]], [[Yu Pu]], [[Chunlei Shi]], [[Mingoo Seok]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/9
+[[Catena: A 0.5-V Sub-0.4-mW 16-core spatial array accelerator for mobile and embedded computing]]
+[[Joao P Cerqueira]], [[Thomas J Repetti]], [[Yu Pu]], [[Shivam Priyadarshi]], [[Martha A Kim]], [[Mingoo Seok]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/5/13
+[[XNOR-SRAM: In-bitcell computing SRAM macro based on resistive computing mechanism]]
+[[Zhewei Jiang]], [[Shihui Yin]], [[Jae-sun Seo]], [[Mingoo Seok]]
+[[Proceedings of the 2019 on Great Lakes Symposium on VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/4/29
+[[A Near-Threshold Spiking Neural Network Accelerator With a Body-Swapping-Based Error Detection and Correction Technique]]
+[[Seongjong Kim]], [[Joao Pedro Cerqueira]], [[Mingoo Seok]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/4/22
+[[Cases for analog mixed signal computing integrated circuits for deep neural networks]]
+[[Mingoo Seok]], [[Minhao Yang]], [[Zhewei Jiang]], [[Aurel A Lazar]], [[Jae-Sun Seo]]
+[[2019 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/4/18
+[[Design of an Always-On Deep Neural Network-Based 1- W Voice Activity Detector Aided With a Customized Software Model for Analog Feature Extraction]]
+[[Minhao Yang]], [[Chung-Heng Yeh]], [[Yiyin Zhou]], [[Joao P Cerqueira]], [[Aurel A Lazar]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/2/17
+[[Recursive binary neural network training model for efficient usage of on-chip memory]]
+[[Tianchan Guan]], [[Peiye Liu]], [[Xiaoyang Zeng]], [[Martha Kim]], [[Mingoo Seok]]
+[[IEEE Transactions on Circuits and Systems I: Regular Papers]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/1/29
+[[Editorial TVLSI positioning—Continuing and accelerating an upward trajectory]]
+[[Massimo Alioto]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/12/14
+[[Recursive synaptic bit reuse: An efficient way to increase memory capacity in associative memory]]
+[[Tianchan Guan]], [[Xiaoyang Zeng]], [[Mingoo Seok]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/11/19
+[[A case study in analog co-processing for solving stochastic differential equations]]
+[[Yipeng Huang]], [[Ning Guo]], [[Simha Sethumadhavan]], [[Mingoo Seok]], [[Yannis Tsividis]]
+[[2018 IEEE 23rd International Conference on Digital Signal Processing (DSP)]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/11/1
+[[< inline-formula>< tex-math notation]]
+[[Teng Yang]], [[Doyun Kim]], [[Jiangyi Li]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/10/17
+[[High-Capacity Fingerprint Recognition System based on a Dynamic Memory-Capacity Estimation Technique]]
+[[Pavan Kumar Chundi]], [[Ajay Kumar Sridhar]], [[Saarthak Sarup]], [[Mingoo Seok]]
+[[2018 IEEE Biomedical Circuits and Systems Conference (BioCAS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/9/3
+[[A 0.78-µw 96-ch. deep sub-vt neural spike processor integrated with a nanowatt power management unit]]
+[[Jiangyi Li]], [[Pavan K Chundi]], [[Sung Kim]], [[Zhewei Jiang]], [[Minhao Yang]], [[Joonseong Kang]], [[Seungchul Jung]], [[Sang Joon Kim]], [[Mingoo Seok]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/7/30
+[[and In-Field Technique for Monitoring and Decelerating NBTI in 6T-SRAM Register Files]]
+[[Teng Yang]], [[Doyun Kim]], [[Jiangyi Li]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/7/23
+[[Better-Than-Worst-Case Design Methodology for a Compact Integrated Switched-Capacitor DC-DC Converter]]
+[[Dongkwun Kim]], [[Mingoo Seok]]
+[[Proceedings of the International Symposium on Low Power Electronics and Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/7/23
+[[Blacklist core: Machine-learning based dynamic operating-performance-point blacklisting for mitigating power-management security attacks]]
+[[Sheng Zhang]], [[Adrian Tang]], [[Zhewei Jiang]], [[Simha Sethumadhavan]], [[Mingoo Seok]]
+[[Proceedings of the International Symposium on Low Power Electronics and Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/6/18
+[[0.5V-VIN, 165-mA/mm2 Fully-Integrated Digital LDO Based on Event-Driven Self-Triggering Control]]
+[[Doyun Kim]], [[Sung Kim]], [[Mingoo Seok]], [[Hyunju Ham]], [[Jongwhan Kim]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/6
+[[A fW-and kHz-class feedforward leakage self-suppression logic requiring no external sleep signal to enter the leakage suppression mode]]
+[[Joao P Cerqueira]], [[Jiangyi Li]], [[Mingoo Seok]]
+[[IEEE Solid-State Circuits Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/5/30
+[[A Sub-50 µm2, Voltage-Scalable, Digital-Standard-Cell-Compatible Thermal Sensor Frontend for On-Chip Thermal Monitoring]]
+[[Seongjong Kim]], [[Mingoo Seok]]
+[[Journal of Low Power Electronics and Applications]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/5/11
+[[Corrections to “Energy-Efficient Hybrid Analog/Digital Approximate Computation in Continuous Time”[Jul 16 1514-1524]]]
+[[Ning Guo]], [[Yipeng Huang]], [[Tao Mai]], [[Sarvil Patil]], [[Chi Cao]], [[Mingoo Seok]], [[Simha Sethumadhavan]], [[Yannis Tsividis]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/5
+[[A 67.1-ps FOM, 0.5-V-hybrid digital LDO with asynchronous feedforward control via slope detection and synchronous PI with state-based hysteresis clock switching]]
+[[Sung J Kim]], [[Doyun Kim]], [[Hyunju Ham]], [[Jonghwan Kim]], [[Mingoo Seok]]
+[[IEEE Solid-State Circuits Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/3/11
+[[Recent advances in in-situ and in-field aging monitoring and compensation for integrated circuits]]
+[[Mingoo Seok]], [[Peter R Kinget]], [[Teng Yang]], [[Jiangyi Li]], [[Doyun Kim]]
+[[2018 IEEE International Reliability Physics Symposium (IRPS)]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/2/11
+[[A 1μW voice activity detector using analog feature extraction and digital deep neural network]]
+[[Minhao Yang]], [[Chung-Heng Yeh]], [[Yiyin Zhou]], [[Joao P Cerqueira]], [[Aurel A Lazar]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/1/31
+[[An area-efficient microprocessor-based SoC with an instruction-cache transformable to an ambient temperature sensor and a physically unclonable function]]
+[[Jiangyi Li]], [[Teng Yang]], [[Minhao Yang]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/12/9
+[[FPGA with Improved Routability and Robustness in 130nm CMOS with Open-Source CAD Targetability]]
+[[Guanshun Yu]], [[Tom Y Cheng]], [[Blayne Kettlewell]], [[Harrison Liew]], [[Mingoo Seok]], [[Peter R Kinget]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/10/14
+[[Pipelining a triggered processing element]]
+[[Thomas J Repetti]], [[João P Cerqueira]], [[Martha A Kim]], [[Mingoo Seok]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/10/14
+[[Hybrid analog-digital solution of nonlinear partial differential equations]]
+[[Yipeng Huang]], [[Ning Guo]], [[Mingoo Seok]], [[Yannis Tsividis]], [[Kyle Mandli]], [[Simha Sethumadhavan]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/9/27
+[[A fully integrated digital low-dropout regulator based on event-driven explicit time-coding architecture]]
+[[Doyun Kim]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/9/15
+[[Recursive binary neural network learning model with 2.28 b/weight storage requirement]]
+[[Tianchan Guan]], [[Xiaoyang Zeng]], [[Mingoo Seok]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/9/15
+[[Dynamic capacity estimation in Hopfield networks]]
+[[Saarthak Sarup]], [[Mingoo Seok]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/9/11
+[[Near-Vt adaptive microprocessor and power-management-unit system based on direct error regulation]]
+[[Seongjong Kim]], [[Joao Pedro Cerqueira]], [[Mingoo Seok]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/9/11
+[[A 0.17-mm2 3.19-nJ/transform 256-point fast fourier transform core based on spatiotemporally fine-grained active leakage suppression]]
+[[Joao P Cerqueira]], [[Mingoo Seok]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/9/8
+[[Triple-mode, hybrid-storage, energy harvesting power management unit: Achieving high efficiency against harvesting and load power variabilities]]
+[[Jiangyi Li]], [[Jae-sun Seo]], [[Ioannis Kymissis]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/8/6
+[[Compact and voltage-scalable sensor for accurate thermal sensing in dynamic thermal management]]
+[[Teng Yang]], [[Pavan K Chundi]], [[Seongjong Kim]], [[Eren Kursun]], [[Martha Kim]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[MWSCAS]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/7/27
+[[Near- and Sub- Pipelines Based on Wide-Pulsed-Latch Design Techniques]]
+[[Wei Jin]], [[Seongjong Kim]], [[Weifeng He]], [[Zhigang Mao]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/7/24
+[[Comparative study and optimization of synchronous and asynchronous comparators at near-threshold voltages]]
+[[Sung Justin Kim]], [[Doyun Kim]], [[Mingoo Seok]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/7/24
+[[Hotspot monitoring and temperature estimation with miniature on-chip temperature sensors]]
+[[Pavan Kumar Chundi]], [[Yini Zhou]], [[Martha Kim]], [[Eren Kursun]], [[Mingoo Seok]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/14
+[[Analog computing in a modern context: A linear algebra accelerator case study]]
+[[Yipeng Huang]], [[Ning Guo]], [[Mingoo Seok]], [[Yannis Tsividis]], [[Simha Sethumadhavan]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/5/28
+[[A technique to transform 6T-SRAM arrays into robust analog PUF with minimal overhead]]
+[[Jiangyi Li]], [[Teng Yang]], [[Mingoo Seok]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/4/30
+[[An area-efficient microcontroller with an instruction-cache transformable to an ambient temperature sensor and a physically unclonable function]]
+[[Teng Yang]], [[Jiangyi Li]], [[Minhao Yang]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/3/27
+[[Extending memory capacity of neural associative memory based on recursive synaptic bit reuse]]
+[[Tianchan Guan]], [[Xiaoyang Zeng]], [[Mingoo Seok]]
+[[DATE]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/3/27
+[[Microwatt end-to-end digital neural signal processing systems for motor intention decoding]]
+[[Zhewei Jiang]], [[Chisung Bae]], [[Joonseong Kang]], [[Sang Joon Kim]], [[Mingoo Seok]]
+[[DATE]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/2/5
+[[20.6 A 0.5V-VIN1.44mA-class event-driven digital LDO with a fully integrated 100pF output capacitor]]
+[[Doyun Kim]], [[Jonghwan Kim]], [[Hyunju Ham]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[Editorial in IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+[[Krishnendu Chakrabarty]], [[Massimo Alioto]], [[Maxime Baas]], [[Chirn Chye Boon]], [[Meng-Fan Chang]], [[Naehyuck Chang]], [[Yao-Wen Chang]], [[Chip-Hong Ho]], [[Shih-Chieh Chang]], [[Poki Chen]], [[Masud Chowdhury]], [[Pasquale Corsonello]], [[M Elfadel]], [[Said Hamdioui]], [[Masanori Hashimoto]], [[Tsung-Yi Ho]], [[Houman Homayoun]], [[Yuh-Shyan Hwang]], [[Rajiv L Joshi]], [[Tanay Tan]], [[Mehran Mozaffari Kermani]], [[Chulwoo Kim]], [[Tae-Hyoung Kim]], [[Jaydeep Kulkarni]], [[Eren Kursun]], [[Erik Larsson]], [[Hai Helen Li]], [[Huawei Li]], [[Patrick Mercier]], [[Prabhat Mishra]], [[Makoto Nagata]], [[Arun Natarajan]], [[Koji Nii]], [[Partha Pratim Pande]], [[Ioannis Savidis]], [[Mingoo Seok]], [[Sheldon Tan]], [[M Tehranipoor]], [[Aida Todri-Sanial]], [[Miroslav Velev]], [[Jiang Xu]], [[Wei Zhang]], [[Zhengya Zhang]], [[Stacey Weber Jackson]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/11/16
+[[In Situ Error Detection Techniques in Ultralow Voltage Pipelines: Analysis and Optimizations]]
+[[Wei Jin]], [[Seongjong Kim]], [[Weifeng He]], [[Zhigang Mao]], [[Mingoo Seok]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/11/7
+[[A 0.35 V 1.3 pJ/cycle 20MHz 8-bit 8-tap FIR core based on wide-pulsed-latch pipelines]]
+[[Wei Jin]], [[Seongjong Kim]], [[Weifeng He]], [[Zhigang Mao]], [[Mingoo Seok]]
+[[A-SSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/11/7
+[[Triple-mode photovoltaic power management: Achieving high efficiency against harvesting and load variability]]
+[[Jiangyi Li]], [[Jae-sun Seo]], [[Ioannis Kymissis]], [[Mingoo Seok]]
+[[A-SSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/10/23
+[[Neural network based seizure detection system using raw EEG data]]
+[[Tianchan Guan]], [[Xiaoyang Zeng]], [[Letian Huang]], [[Mingoo Seok]]
+[[2016 International SoC design conference (ISOCC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/10/1
+[[Energy-efficient neuromorphic classifiers]]
+[[Daniel Marti]], [[Mattia Rigotti]], [[Mingoo Seok]], [[Stefano Fusi]]
+[[Neural computation]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/9/19
+[[High-Accuracy Compressed Sensing Decoder Based on AdaptiveComplex Approximate Message Passing: Cross-layer Design]]
+[[Le Zheng]], [[Zhenzhi Wu]], [[Mingoo Seok]], [[Xiaodong Wang]], [[Quanhua Liu]]
+[[IEEE Transactions on Circuits and Systems I: Regular Papers]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/9/12
+[[Register file circuits and post-deployment framework to monitor aging effects in field]]
+[[Teng Yang]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/7/27
+[[Ultra-compact and robust physically unclonable function based on voltage-compensated proportional-to-absolute-temperature voltage generators]]
+[[Jiangyi Li]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/20
+[[Temporarily fine-grained sleep technique for near-and subthreshold parallel architectures]]
+[[Joao Pedro Cerqueira]], [[Mingoo Seok]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/18
+[[Evaluation of an analog accelerator for linear algebra]]
+[[Yipeng Huang]], [[Ning Guo]], [[Mingoo Seok]], [[Yannis Tsividis]], [[Simha Sethumadhavan]]
+[[ACM SIGARCH Computer Architecture News]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/15
+[[1.74-µW/ch, 95.3%-accurate spike-sorting hardware based on Bayesian decision]]
+[[Zhewei Jiang]], [[Joao Pedro Cerqueira]], [[Seongjong Kim]], [[Qi Wang]], [[Mingoo Seok]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/15
+[[A 450mV timing-margin-free waveform sorter based on body swapping error correction]]
+[[Seongjong Kim]], [[Joao Pedro Cerqueira]], [[Mingoo Seok]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/4/29
+[[Energy-efficient hybrid analog/digital approximate computation in continuous time]]
+[[Ning Guo]], [[Yipeng Huang]], [[Tao Mai]], [[Sharvil Patil]], [[Chi Cao]], [[Mingoo Seok]], [[Simha Sethumadhavan]], [[Yannis Tsividis]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/1/31
+[[8.2 fully integrated low-drop-out regulator based on event-driven PI control]]
+[[Doyun Kim]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/10/18
+[[Energy-optimal voltage model supporting a wide range of nodal switching rates for early design-space exploration]]
+[[Doyun Kim]], [[Jiangyi Li]], [[Mingoo Seok]]
+[[ICCD]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/10/7
+[[Compact and supply-voltage-scalable temperature sensors for dense on-chip thermal monitoring]]
+[[Teng Yang]], [[Seongjong Kim]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/10/5
+[[Digital CMOS neuromorphic processor design featuring unsupervised online learning]]
+[[Jae-sun Seo]], [[Mingoo Seok]]
+[[2015 IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/9/28
+[[A 30.1μm2, < ±1.1°C-3σ-error, 0.4-to-1.0V temperature sensor based on direct threshold-voltage sensing for on-chip dense thermal monitoring]]
+[[Seongjong Kim]], [[Mingoo Seok]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/9/14
+[[Continuous-time hybrid computation with programmable nonlinearities]]
+[[Ning Guo]], [[Yipeng Huang]], [[Tao Mai]], [[Sharvil Patil]], [[Chi Cao]], [[Mingoo Seok]], [[Simha Sethumadhavan]], [[Yannis Tsividis]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/7/22
+[[A neuromorphic neural spike clustering processor for deep-brain sensing and stimulation systems]]
+[[Beinuo Zhang]], [[Zhewei Jiang]], [[Qi Wang]], [[Jae-Sun Seo]], [[Mingoo Seok]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/6/17
+[[A 3.07μm2/bitcell physically unclonable function with 3.5% and 1% bit-instability across 0 to 80°C and 0.6 to 1.2V in a 65nm CMOS]]
+[[Jiangyi Li]], [[Mingoo Seok]]
+[[2015 symposium on VLSI circuits (VLSI Circuits)]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/6/7
+[[A low power unsupervised spike sorting accelerator insensitive to clustering initialization in sub-optimal feature space]]
+[[Zhewei Jiang]], [[Qi Wang]], [[Mingoo Seok]]
+[[Proceedings of the 52nd Annual Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/4/21
+[[Variation-tolerant, ultra-low-voltage microprocessor with a low-overhead, within-a-cycle in-situ timing-error detection and correction technique]]
+[[Seongjong Kim]], [[Mingoo Seok]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/2/22
+[[14.7 In-situ techniques for in-field sensing of NBTI degradation in an SRAM register file]]
+[[Teng Yang]], [[Doyun Kim]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2015
+[[Co-development of complementary technology and modified-CPL family for organic digital integrated circuits]]
+[[Fabio Carta]], [[Htay Hlaing]], [[Hassan Edrees]], [[Shyuan Yang]], [[Mingoo Seok]], [[Ioannis Kymissis]]
+[[MRS Online Proceedings Library (OPL)]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/8/11
+[[Reconfigurable regenerator-based interconnect design for ultra-dynamic-voltage-scaling systems]]
+[[Seongjong Kim]], [[Mingoo Seok]]
+[[Proceedings of the 2014 international symposium on Low power electronics and design]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/8/11
+[[Analysis and optimization of in-situ error detection techniques in ultra-low-voltage pipeline]]
+[[Seongjong Kim]], [[Mingoo Seok]]
+[[Proceedings of the 2014 international symposium on Low power electronics and design]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/6/10
+[[R-processor: 0.4 V resilient processor with a voltage-scalable and low-overhead in-situ error detection and correction technique in 65nm CMOS]]
+[[Seongjong Kim]], [[Mingoo Seok]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/6/1
+[[Robust and in-situ self-testing technique for monitoring device aging effects in pipeline circuits]]
+[[Jiangyi Li]], [[Mingoo Seok]]
+[[Proceedings of the 51st Annual Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/2/9
+[[16.4 0.6-to-1.0V 279μm2, 0.92μW temperature sensor with less than +3.2/-3.4°C error for on-chip dense thermal monitoring]]
+[[Teng Yang]], [[Seongjong Kim]], [[Peter R Kinget]], [[Mingoo Seok]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2014
+[[Benchmarking methodology for embedded scalable platforms]]
+[[Paolo Mantovani]], [[Emilio G Cota]], [[Seongjong Kim]], [[Kevin Tien]], [[Johnnie Chan]], [[Giuseppe Di Guglielmo]], [[Christian Pilato]], [[Martha A Kim]], [[Mingoo Seok]], [[Kenneth Shepard]], [[Luca P Carloni]]
+[[Energy]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/10/9
+[[Achieving ultralow standby power with an efficient SCCMOS bias generator]]
+[[Yoonmyung Lee]], [[Mingoo Seok]], [[Scott Hanson]], [[Dennis Sylvester]], [[David Blaauw]]
+[[IEEE Transactions on Circuits and Systems II: Express Briefs]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/10/7
+[[Parallelism and pipelining in ultra low voltage digital circuits]]
+[[Mingoo Seok]], [[Zhe Cao]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/9/4
+[[Robust and energy-efficient asynchronous dynamic pipelines for ultra-low-voltage operation using adaptive keeper control]]
+[[Yu Chen]], [[Mingoo Seok]], [[Steven M Nowick]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/8/23
+[[Circuits for a cubic-millimeter energy-autonomous wireless intraocular pressure monitor]]
+[[Mohammad Hassan Ghaed]], [[Gregory Chen]], [[Razi-ul Haque]], [[Michael Wieckowski]], [[Yejoong Kim]], [[Gyouho Kim]], [[Yoonmyung Lee]], [[Inhee Lee]], [[David Fick]], [[Daeyeon Kim]], [[Mingoo Seok]], [[Kensall D Wise]], [[David Blaauw]], [[Dennis Sylvester]]
+[[IEEE Transactions on Circuits and Systems I: Regular Papers]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/5/19
+[[Soft mousetrap: A bundled-data asynchronous pipeline scheme tolerant to random variations at ultra-low supply voltages]]
+[[Jian Liu]], [[Steven M Nowick]], [[Mingoo Seok]]
+[[2013 IEEE 19th International Symposium on Asynchronous Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/1/22
+[[A millimeter-scale energy-autonomous sensor system with stacked battery and solar cells]]
+[[Matthew Fojtik]], [[Daeyeon Kim]], [[Gregory Chen]], [[Yu-Shiang Lin]], [[David Fick]], [[Junsun Park]], [[Mingoo Seok]], [[Mao-Ter Chen]], [[Zhiyoong Foo]], [[David Blaauw]], [[Dennis Sylvester]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/12
+[[Design methodology for voltage-overscaled ultra-low-power systems]]
+[[Dongsuk Jeon]], [[Mingoo Seok]], [[Zhengya Zhang]], [[David Blaauw]], [[Dennis Sylvester]]
+[[IEEE Transactions on Circuits and Systems II: Express Briefs]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/8/31
+[[A portable 2-transistor picowatt temperature-compensated voltage reference operating at 0.5 V]]
+[[Mingoo Seok]], [[Gyouho Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/7/30
+[[A fine-grained many VT design methodology for ultra low voltage operations]]
+[[Mingoo Seok]]
+[[Proceedings of the 2012 ACM/IEEE international symposium on Low power electronics and design]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/7/30
+[[Performance and energy-efficiency improvement through modified CPL in organic transistor integrated circuits]]
+[[Mingoo Seok]]
+[[Proceedings of the 2012 ACM/IEEE international symposium on Low power electronics and design]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/6/3
+[[Decoupling capacitor design strategy for minimizing supply noise of ultra low voltage circuits]]
+[[Mingoo Seok]]
+[[Proceedings of the 49th Annual Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/5/30
+[[Extending energy-saving voltage scaling in ultra low voltage integrated circuit designs]]
+[[Mingoo Seok]], [[Dongsuk Jeon]], [[Chaitali Chakrabati]], [[David Blaauw]], [[Dennis Sylvester]]
+[[2012 IEEE International Conference on IC Design & Technology]]
+-------------------------------------------------------------------------------------------------------------------------
+2012
+[[A Super-Pipelined Energy Efficient Subthreshold 240 MS/s FFT Core in 65 nm CMOS]]
+[[Dongsuk Jeon]], [[Mingoo Seok]], [[Chaitali Chakrabarti]], [[David Blaauw]], [[Dennis Sylvester]]
+[[Solid-State Circuits, IEEE Journal of]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/6/5
+[[Pipeline strategy for improving optimal energy efficiency in ultra-low voltage design]]
+[[Mingoo Seok]], [[Dongsuk Jeon]], [[Chaitali Chakrabarti]], [[David Blaauw]], [[Dennis Sylvester]]
+[[Proceedings of the 48th Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/6
+[[Robust Clock Network Design Methodology for Ultra-Low Voltage Operations]]
+[[Mingoo Seok]], [[David Blaauw]], [[Dennis Sylvester]]
+[[Emerging and Selected Topics in Circuits and Systems, IEEE Journal on]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/5/15
+[[A 1.85 fW/bit ultra low leakage 10T SRAM with speed compensation scheme]]
+[[Daeyeon Kim]], [[Gregory Chen]], [[Matthew Fojtik]], [[Mingoo Seok]], [[David Blaauw]], [[Dennis Sylvester]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/3
+[[CAS-FEST 2010: Mitigating Variability in Near-Threshold Computing]]
+[[Mingoo Seok]], [[Gregory Chen]], [[Scott Hanson]], [[Michael Wieckowski]], [[David Blaauw]], [[Dennis Sylvester]]
+[[Emerging and Selected Topics in Circuits and Systems, IEEE Journal on]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/2/24
+[[Sleep Mode Analysis and Optimization With Minimal-Sized Power Gating Switch for Ultra-LowOperation]]
+[[Mingoo Seok]], [[Scott Hanson]], [[David Blaauw]], [[Dennis Sylvester]]
+[[IEEE transactions on very large scale integration (VLSI) systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/2/20
+[[A cubic-millimeter energy-autonomous wireless intraocular pressure monitor]]
+[[Gregory Chen]], [[Hassan Ghaed]], [[Razi-ul Haque]], [[Michael Wieckowski]], [[Yejoong Kim]], [[Gyouho Kim]], [[David Fick]], [[Daeyeon Kim]], [[Mingoo Seok]], [[Kensall Wise]], [[David Blaauw]], [[Dennis Sylvester]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/2/20
+[[A 0.27 V 30MHz 17.7 nJ/transform 1024-pt complex FFT core with super-pipelining]]
+[[Mingoo Seok]], [[Dongsuk Jeon]], [[Chaitali Chakrabarti]], [[David Blaauw]], [[Dennis Sylvester]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2011
+[[Extreme Power-Constrained Integrated Circuit Design]]
+[[Mingoo Seok]]
+[[University of Michigan]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/9/14
+[[Variability analysis of a digitally trimmable ultra-low power voltage reference]]
+[[Mingoo Seok]], [[Gyouho Kim]], [[David Blaauw]], [[Dennis Sylvester]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/8/18
+[[Clock network design for ultra-low power applications]]
+[[Mingoo Seok]], [[David Blaauw]], [[Dennis Sylvester]]
+[[Proceedings of the 16th ACM/IEEE international symposium on Low power electronics and design]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/5/30
+[[Circuit design advances to enable ubiquitous sensing environments]]
+[[Mingoo Seok]], [[Scott Hanson]], [[Michael Wieckowski]], [[Gregory K Chen]], [[Yu-Shiang Lin]], [[David Blaauw]], [[Dennis Sylvester]]
+[[Proceedings of 2010 IEEE International Symposium on Circuits and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/5
+[[Millimeter-scale nearly perpetual sensor system]]
+[[Gregory Chen]], [[Mathew Fojtik]], [[Daeyeon Kim]], [[David Fick]], [[Junsun Park]], [[Mingoo Seok]], [[Mao-Ter Chen]], [[Zhiyoong Foo]], [[David Blaauw]], [[Dennis Sylvester]]
+[[4]]
+-------------------------------------------------------------------------------------------------------------------------
+2010/2/7
+[[Millimeter-scale nearly perpetual sensor system with stacked battery and solar cells]]
+[[Gregory Chen]], [[Matthew Fojtik]], [[Daeyeon Kim]], [[David Fick]], [[Junsun Park]], [[Mingoo Seok]], [[Mao-Ter Chen]], [[Zhiyoong Foo]], [[Dennis Sylvester]], [[David Blaauw]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/9/13
+[[A 0.5 V 2.2 pW 2-transistor voltage reference]]
+[[Mingoo Seok]], [[Gyouho Kim]], [[Dennis Sylvester]], [[David Blaauw]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/6/16
+[[A hybrid DC-DC converter for sub-microwatt sub-1v implantable applications]]
+[[Michael Wieckowski]], [[Gregory K Chen]], [[Mingoo Seok]], [[David Blaauw]], [[Dennis Sylvester]]
+[[VLSI Circuits, 2009 Symposium on]]
+-------------------------------------------------------------------------------------------------------------------------
+2009/4
+[[A low-voltage processor for sensing applications with picowatt standby mode]]
+[[Scott Hanson]], [[Mingoo Seok]], [[Yu-Shiang Lin]], [[Zhi Yoong Foo]], [[Daeyeon Kim]], [[Yoonmyung Lee]], [[Nurrachman Liu]], [[Dennis Sylvester]], [[David Blaauw]]
+[[Solid-State Circuits, IEEE Journal of]]
+-------------------------------------------------------------------------------------------------------------------------
+2009
+[[Phoenix: An ultra-low power processor for cubic millimeter sensor systems]]
+[[Mingoo Seok]], [[Scott Hanson]], [[Yu-Shiang Lin]], [[Zhiyoong Foo]], [[Daeyeon Kim]], [[Yoonmyung Lee]], [[Dennis Sylvester]], [[David Blaauw]]
+[[margin]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/12/15
+[[Designing robust ultra-low power circuits]]
+[[Dennis Sylvester]], [[Scott Hanson]], [[Mingoo Seok]], [[Yu-Shiang Lin]], [[David Blaauw]]
+[[2008 IEEE International Electron Devices Meeting]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/9/21
+[[Robust ultra-low voltage ROM design]]
+[[Mingoo Seok]], [[Scott Hanson]], [[Jae-Sun Seo]], [[Dennis Sylvester]], [[David Blaauw]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/9/15
+[[Standby power reduction techniques for ultra-low power processors]]
+[[Yoonmyung Lee]], [[Mingoo Seok]], [[Scott Hanson]], [[David Blaauw]], [[Dennis Sylvester]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/8/11
+[[Optimal technology selection for minimizing energy and variability in low voltage applications]]
+[[Mingoo Seok]], [[Dennis Sylvester]], [[David Blaauw]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/6/18
+[[The Phoenix Processor: A 30pW platform for sensor applications]]
+[[Mingoo Seok]], [[Scott Hanson]], [[Yu-Shiang Lin]], [[Zhiyoong Foo]], [[Daeyeon Kim]], [[Yoonmyung Lee]], [[Nurrachman Liu]], [[Dennis Sylvester]], [[David Blaauw]]
+[[VLSI Circuits, 2008 IEEE Symposium on]]
+-------------------------------------------------------------------------------------------------------------------------
+2008/4
+[[Exploring variability and performance in a sub-200-mV processor]]
+[[Scott Hanson]], [[Bo Zhai]], [[Mingoo Seok]], [[Brian Cline]], [[Kevin Zhou]], [[Meghna Singhal]], [[Michael Minuth]], [[Javin Olson]], [[Leyla Nazhandali]], [[Todd Austin]], [[Dennis Sylvester]], [[David Blaauw]]
+[[Solid-State Circuits, IEEE Journal of]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/12/26
+[[Nanometer device scaling in subthreshold logic and SRAM]]
+[[Scott Hanson]], [[Mingoo Seok]], [[Dennis Sylvester]], [[David Blaauw]]
+[[IEEE Transactions on Electron Devices]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/6/14
+[[Performance and variability optimization strategies in a sub-200mV, 3.5 pJ/inst, 11nW subthreshold processor]]
+[[Scott Hanson]], [[Bo Zhai]], [[Mingoo Seok]], [[Brian Cline]], [[Kevin Zhou]], [[Meghna Singhal]], [[Michael Minuth]], [[Javin Olson]], [[Leyla Nazhandali]], [[Todd Austin]], [[Dennis Sylvester]], [[David Blaauw]]
+[[VLSI Circuits, 2007 IEEE Symposium on]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/6/4
+[[Analysis and optimization of sleep modes in subthreshold circuit design]]
+[[Mingoo Seok]], [[Scott Hanson]], [[Dennis Sylvester]], [[David Blaauw]]
+[[DAC]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/6/4
+[[Nanometer device scaling in subthreshold circuits]]
+[[Scott Hanson]], [[Mingoo Seok]], [[Dennis Sylvester]], [[David Blaauw]]
+[[DAC]]
+-------------------------------------------------------------------------------------------------------------------------
+2007/6
+[[The Phoenix Processor: A 30pW Platform for Sensor Applications]]
+[[Scott Hanson]], [[Bo Zhai]], [[Mingoo Seok]], [[Brian Cline]], [[Kevin Zhou]], [[Meghna Singhal]], [[Michael Minuth]], [[Javin Olson]], [[Leyla Nazhandali]], [[Todd Austin]], [[Dennis Sylvester]], [[David Blaauw]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+JULY 2016 VOLUME 51 NUMBER 7 IJSCBC (ISSN 0018-9200) SPECIAL ISSUE ON THE 41ST EUROPEAN SOLID-STATE CIRCUITS CONFERENCE (ESSCIRC Page 1 JULY 2016 VOLUME 51 NUMBER 7 IJSCBC (ISSN 0018-9200) SPECIAL ISSUE ON THE 41ST EUROPEAN SOLID-STATE CIRCUITS CONFERENCE (ESSCIRC) Introduction to the Special Issue on the 41st European Solid-State Circuits Conference (ESSCIRC) ................... ............................................................................................. A. Mazzanti, B. Nauta, and S. Rusu 1511 SPECIAL ISSUE PAPERS Energy-Efficient Hybrid Analog/Digital Approximate Computation in Continuous Time .................................. ............................. N. Guo, Y. Huang, T. Mai, S. Patil, C. Cao, M. Seok, S. Sethumadhavan, and Y. Tsividis 1514 A 12 GHz 22 dB-Gain-Control SiGe Bipolar VGA With 2 Phase-Shift Variation ......................................... ..................................................................... F. …
+[[SPECIAL ISSUE ON THE 41ST EUROPEAN SOLID-STATE CIRCUITS CONFERENCE (ESSCIRC)]]
+[[A Mazzanti]], [[B Nauta]], [[S Rusu]], [[N Guo]], [[Y Huang]], [[T Mai]], [[S Patil]], [[C Cao]], [[M Seok]], [[S Sethumadhavan]], [[Y Tsividis]], [[F Padovan]], [[M Tiebout]], [[A Neviani]], [[A Bevilacqua]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+Table of contents Toggle navigation IEEE Computer Society Digital Library Jobs Tech News Resource Center Press Room Advertising About Us IEEE IEEE Computer Society IEEE Computer Society Digital Library My Subscriptions Magazines Journals Conference Proceedings Institutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News Resource Center Press Room Advertising About Us Cart All Advanced Search Conference Cover Image Download 1.Home 2.Proceedings 3.async 2013 Table of contents 2013, pp. v-vii, DOI Bookmark: 10.1109/ASYNC.2013.8 Keywords Authors Abstract Presents the table of contents/splash page of the proceedings record. 2013 19th IEEE InternationalSymposium on AsynchronousCircuits and SystemsASYNC 2013Table of ContentsWelcome Message from the Chairs.........................................................................................................viiiSymposium Organizing …
+[[ASYNC 2013]]
+[[Jian Liu]], [[Steven M Nowick]], [[Mingoo Seok]]
+[[ASYNC 2013
+J Liu, SM Nowick, M Seok
+All 2 versions]]
+-------------------------------------------------------------------------------------------------------------------------
+The International Symposium on Low Power Electronics and Design (ISLPED) is holding the International Low Power Design Contest to provide a forum for universities to showcase original" power-aware" designs and to highlight the design innovations targeting power efficiency improvement. The goal is to encourage and highlight designoriented approaches for power reduction.
+[[14th International Low Power Design Contest]]
+[[Mingoo Seok]], [[Yiran Chen]]
+[[14th International Low Power Design Contest
+M Seok, Y Chen
+All 3 versions]]
+-------------------------------------------------------------------------------------------------------------------------
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems Page 1 IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS The Circuits and Systems Society is an association of IEEE members with professional interest in the field of circuits and systems theory. All members of the IEEE are eligible for membership in the Circuits and Systems Society upon payment of the annual Society membership fee of $22.00. The Computer Society is an association of people with professional interest in the field of computers. All members of the IEEE are eligible for membership in the Computer Society upon payment of the annual Society membership fee of $60.00. For information on joining, write to the IEEE Computer Society, 1730 Massachusetts Avenue, NW, Washington, DC 20036-1903. The annual subscription fee for members of either society is $40.00. For information on joining, write to the …
+[[IEEE Officers]]
+[[KRISHNENDU CHAKRABARTY]], [[MASSIMO ALIOTO]], [[STACEY WEBER JACKSON]], [[BEVAN BAAS]], [[CHYE CHIRIN BOON]], [[CHIP-HONG CHANG]], [[MENG-FAN CHANG]], [[NAEUHYUCK CHANG]], [[SHIH-CHIEH CHANG]], [[YAOWEN CHANG]], [[POKI CHEN]], [[MASUD CHOWDHURY]], [[PASQUALE CORSONELLO]], [[SHIRO DOSHO]], [[ROLF DRECHSLER]], [[IBRAHIM ABE ELFADEL]], [[SAID HAMDIOUI]], [[MASANORI HASHIMOTO]], [[TSUNG-YI HO]], [[HOUMAN HOMAYOUN]], [[YUH-SHYAN HWANG]], [[RAJIV JOSHI]], [[TANAY KARNIK]], [[MEHRAN MOZAFFARI KERMANI]], [[CHULWOO KIM]], [[TAE HYOUNG KIM]], [[JAYDEEP KULKARNI]], [[EREN KURSUN]], [[ERIK LARSSON]], [[HAI LI]], [[HUAWEI LI]], [[PRABHAT MISHRA]], [[MAKOTO NAGATA]], [[ARUN NATARAJAN]], [[KOJI NII]], [[PARTHA PANDE]], [[BIPUL C PAUL]], [[IOANNIS SAVIDIS]], [[MINGOO SEOK]], [[SHELDON TAN]], [[MARK TEHRANIPOOR]], [[AIDA TODRI-SANIAL]], [[XIAOQING WEN]], [[JIANG XU]], [[WEI ZHANG]], [[ZHENGYA ZHANG]]
+[[IEEE Officers
+K CHAKRABARTY, M ALIOTO, SW JACKSON, B BAAS…
+All 6 versions]]
+-------------------------------------------------------------------------------------------------------------------------
+The goal of the project was to create a range of new techniques for making digital systems self-aware with timing errors, temperature, device wear-out (aging), and other high-level parameters, with which the system can autonomously perform a runtime framework to determine the operating settings for optimal performance, energy-efficiency, robustness, reliability, and security, without the worst-case margin and over-design.
+[[Self-Aware Computing for Cyber Physical Systems]]
+[[Mingoo Seok]], [[Peter Kinget]], [[Seongjong Kim]], [[Teng Yang]]
+[[Self-Aware Computing for Cyber Physical Systems
+M Seok, P Kinget, S Kim, T Yang
+Related articles]]
+-------------------------------------------------------------------------------------------------------------------------
+Provides a listing of current committee members and society officers.
+[[ISLPED 2013 Symposium Organization]]
+[[Pai Chou]], [[Deming Chen]], [[David Garrett]], [[Mingoo Seok]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------

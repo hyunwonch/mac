@@ -1,0 +1,874 @@
+[[2023 - Wei]]
+[[2022 - Wei]]
+[[2021 - Wei]]
+[[2020 - Wei]]
+[[2019 - Wei]]
+[[2018 - Wei]]
+[[2017 - Wei]]
+[[2016 - Wei]]
+[[2015 - Wei]]
+[[2014 - Wei]]
+[[2013 - Wei]]
+[[2012 - Wei]]
+[[2011 - Wei]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/11/2
+[[Hardware Resilience Properties of Text-Guided Image Classifiers]]
+[[Syed Talal Wasim]], [[Kabila Haile Soboka]], [[Abdulrahman Mahmoud]], [[Salman Khan]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Thirty-seventh Conference on Neural Information Processing Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/10/4
+[[MAD Max Beyond Single-Node: Enabling Large Machine Learning Model Acceleration on Distributed Systems]]
+[[Samuel Hsia]], [[Alicia Golden]], [[Bilge Acun-Uyan]], [[Newsha Ardalani]], [[Zachary DeVito]], [[Gu-Yeon Wei]], [[David Brooks]], [[Carole-Jean Wu]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/10/1
+[[VelociTI: An Architecture-level Performance Modeling Framework for Trapped Ion Quantum Computers]]
+[[Alexander Hankin]], [[Abdulrahman Mahmoud]], [[Mark Hempstead]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[IISWC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/9/25
+[[Guess & Sketch: Language Model Guided Transpilation]]
+[[Celine Lee]], [[Abdulrahman Mahmoud]], [[Michal Kurek]], [[Simone Campanoni]], [[David Brooks]], [[Stephen Chong]], [[Gu-Yeon Wei]], [[Alexander M Rush]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/8/30
+[[SoCProbe: Compositional Post-Silicon Validation of Heterogeneous NoC-Based SoCs]]
+[[Gabriele Tombesi]], [[Joseph Zuckerman]], [[Paolo Mantovani]], [[Davide Giri]], [[Maico Cassel Dos Santos]], [[Tianyu Jia]], [[David Brooks]], [[Gu-Yeon Wei]], [[Luca P Carloni]]
+[[IEEE Design & Test]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/7/16
+[[SpeedLimit: Neural Architecture Search for Quantized Transformer Models]]
+[[Yuji Chai]], [[Luke Bailey]], [[Yunho Jin]], [[Glenn Ko]], [[Matthew Karle]], [[David Brooks]], [[Gu-Yeon Wei]], [[H Kung]]
+[[Workshop on Efficient Systems for Foundation Models@ ICML2023]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/7/9
+[[Carbon-Efficient Design Optimization for Computing Systems]]
+[[Mariam Elgamal]], [[Doug Carmean]], [[Elnaz Ansari]], [[Okay Zed]], [[Ramesh Peri]], [[Srilatha Manne]], [[Udit Gupta]], [[Gu-Yeon Wei]], [[David Brooks]], [[Gage Hills]], [[Carole-Jean Wu]]
+[[Proceedings of the 2nd Workshop on Sustainable Computer Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/13
+[[INT2. 1: Towards Fine-Tunable Quantized Large Language Models with Error Correction through Low-Rank Adaptation]]
+[[Yuji Chai]], [[John Gkountouras]], [[Glenn G Ko]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/6/9
+[[S: Increasing GPU Utilization during Generative Inference for Higher Throughput]]
+[[Yunho Jin]], [[Chun-Feng Wu]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/5/4
+[[CAMEL: Co-Designing AI Models and Embedded DRAMs for Efficient On-Device Learning]]
+[[Sai Qian Zhang]], [[Thierry Tambe]], [[Nestor Cuevas]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/5/2
+[[Design Space Exploration and Optimization for Carbon-Efficient Extended Reality Systems]]
+[[Mariam Elgamal]], [[Doug Carmean]], [[Elnaz Ansari]], [[Okay Zed]], [[Ramesh Peri]], [[Srilatha Manne]], [[Udit Gupta]], [[Gu-Yeon Wei]], [[David Brooks]], [[Gage Hills]], [[Carole-Jean Wu]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/5
+[[CAMEL: Co-Designing AI Models and Embedded DRAMs for Efficient On-Device Learning]]
+[[Sai Qian Zhang]], [[Thierry Tambe]], [[Nestor Cuevas]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/4/23
+[[Characterizing the Scalability of Graph Convolutional Networks on Intel® PIUMA]]
+[[Matthew Joseph Adiletta]], [[Jesmin Jahan Tithi]], [[Emmanouil-Ioannis Farsarakis]], [[Gerasimos Gerogiannis]], [[Robert Adolf]], [[Robert Benke]], [[Sidharth Kashyap]], [[Samuel Hsia]], [[Kartik Lakhotia]], [[Fabrizio Petrini]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ISPASS]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/4/23
+[[Is the Future Cold or Tall? Design Space Exploration of Cryogenic and 3D Embedded Cache Memory]]
+[[Alexander Hankin]], [[Lillian Pentecost]], [[Dongmoon Min]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ISPASS]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/4/20
+[[Trireme: Exploration of Hierarchical Multi-Level Parallelism for Hardware Acceleration]]
+[[Georgios Zacharopoulos]], [[Adel Ejjeh]], [[Ying Jing]], [[En-Yu Yang]], [[Tianyu Jia]], [[Iulian Brumar]], [[Jeremy Intan]], [[Muhammad Huzaifa]], [[Sarita Adve]], [[Vikram Adve]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ACM Transactions on Embedded Computing Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/4/17
+[[Mavfi: An end-to-end fault analysis framework with anomaly detection and recovery for micro aerial vehicles]]
+[[Yu-Shun Hsiao]], [[Zishen Wan]], [[Tianyu Jia]], [[Radhika Ghosal]], [[Abdulrahman Mahmoud]], [[Arijit Raychowdhury]], [[David Brooks]], [[Gu-Yeon Wei]], [[Vijay Janapa Reddi]]
+[[DATE]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/3/25
+[[MP-Rec: Hardware-Software Co-design to Enable Multi-path Recommendation]]
+[[Samuel Hsia]], [[Udit Gupta]], [[Bilge Acun]], [[Newsha Ardalani]], [[Pan Zhong]], [[Gu-Yeon Wei]], [[David Brooks]], [[Carole-Jean Wu]]
+[[Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/2/19
+[[22.9 A 12nm 18.1 TFLOPs/W Sparse Transformer Processor with Entropy-Based Early Exit, Mixed-Precision Predication and Fine-Grained Power Management]]
+[[Thierry Tambe]], [[Jeff Zhang]], [[Coleman Hooper]], [[Tianyu Jia]], [[Paul N Whatmough]], [[Joseph Zuckerman]], [[Maico Cassel Dos Santos]], [[Erik Jens Loscalzo]], [[Davide Giri]], [[Kenneth Shepard]], [[Luca Carloni]], [[Alexander Rush]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/2/8
+[[A Binary-activation, Multi-level Weight RNN and Training Algorithm for ADC-/DAC-free and Noise-resilient Processing-in-memory Inference with eNVM]]
+[[Siming Ma]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[IEEE Transactions on Emerging Topics in Computing]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/26
+[[PerfSAGE: Generalized Inference Performance Predictor for Arbitrary Deep Learning Models on Edge Devices]]
+[[Yuji Chai]], [[Devashree Tripathy]], [[Chuteng Zhou]], [[Dibakar Gope]], [[Igor Fedorov]], [[Ramon Matas]], [[David Brooks]], [[Gu-Yeon Wei]], [[Paul Whatmough]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/26
+[[GPU-based Private Information Retrieval for On-Device Machine Learning Inference]]
+[[Maximilian Lam]], [[Jeff Johnson]], [[Wenjie Xiong]], [[Kiwan Maeng]], [[Udit Gupta]], [[Minsoo Rhu]], [[Hsien-Hsin S Lee]], [[Vijay Janapa Reddi]], [[Gu-Yeon Wei]], [[David Brooks]], [[Edward Suh]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2023/1/24
+[[Early DSE and Automatic Generation of Coarse-grained Merged Accelerators]]
+[[Iulian Brumar]], [[Georgios Zacharopoulos]], [[Yuan Yao]], [[Saketh Rama]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ACM Transactions on Embedded Computing Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/12/1
+[[Architectural Implications of Embedding Dimension during GCN on CPU and GPU]]
+[[Matthew Adiletta]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/30
+[[A Scalable Methodology for Agile Chip Development with Open-Source Hardware Components]]
+[[Maico Cassel dos Santos]], [[Tianyu Jia]], [[Martin Cochet]], [[Karthik Swaminathan]], [[Joseph Zuckerman]], [[Paolo Mantovani]], [[Davide Giri]], [[Jeff Jun Zhang]], [[Erik Jens Loscalzo]], [[Gabriele Tombesi]], [[Kevin Tien]], [[Nandhini Chandramoorthy]], [[John-David Wellman]], [[David Brooks]], [[Gu-Yeon Wei]], [[Kenneth Shepard]], [[Luca P Carloni]], [[Pradip Bose]]
+[[Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/3
+[[End-to-End Synthesis of Dynamically Controlled Machine Learning Accelerators]]
+[[Serena Curzel]], [[Nicolas Bohm Agostini]], [[Vito Giovanni Castellana]], [[Marco Minutoli]], [[Ankur Limaye]], [[Joseph Manzano]], [[Jeff Zhang]], [[David Brooks]], [[Gu-Yeon Wei]], [[Fabrizio Ferrandi]], [[Antonino Tumeo]]
+[[IEEE Transactions on Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/10/1
+[[Automatic Domain-Specific SoC Design for Autonomous Unmanned Aerial Vehicles]]
+[[Srivatsan Krishnan]], [[Zishen Wan]], [[Kshitij Bhardwaj]], [[Paul Whatmough]], [[Aleksandra Faust]], [[Sabrina Neuman]], [[Gu-Yeon Wei]], [[David Brooks]], [[Vijay Janapa Reddi]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/9/19
+[[A 12nm Agile-Designed SoC for Swarm-Based Perception with Heterogeneous IP Blocks, a Reconfigurable Memory Hierarchy, and an 800MHz Multi-Plane NoC]]
+[[Tianyu Jia]], [[Paolo Mantovani]], [[Maico Cassel Dos Santos]], [[Davide Giri]], [[Joseph Zuckerman]], [[Erik Jens Loscalzo]], [[Martin Cochet]], [[Karthik Swaminathan]], [[Gabriele Tombesi]], [[Jeff Jun Zhang]], [[Nandhini Chandramoorthy]], [[John-David Wellman]], [[Kevin Tien]], [[Luca Carloni]], [[Kenneth Shepard]], [[David Brooks]], [[Gu-Yeon Wei]], [[Pradip Bose]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/8/1
+[[From High-Level Frameworks to custom Silicon with SODA]]
+[[Serena Curzel]], [[Nicolas Bohm Agostini]], [[Reece Neff]], [[Ankur Limaye]], [[Jeff Jun Zhang]], [[Vinay Amatya]], [[Marco Minutoli]], [[Vito Giovanni Castellana]], [[Joseph Manzano]], [[David Brooks]], [[Gu-Yeon Wei]], [[Fabrizio Ferrandi]], [[Antonino Tumeo]]
+[[HCS]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/7/10
+[[A joint management middleware to improve training performance of deep recommendation systems with SSDs]]
+[[Chun-Feng Wu]], [[Carole-Jean Wu]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Proceedings of the 59th ACM/IEEE Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/28
+[[ASAP: automatic synthesis of area-efficient and precision-aware CGRAs]]
+[[Cheng Tan]], [[Thierry Tambe]], [[Jeff Zhang]], [[Bo Fang]], [[Tong Geng]], [[Gu-Yeon Wei]], [[David Brooks]], [[Antonino Tumeo]], [[Ganesh Gopalakrishnan]], [[Ang Li]]
+[[Proceedings of the 36th ACM International Conference on Supercomputing]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/27
+[[Goldeneye: A platform for evaluating emerging numerical data formats in dnn accelerators]]
+[[Abdulrahman Mahmoud]], [[Thierry Tambe]], [[Tarek Aloui]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/18
+[[ACT: Designing sustainable computer systems with an architectural carbon modeling tool]]
+[[Udit Gupta]], [[Mariam Elgamal]], [[Gage Hills]], [[Gu-Yeon Wei]], [[Hsien-Hsin S Lee]], [[David Brooks]], [[Carole-Jean Wu]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/8
+[[A 16-nm soc for noise-robust speech and nlp edge ai inference with bayesian sound source separation and attention-based dnns]]
+[[Thierry Tambe]], [[En-Yu Yang]], [[Glenn G Ko]], [[Yuji Chai]], [[Coleman Hooper]], [[Marco Donato]], [[Paul N Whatmough]], [[Alexander M Rush]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/6/1
+[[Bridging Python to Silicon: The SODA Toolchain]]
+[[Nicolas Bohm Agostini]], [[Serena Curzel]], [[Jeff Jun Zhang]], [[Ankur Limaye]], [[Cheng Tan]], [[Vinay Amatya]], [[Marco Minutoli]], [[Vito Giovanni Castellana]], [[Joseph Manzano]], [[David Brooks]], [[Gu-Yeon Wei]], [[Antonino Tumeo]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/13
+[[Impala: Low-Latency, Communication-Efficient Private Deep Learning Inference]]
+[[Woo-Seok Choi]], [[Brandon Reagen]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/5/6
+[[Omu: A probabilistic 3d occupancy mapping accelerator for real-time octomap at the edge]]
+[[Tianyu Jia]], [[En-Yu Yang]], [[Yu-Shun Hsiao]], [[Jonathan Cruz]], [[David Brooks]], [[Gu-Yeon Wei]], [[Vijay Janapa Reddi]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/4/2
+[[CoopMC: Algorithm-architecture co-optimization for Markov chain Monte Carlo accelerators]]
+[[Yuji Chai]], [[Glenn G Ko]], [[Luke Bailey]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[HPCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/3/5
+[[Tabula: Efficiently computing nonlinear activation functions for secure neural network inference]]
+[[Maximilian Lam]], [[Michael Mitzenmacher]], [[Vijay Janapa Reddi]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/3/1
+[[Specialized accelerators and compiler flows: Replacing accelerator apis with a formal software/hardware interface]]
+[[Bo-Yuan Huang]], [[Steven Lyubomirsky]], [[Yi Li]], [[Mike He]], [[Thierry Tambe]], [[Gus Henry Smith]], [[Akash Gaonkar]], [[Vishal Canumalla]], [[Gu-Yeon Wei]], [[Aarti Gupta]], [[Zachary Tatlock]], [[Sharad Malik]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2022/1/21
+[[Trireme: Exploring hierarchical multi-level parallelism for domain specific hardware acceleration]]
+[[Georgios Zacharopoulos]], [[Adel Ejjeh]], [[Ying Jing]], [[En-Yu Yang]], [[Tianyu Jia]], [[Iulian Brumar]], [[Jeremy Intan]], [[Muhammad Huzaifa]], [[Sarita Adve]], [[Vikram Adve]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/18
+[[Edgebert: Sentence-level energy optimizations for latency-aware multi-task nlp inference]]
+[[Thierry Tambe]], [[Coleman Hooper]], [[Lillian Pentecost]], [[Tianyu Jia]], [[En-Yu Yang]], [[Marco Donato]], [[Victor Sanh]], [[Paul Whatmough]], [[Alexander M Rush]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/18
+[[RecPipe: Co-designing models and hardware to jointly optimize recommendation quality and performance]]
+[[Udit Gupta]], [[Samuel Hsia]], [[Jeff Zhang]], [[Mark Wilkening]], [[Javin Pombra]], [[Hsien-Hsin Sean Lee]], [[Gu-Yeon Wei]], [[Carole-Jean Wu]], [[David Brooks]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/10/11
+[[SMIV: A 16-nm 25-mm² SoC for IoT With Arm Cortex-A53, eFPGA, and Coherent Accelerators]]
+[[Sae Kyu Lee]], [[Paul N Whatmough]], [[Marco Donato]], [[Glenn G Ko]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/9/2
+[[Nvmexplorer: A framework for cross-stack comparisons of embedded non-volatile memories]]
+[[Lillian Pentecost]], [[Alexander Hankin]], [[Marco Donato]], [[Mark Hempstead]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/8/22
+[[SM6: A 16nm System-on-Chip for Accurate and Noise-Robust Attention-Based NLP Applications : The 33rd Hot Chips Symposium – August 22-24, 2021]]
+[[Thierry Tambe]], [[En-Yu Yang]], [[Glenn G Ko]], [[Yuji Chai]], [[Coleman Hooper]], [[Marco Donato]], [[Paul N Whatmough]], [[Alexander M Rush]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[HCS]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/7/26
+[[Application-driven design exploration for dense ferroelectric embedded non-volatile memories]]
+[[Mohammad Mehdi Sharifi]], [[Lillian Pentecost]], [[Ramin Rajaei]], [[Arman Kazemi]], [[Qiuwen Lou]], [[Gu-Yeon Wei]], [[David Brooks]], [[Kai Ni]], [[X Sharon Hu]], [[Michael Niemier]], [[Marco Donato]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/7/7
+[[Towards automatic and agile ai/ml accelerator design with end-to-end synthesis]]
+[[Jeff Jun Zhang]], [[Nicolas Bohm Agostini]], [[Shihao Song]], [[Cheng Tan]], [[Ankur Limaye]], [[Vinay Amatya]], [[Joseph Manzano]], [[Marco Minutoli]], [[Vito Giovanni Castellana]], [[Antonino Tumeo]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ASAP]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/7/7
+[[FlexACC: A Programmable Accelerator with Application-Specific ISA for Flexible Deep Neural Network Inference]]
+[[En-Yu Yang]], [[Tianyu Jia]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ASAP]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/7/1
+[[Gradient disaggregation: Breaking privacy in federated learning by reconstructing the user participant matrix]]
+[[Maximilian Lam]], [[Gu-Yeon Wei]], [[David Brooks]], [[Vijay Janapa Reddi]], [[Michael Mitzenmacher]]
+[[International Conference on Machine Learning]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/5/3
+[[Quantifying and Maximizing the Benefits of Back-End Noise Adaption on Attention-Based Speech Recognition Models]]
+[[Coleman Hooper]], [[Thierry Tambe]], [[Gu-Yeon Wei]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/4/19
+[[RecSSD: near data processing for solid state drive based recommendation inference]]
+[[Mark Wilkening]], [[Udit Gupta]], [[Samuel Hsia]], [[Caroline Trippel]], [[Carole-Jean Wu]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/27
+[[Cheetah: Optimizing and accelerating homomorphic encryption for private inference]]
+[[Brandon Reagen]], [[Woo-Seok Choi]], [[Yeongil Ko]], [[Vincent T Lee]], [[Hsien-Hsin S Lee]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[HPCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/27
+[[Chasing carbon: The elusive environmental footprint of computing]]
+[[Udit Gupta]], [[Young Geun Kim]], [[Sylvia Lee]], [[Jordan Tse]], [[Hsien-Hsin S Lee]], [[Gu-Yeon Wei]], [[David Brooks]], [[Carole-Jean Wu]]
+[[HPCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/13
+[[9.8 A 25mm2 SoC for IoT Devices with 18ms Noise-Robust Speech-to-Text Latency via Bayesian Speech Denoising and Attention-Based Sequence-to-Sequence …]]
+[[Thierry Tambe]], [[En-Yu Yang]], [[Glenn G Ko]], [[Yuji Chai]], [[Coleman Hooper]], [[Marco Donato]], [[Paul N Whatmough]], [[Alexander M Rush]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2021/2/5
+[[Autopilot: Automating soc design space exploration for swap constrained autonomous uavs]]
+[[Srivatsan Krishnan]], [[Zishen Wan]], [[Kshitij Bhardwaj]], [[Paul Whatmough]], [[Aleksandra Faust]], [[Sabrina Neuman]], [[Gu-Yeon Wei]], [[David Brooks]], [[Vijay Janapa Reddi]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2021
+[[Secure and resilient socs for autonomous vehicles]]
+[[Pradip Bose]], [[Augusto Vega]], [[Sarita Adve]], [[Vikram Adve]], [[Sasa Misailovic]], [[Luca Carloni]], [[Ken Shepard]], [[David Brooks]], [[Vijay Janapa Reddi]], [[Gu-Yeon Wei]]
+[[HPCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2021
+[[Machine learning-based automated design space exploration for autonomous aerial robots]]
+[[Srivatsan Krishnan]], [[Zishen Wan]], [[K Bharadwaj]], [[P Whatmough]], [[Aleksandra Faust]], [[Sabrina Neuman]], [[Gu-Yeon Wei]], [[David Brooks]], [[V Janapa Reddi]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/11/2
+[[Soda: a new synthesis infrastructure for agile hardware design of machine learning accelerators]]
+[[Marco Minutoli]], [[Vito Giovanni Castellana]], [[Cheng Tan]], [[Joseph Manzano]], [[Vinay Amatya]], [[Antonino Tumeo]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Proceedings of the 39th International Conference on Computer-Aided Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/10/27
+[[Cross-stack workload characterization of deep recommendation systems]]
+[[Samuel Hsia]], [[Udit Gupta]], [[Mark Wilkening]], [[Carole-Jean Wu]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[IISWC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/8/10
+[[A comprehensive methodology to determine optimal coherence interfaces for many-accelerator SoCs]]
+[[Kshitij Bhardwaj]], [[Marton Havasi]], [[Yuan Yao]], [[David M Brooks]], [[José Miguel Hernández-Lobato]], [[Gu-Yeon Wei]]
+[[Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/8/1
+[[A scalable bayesian inference accelerator for unsupervised learning]]
+[[Glenn Ko]], [[Yuji Chai]], [[Marco Donato]], [[Paul N Whatmough]], [[Thierry Tambe]], [[Rob A Rutenbar]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[HCS]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/7/20
+[[Software defined accelerators from learning tools environment]]
+[[Antonino Tumeo]], [[Marco Minutoli]], [[Vito Giovanni Castellana]], [[Joseph Manzano]], [[Vinay Amatya]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[DAC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/7/20
+[[Algorithm-hardware co-design of adaptive floating-point encodings for resilient deep learning inference]]
+[[Thierry Tambe]], [[En-Yu Yang]], [[Zishen Wan]], [[Yuntian Deng]], [[Vijay Janapa Reddi]], [[Alexander Rush]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[DAC]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/6/16
+[[A 3mm2 Programmable Bayesian Inference Accelerator for Unsupervised Machine Perception using Parallel Gibbs Sampling in 16nm]]
+[[Glenn G Ko]], [[Yuji Chai]], [[Marco Donato]], [[Paul N Whatmough]], [[Thierry Tambe]], [[Rob A Rutenbar]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/5/30
+[[Deeprecsys: A system for optimizing end-to-end at-scale neural recommendation inference]]
+[[Udit Gupta]], [[Samuel Hsia]], [[Vikram Saraph]], [[Xiaodong Wang]], [[Brandon Reagen]], [[Gu-Yeon Wei]], [[Hsien-Hsin S Lee]], [[David Brooks]], [[Carole-Jean Wu]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/5/19
+[[CHIPKIT: An agile, reusable open-source framework for rapid test chip development]]
+[[Paul N Whatmough]], [[Marco Donato]], [[Glenn G Ko]], [[Sae Kyu Lee]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/16
+[[The sky is not the limit: A visual performance model for cyber-physical co-design in autonomous machines]]
+[[Srivatsan Krishnan]], [[Zishen Wan]], [[Kshitij Bhardwaj]], [[Paul Whatmough]], [[Aleksandra Faust]], [[Gu-Yeon Wei]], [[David Brooks]], [[Vijay Janapa Reddi]]
+[[IEEE Computer Architecture Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/15
+[[A systematic methodology for analysis of deep learning hardware and software platforms]]
+[[Yu Wang]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Proceedings of Machine Learning and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/3/15
+[[Mlperf training benchmark]]
+[[Peter Mattson]], [[Christine Cheng]], [[Gregory Diamos]], [[Cody Coleman]], [[Paulius Micikevicius]], [[David Patterson]], [[Hanlin Tang]], [[Gu-Yeon Wei]], [[Peter Bailis]], [[Victor Bittorf]], [[David Brooks]], [[Dehao Chen]], [[Debo Dutta]], [[Udit Gupta]], [[Kim Hazelwood]], [[Andy Hock]], [[Xinyuan Huang]], [[Daniel Kang]], [[David Kanter]], [[Naveen Kumar]], [[Jeffery Liao]], [[Deepak Narayanan]], [[Tayo Oguntebi]], [[Gennady Pekhimenko]], [[Lillian Pentecost]], [[Vijay Janapa Reddi]], [[Taylor Robie]], [[Tom St John]], [[Carole-Jean Wu]], [[Lingjie Xu]], [[Cliff Young]], [[Matei Zaharia]]
+[[Proceedings of Machine Learning and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2020/2/18
+[[MLPerf: An industry standard benchmark suite for machine learning performance]]
+[[Peter Mattson]], [[Vijay Janapa Reddi]], [[Christine Cheng]], [[Cody Coleman]], [[Greg Diamos]], [[David Kanter]], [[Paulius Micikevicius]], [[David Patterson]], [[Guenther Schmuelling]], [[Hanlin Tang]], [[Gu-Yeon Wei]], [[Carole-Jean Wu]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2020
+[[Quantifying the impact of data encoding on DNN fault tolerance]]
+[[Edward Pyne]], [[Lillian Pentecost]], [[Udit Gupta]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[FASTPATH]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/12
+[[SMAUG: End-to-End Full-Stack Simulation Infrastructure for Deep Learning Workloads]]
+[[Sam Likun Xi]], [[Yuan Yao]], [[Kshitij Bhardwaj]], [[Paul Whatmough]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/30
+[[A binary-activation, multi-level weight RNN and training algorithm for ADC-/DAC-free and noise-resilient processing-in-memory inference with eNVM]]
+[[Siming Ma]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/17
+[[CHAMPVis: Comparative Hierarchical Analysis of Microarchitectural Performance]]
+[[Lillian Pentecost]], [[Udit Gupta]], [[Elisa Ngan]], [[Johanna Beyer]], [[Gu-Yeon Wei]], [[David Brooks]], [[Michael Behrisch]]
+[[2019 IEEE/ACM International Workshop on Programming and Performance Visualization Tools (ProTools)]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/11/12
+[[Deep learning for computer architects]]
+[[Brandon Reagen]], [[Robert Adolf]], [[Paul Whatmough]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[1]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/11
+[[A binary-activation, multi-level weight RNN and training algorithm for processing-in-memory inference with eNVM]]
+[[Siming Ma]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/12
+[[Maxnvm: Maximizing dnn storage density and inference efficiency with sparse encoding and error mitigation]]
+[[Lillian Pentecost]], [[Marco Donato]], [[Brandon Reagen]], [[Udit Gupta]], [[Siming Ma]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/10/4
+[[Memti: Optimizing on-chip nonvolatile storage for visual multitask inference at the edge]]
+[[Marco Donato]], [[Lillian Pentecost]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/9/23
+[[Masr: A modular accelerator for sparse rnns]]
+[[Udit Gupta]], [[Brandon Reagen]], [[Lillian Pentecost]], [[Marco Donato]], [[Thierry Tambe]], [[Alexander M Rush]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[PACT]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/9/16
+[[Determining optimal coherency interface for many-accelerator socs using bayesian optimization]]
+[[Kshitij Bhardwaj]], [[Marton Havasi]], [[Yuan Yao]], [[David M Brooks]], [[José Miguel Hernández Lobato]], [[Gu-Yeon Wei]]
+[[IEEE Computer Architecture Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/9/8
+[[Accelerating Bayesian inference on structured graphs using parallel Gibbs sampling]]
+[[Glenn G Ko]], [[Yuji Chai]], [[Rob A Rutenbar]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[2019 29th international conference on field programmable logic and applications (fpl)]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/7/24
+[[Benchmarking TPU, GPU, and CPU platforms for deep learning]]
+[[Yu Emma Wang]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/7/22
+[[Fully-CMOS multi-level embedded non-volatile memory devices with reliable long-term retention for efficient storage of neural network weights]]
+[[Siming Ma]], [[Marco Donato]], [[Sae Kyu Lee]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[IEEE Electron Device Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/7
+[[Benchmarking tpu, gpu, and cpu platforms for deep learning]]
+[[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/6/9
+[[A 16nm 25mm2 SoC with a 54.5x Flexibility-Efficiency Range from Dual-Core Arm Cortex-A53 to eFPGA and Cache-Coherent Accelerators]]
+[[Paul N Whatmough]], [[Sae Kyu Lee]], [[Marco Donato]], [[Hsea-Ching Hsueh]], [[Sam Xi]], [[Udit Gupta]], [[Lillian Pentecost]], [[Glenn G Ko]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/5/15
+[[A 16-nm always-on DNN processor with adaptive clocking and multi-cycle banked SRAMs]]
+[[Sae Kyu Lee]], [[Paul N Whatmough]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/4/28
+[[Flexgibbs: Reconfigurable parallel gibbs sampling accelerator for structured graphs]]
+[[Glenn G Ko]], [[Yuji Chai]], [[Rob A Rutenbar]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[FCCM]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/3/24
+[[Demystifying bayesian inference workloads]]
+[[Yu Emma Wang]], [[Yuhao Zhu]], [[Glenn G Ko]], [[Brandon Reagen]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ISPASS]]
+-------------------------------------------------------------------------------------------------------------------------
+2019/1/8
+[[Predicting new workload or CPU performance by analyzing public datasets]]
+[[Yu Wang]], [[Victor Lee]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ACM Transactions on Architecture and Code Optimization (TACO)]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/9/3
+[[A wide dynamic range sparse FC-DNN processor with multi-cycle banked SRAM read and adaptive clocking in 16nm FinFET]]
+[[Sae Kyu Lee]], [[Paul N Whatmough]], [[Niamh Mulholland]], [[Patrick Hansen]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ESSCIRC]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/7/26
+[[Assisting high-level synthesis improve spmv benchmark through dynamic dependence analysis]]
+[[Rafael Garibotti]], [[Brandon Reagen]], [[Yakun Sophia Shao]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[IEEE Transactions on Circuits and Systems II: Express Briefs]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/7/3
+[[Weightless: Lossy weight encoding for deep neural network compression]]
+[[Brandon Reagan]], [[Udit Gupta]], [[Bob Adolf]], [[Michael Mitzenmacher]], [[Alexander Rush]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[International Conference on Machine Learning]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/6/24
+[[Ares: A framework for quantifying the resilience of deep neural networks]]
+[[Brandon Reagen]], [[Udit Gupta]], [[Lillian Pentecost]], [[Paul Whatmough]], [[Sae Kyu Lee]], [[Niamh Mulholland]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Proceedings of the 55th Annual Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/6/24
+[[On-chip deep neural network storage with multi-level eNVM]]
+[[Marco Donato]], [[Brandon Reagen]], [[Lillian Pentecost]], [[Udit Gupta]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Proceedings of the 55th Annual Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/6/18
+[[DNN engine: A 28-nm timing-error tolerant sparse deep neural network processor for IoT applications]]
+[[Paul N Whatmough]], [[Sae Kyu Lee]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2018/2/15
+[[Cloud no longer a silver bullet, edge to the rescue]]
+[[Yuhao Zhu]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[arXiv]]
+-------------------------------------------------------------------------------------------------------------------------
+2018
+[[Compressing deep neural networks with probabilistic data structures]]
+[[Brandon Reagen]], [[Udit Gupta]], [[Robert Adolf]], [[Michael M Mitzenmacher]], [[Alexander M Rush]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[SysML Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/11/27
+[[Automatically accelerating non-numerical programs by architecture-compiler co-design]]
+[[Simone Campanoni]], [[Kevin Brownell]], [[Svilen Kanev]], [[Timothy M Jones]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Communications of the ACM]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/11/5
+[[Applications of deep neural networks for ultra low power IoT]]
+[[Sreela Kodali]], [[Patrick Hansen]], [[Niamh Mulholland]], [[Paul Whatmough]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ICCD]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/11/5
+[[Very low voltage (VLV) design]]
+[[Ramon Bertran]], [[Pradip Bose]], [[David Brooks]], [[Jeff Burns]], [[Alper Buyuktosunoglu]], [[Nandhini Chandramoorthy]], [[Eric Cheng]], [[Martin Cochet]], [[Schuyler Eldridge]], [[Daniel Friedman]], [[Hans Jacobson]], [[Rajiv Joshi]], [[Subhasish Mitra]], [[Robert Montoye]], [[Arun Paidimarri]], [[Pritish Parida]], [[Kevin Skadron]], [[Mircea Stan]], [[Karthik Swaminathan]], [[Augusto Vega]], [[Swagath Venkataramani]], [[Christos Vezyrtzis]], [[Gu-Yeon Wei]], [[John-David Wellman]], [[Matthew Ziegler]]
+[[ICCD]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/10/29
+[[Sub-uJ deep neural networks for embedded applications]]
+[[Paul N Whatmough]], [[Sae Kyu Lee]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[2017 51st Asilomar Conference on Signals, Systems, and Computers]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/10/5
+[[An area-efficient 8-bit single-ended ADC with extended input voltage range]]
+[[Simon Chaput]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[IEEE Transactions on Circuits and Systems II: Express Briefs]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/8/22
+[[Deep learning for computer architects]]
+[[Brandon Reagen]], [[Robert Adolf]], [[Paul Whatmough]], [[Gu-Yeon Wei]], [[David Brooks]], [[Margaret Martonosi]]
+[[Morgan & Claypool]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/8/6
+[[Methods and infrastructure in the era of accelerator-centric architectures]]
+[[Brandon Reagen]], [[Yakun Sophia Shao]], [[Sam Likun Xi]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[MWSCAS]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/7/24
+[[A case for efficient accelerator design space exploration via bayesian optimization]]
+[[Brandon Reagen]], [[José Miguel Hernández-Lobato]], [[Robert Adolf]], [[Michael Gelbart]], [[Paul Whatmough]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/18
+[[Ivory: Early-stage design space exploration tool for integrated voltage regulators]]
+[[An Zou]], [[Jingwen Leng]], [[Yazhou Zu]], [[Tao Tong]], [[Vijay Janapa Reddi]], [[David Brooks]], [[Gu-Yeon Wei]], [[Xuan Zhang]]
+[[Proceedings of the 54th Annual Design Automation Conference 2017]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/6/12
+[[A fully integrated battery-powered system-on-chip in 40-nm CMOS for closed-loop control of insect-scale pico-aerial vehicle]]
+[[Xuan Zhang]], [[Mario Lok]], [[Tao Tong]], [[Sae Kyu Lee]], [[Brandon Reagen]], [[Simon Chaput]], [[Pierre-Emile J Duhamel]], [[Robert J Wood]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/5/28
+[[Using dynamic dependence analysis to improve the quality of high-level synthesis designs]]
+[[Rafael Garibotti]], [[Brandon Reagen]], [[Yakun Sophia Shao]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/5/15
+[[A low mass power electronics unit to drive piezoelectric actuators for flying microrobots]]
+[[Mario Lok]], [[Elizabeth Farrell Helbling]], [[Xuan Zhang]], [[Robert Wood]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[IEEE Transactions on Power Electronics]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/4/4
+[[Mallacc: Accelerating memory allocation]]
+[[Svilen Kanev]], [[Sam Likun Xi]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ACM SIGPLAN Notices]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/2/5
+[[14.3 A 28nm SoC with a 1.2 GHz 568nJ/prediction sparse deep-neural-network engine with> 0.1 timing error rate tolerance for IoT applications]]
+[[Paul N Whatmough]], [[Sae Kyu Lee]], [[Hyunkwang Lee]], [[Saketh Rama]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/2/5
+[[21.5 A 3-to-5V input 100Vppoutput 57.7mW 0.42% THD+N highly integrated piezoelectric actuator driver]]
+[[Simon Chaput]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[ISSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[Neural Network Accelerator Optimization: A Case Study]]
+[[Brandon Reagen]], [[Robert Adolf]], [[Paul Whatmough]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Deep Learning for Computer Architects]]
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[Foundations of Deep Learning]]
+[[Brandon Reagen]], [[Robert Adolf]], [[Paul Whatmough]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Deep Learning for Computer Architects]]
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[A Literature Survey and Review]]
+[[Brandon Reagen]], [[Robert Adolf]], [[Paul Whatmough]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Deep Learning for Computer Architects]]
+-------------------------------------------------------------------------------------------------------------------------
+2017
+[[Methods and Models]]
+[[Brandon Reagen]], [[Robert Adolf]], [[Paul Whatmough]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Deep Learning for Computer Architects]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/1/1
+[[Cognitive computing safety: the new horizon for reliability/the design and evolution of deep learning workloads]]
+[[Yuhao Zhu]], [[Vijay Janapa Reddi]], [[Robert Adolf]], [[Saketh Rama]], [[Brandon Reagen]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2017/1/1
+[[The Design and Evolution of Deep Learning Workloads]]
+[[Robert Adolf]], [[Saketh Rama]], [[Brandon Reagen]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/12/19
+[[A 16-core voltage-stacked system with adaptive clocking and an integrated switched-capacitor dc–dc converter]]
+[[Sae Kyu Lee]], [[Tao Tong]], [[Xuan Zhang]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/10/15
+[[Co-designing accelerators and SoC interfaces using gem5-Aladdin]]
+[[Yakun Sophia Shao]], [[Sam Likun Xi]], [[Vijayalakshmi Srinivasan]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/9/25
+[[Fathom: Reference workloads for modern deep learning methods]]
+[[Robert Adolf]], [[Saketh Rama]], [[Brandon Reagen]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[IISWC]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/7/19
+[[A fully integrated reconfigurable switched-capacitor DC-DC converter with four stacked output channels for voltage stacking applications]]
+[[Tao Tong]], [[Sae Kyu Lee]], [[Xuan Zhang]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/6/18
+[[Minerva: Enabling low-power, highly-accurate deep neural network accelerators]]
+[[Brandon Reagen]], [[Paul Whatmough]], [[Robert Adolf]], [[Saketh Rama]], [[Hyunkwang Lee]], [[Sae Kyu Lee]], [[José Miguel Hernández-Lobato]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ACM SIGARCH Computer Architecture News]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/5/25
+[[Profiling a warehouse-scale computer]]
+[[Svilen Kanev]], [[Juan Pablo Darago]], [[Kim Hazelwood]], [[Parthasarathy Ranganathan]], [[Tipp Moseley]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2016/4/13
+[[Multilayer laminated piezoelectric bending actuators: design and manufacturing for optimum power density and efficiency]]
+[[Noah T Jafferis]], [[Mario Lok]], [[Nastasia Winey]], [[Gu-Yeon Wei]], [[Robert J Wood]]
+[[Smart Materials and Structures]]
+-------------------------------------------------------------------------------------------------------------------------
+2016
+[[Designing neural network hardware accelerators with decoupled objective evaluations]]
+[[José Miguel Hernández-Lobato]], [[Michael A Gelbart]], [[Brandon Reagen]], [[Robert Adolf]], [[Daniel Hernández-Lobato]], [[Paul N Whatmough]], [[David Brooks]], [[Gu-Yeon Wei]], [[Ryan P Adams]]
+[[NIPS workshop on Bayesian Optimization]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/11
+[[A 7.5 GS/s flash ADC and a 10.24 GS/s time-interleaved ADC for backplane receivers in 65 nm CMOS]]
+[[Hayun Chung]], [[Zeynep Toprak Deniz]], [[Alexander Rylyakov]], [[John Bulzacchelli]], [[Daniel Friedman]], [[Gu-Yeon Wei]]
+[[Analog Integrated Circuits and Signal Processing]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/9/28
+[[A power electronics unit to drive piezoelectric actuators for flying microrobots]]
+[[Mario Lok]], [[Xuan Zhang]], [[Elizabeth Farrell Helbling]], [[Robert Wood]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/6/17
+[[A 16-core voltage-stacked system with an integrated switched-capacitor DC-DC converter]]
+[[Sae Kyu Lee]], [[Tao Tong]], [[Xuan Zhang]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/6/17
+[[A multi-chip system optimized for insect-scale flapping-wing robots]]
+[[Xuan Zhang]], [[Mario Lok]], [[Tao Tong]], [[Simon Chaput]], [[Sae Kyu Lee]], [[Brandon Reagen]], [[Hyunkwang Lee]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/6/13
+[[Unified Cache: A Case for Low-Latency Communication]]
+[[Khalid Al-Hawaj]], [[Simone Campanoni]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[3rd International Workshop on Parallelism in Mobile Platforms (PRISM). Portland, OR, USA]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/6/13
+[[Profiling a warehouse-scale computer]]
+[[Svilen Kanev]], [[Juan Pablo Darago]], [[Kim Hazelwood]], [[Parthasarathy Ranganathan]], [[Tipp Moseley]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/5/13
+[[The aladdin approach to accelerator design and modeling]]
+[[Yakun Sophia Shao]], [[Brandon Reagen]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/2/7
+[[Quantifying sources of error in McPAT and potential impacts on architectural studies]]
+[[Sam Likun Xi]], [[Hans Jacobson]], [[Pradip Bose]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[HPCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/2/7
+[[HELIX-UP: Relaxing program semantics to unleash parallelization]]
+[[Simone Campanoni]], [[Glenn Holloway]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[2015 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)]]
+-------------------------------------------------------------------------------------------------------------------------
+2015/2
+[[Toward cache-friendly hardware accelerators]]
+[[Yakun Sophia Shao]], [[Sam Xi]], [[Viji Srinivasan]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[HPCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/10/26
+[[MachSuite: Benchmarks for accelerator design and customized architectures]]
+[[Brandon Reagen]], [[Robert Adolf]], [[Yakun Sophia Shao]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[IISWC]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/10/26
+[[Tradeoffs between power management and tail latency in warehouse-scale applications]]
+[[Svilen Kanev]], [[Kim Hazelwood]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[IISWC]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/10/19
+[[Multi-accelerator system development with the shrinkfit acceleration framework]]
+[[Michael J Lyons]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ICCD]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/6/14
+[[Breaking Cyclic-Multithreading Parallelization with XML Parsing]]
+[[Simone Campanoni]], [[Svilen Kanev]], [[Kevin Brownell]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[structure]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/6/14
+[[Aladdin: A pre-rtl, power-performance accelerator simulator enabling large design space exploration of customized architectures]]
+[[Yakun Sophia Shao]], [[Brandon Reagen]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ACM SIGARCH Computer Architecture News]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/6/14
+[[HELIX-RC: An architecture-compiler co-design for automatic parallelization of irregular programs]]
+[[Simone Campanoni]], [[Kevin Brownell]], [[Svilen Kanev]], [[Timothy M Jones]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ISCA]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/4/1
+[[Cross-Layer Modeling Framework for Energy-Efficient Resilience]]
+[[Pradip Bose]], [[David Brooks]], [[Subhasish Mitra]], [[Karthick Rajamani]], [[Mircea Stan]], [[Kevin Skadron]], [[Gu-Yeon Wei]], [[IBM TJ Watson Research Center Yorktown Heights United States]]
+[[0004]]
+-------------------------------------------------------------------------------------------------------------------------
+2014/3/31
+[[Evaluating adaptive clocking for supply-noise resilience in battery-powered aerial microrobotic system-on-chip]]
+[[Xuan Zhang]], [[Tao Tong]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[IEEE Transactions on Circuits and Systems I: Regular Papers]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/11/11
+[[A 20μW 10MHz relaxation oscillator with adaptive bias and fast self-calibration in 40nm CMOS for micro-aerial robotics application]]
+[[Xuan Zhang]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[A-SSCC]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/9/22
+[[Supply-noise resilient adaptive clocking for battery-powered aerial microrobotic system-on-chip in 40nm cmos]]
+[[Xuan Zhang]], [[Tao Tong]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Proceedings of the IEEE 2013 Custom Integrated Circuits Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/9/22
+[[A fully integrated battery-connected switched-capacitor 4: 1 voltage regulator with 70% peak efficiency using bottom-plate charge recycling]]
+[[Tao Tong]], [[Xuan Zhang]], [[Wonyoung Kim]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Proceedings of the IEEE 2013 Custom Integrated Circuits Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/9/15
+[[Design and analysis of an integrated driver for piezoelectric actuators]]
+[[Mario Lok]], [[David Brooks]], [[Robert Wood]], [[Gu-Yeon Wei]]
+[[2013 IEEE Energy Conversion Congress and Exposition]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/9/4
+[[Characterizing and evaluating voltage noise in multi-core near-threshold processors]]
+[[Xuan Zhang]], [[Tao Tong]], [[Svilen Kanev]], [[Sae Kyu Lee]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/9/4
+[[Quantifying acceleration: Power/performance trade-offs of application kernels in hardware]]
+[[Brandon Reagen]], [[Yakun Sophia Shao]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ISLPED]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/8/15
+[[ADC-based backplane receiver design-space exploration]]
+[[Hayun Chung]], [[Gu-Yeon Wei]]
+[[IEEE Transactions on Very Large Scale Integration (VLSI) Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2013/3/1
+[[Flight of the robobees]]
+[[Robert Wood]], [[Radhika Nagpal]], [[Gu-Yeon Wei]]
+[[Scientific American]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/7/30
+[[XIOSim: power-performance modeling of mobile x86 cores]]
+[[Svilen Kanev]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Proceedings of the 2012 ACM/IEEE international symposium on Low power electronics and design]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/7/30
+[[Evaluation of voltage stacking for near-threshold multicore computing]]
+[[Sae Kyu Lee]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[Proceedings of the 2012 ACM/IEEE international symposium on Low power electronics and design]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/6/26
+[[HELIX: Making the extraction of thread-level parallelism mainstream]]
+[[Simone Campanoni]], [[Timothy M Jones]], [[Glenn Holloway]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Micro]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/6/3
+[[The helix project: Overview and directions]]
+[[Simone Campanoni]], [[Timothy Jones]], [[Glenn Holloway]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Proceedings of the 49th Annual Design Automation Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/5/15
+[[Shrink-fit: A framework for flexible accelerator sizing]]
+[[Michael Lyons]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[IEEE Computer Architecture Letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/4/1
+[[Driving high voltage piezoelectric actuators in microrobotic applications]]
+[[Michael Karpelson]], [[Gu-Yeon Wei]], [[Robert J Wood]]
+[[Sensors and actuators A: Physical]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/3/31
+[[HELIX]]
+[[Simone Campanoni]], [[Timothy Jones]], [[Glenn Holloway]], [[Vijay Janapa Reddi]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Proceedings of the Tenth International Symposium on Code Generation and Optimization]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/3/31
+[[HELIX: Automatic parallelization of irregular programs for chip multiprocessing]]
+[[Simone Campanoni]], [[Timothy Jones]], [[Glenn Holloway]], [[Vijay Janapa Reddi]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[Proceedings of the Tenth International Symposium on Code Generation and Optimization]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/1/26
+[[The accelerator store: A shared memory framework for accelerator-based systems]]
+[[Michael J Lyons]], [[Mark Hempstead]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[ACM Transactions on Architecture and Code Optimization (TACO)]]
+-------------------------------------------------------------------------------------------------------------------------
+2012/1/5
+[[Simulated-annealing-based adaptive equaliser for on-die variation compensation]]
+[[H Chung]], [[GY Wei]]
+[[Electronics letters]]
+-------------------------------------------------------------------------------------------------------------------------
+2012
+[[The HELIX project]]
+[[Simone Campanoni]], [[Timothy Mark Jones]], [[Glenn H Holloway]], [[Gu-Yeon Wei]], [[David M Brooks]]
+[[DAC]]
+-------------------------------------------------------------------------------------------------------------------------
+2012
+[[The accelerator store]]
+[[Michael Lyons]], [[Mark Hempstead]], [[Gu-Yeon Wei]], [[David M Brooks]]
+[[ACM Transactions on Architecture. and Code Optimization]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/11/18
+[[A fully-integrated 3-level DC-DC converter for nanosecond-scale DVFS]]
+[[Wonyoung Kim]], [[David Brooks]], [[Gu-Yeon Wei]]
+[[JSSC]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/9/25
+[[Hardware in the loop for optical flow sensing in a robotic bee]]
+[[Pierre-Emile Duhamel]], [[Judson Porter]], [[Benjamin Finio]], [[Geoffrey Barrows]], [[David Brooks]], [[Gu-Yeon Wei]], [[Robert Wood]]
+[[2011 IEEE/RSJ International Conference on Intelligent Robots and Systems]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/9/19
+[[Area efficient phase calibration of a 1.6 GHz multiphase DLL]]
+[[Ankur Agrawal]], [[Pavan Kumar Hanumolu]], [[Gu-Yeon Wei]]
+[[CICC]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/8/7
+[[Design considerations for ADC-based backplane receivers]]
+[[Hayun Chung]], [[Gu-Yeon Wei]]
+[[MWSCAS]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/6/15
+[[Low power control IC for efficient high-voltage piezoelectric driving in a flying robotic insect]]
+[[Michael Karpelson]], [[Robert J Wood]], [[Gu-Yeon Wei]]
+[[VLSI]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/3/6
+[[Design and fabrication of ultralight high-voltage power circuits for flapping-wing robotic insects]]
+[[Michael Karpelson]], [[John P Whitney]], [[Gu-Yeon Wei]], [[Robert J Wood]]
+[[2011 Twenty-Sixth Annual IEEE Applied Power Electronics Conference and Exposition (APEC)]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/2/20
+[[A fully-integrated 3-level DC/DC converter for nanosecond-scale DVS with fast shunt regulation]]
+[[Wonyoung Kim]], [[David M Brooks]], [[Gu-Yeon Wei]]
+[[2011 IEEE International Solid-State Circuits Conference]]
+-------------------------------------------------------------------------------------------------------------------------
+2011/2/12
+[[Achieving uniform performance and maximizing throughput in the presence of heterogeneity]]
+[[Krishna K Rangan]], [[Michael D Powell]], [[Gu-Yeon Wei]], [[David Brooks]]
+[[2011 IEEE 17th International Symposium on High Performance Computer Architecture]]
+-------------------------------------------------------------------------------------------------------------------------
